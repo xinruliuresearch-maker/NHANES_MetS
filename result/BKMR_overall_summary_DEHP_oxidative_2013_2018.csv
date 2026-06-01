@@ -1,0 +1,5 @@
+mixture_name,outcome,outcome_label,n_bkmr,iter,max_n_per_model,est_at_75,est_at_25,high_vs_low_difference,direction
+DEHP_oxidative,HbA1c,HbA1c,800,3000,800,0.04071528315701037,-0.06489506992397547,0.10561035308098583,Positive overall mixture pattern
+DEHP_oxidative,TyG_index,TyG index,800,3000,800,0.03874610836645653,-0.0350691157058801,0.07381522407233664,Positive overall mixture pattern
+DEHP_oxidative,ln_HOMA_IR,ln(HOMA-IR),800,3000,800,0.05823042131865544,-0.06050800033506958,0.11873842165372503,Positive overall mixture pattern
+DEHP_oxidative,ln_TG_HDL_C,ln(TG/HDL-C),800,3000,800,0.02832935877220498,-0.006997253135670942,0.03532661190787592,Positive overall mixture pattern

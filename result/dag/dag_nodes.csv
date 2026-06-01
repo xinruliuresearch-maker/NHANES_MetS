@@ -1,0 +1,18 @@
+node,label,role,description
+DEHP,DEHP exposure,Exposure,"Urinary DEHP metabolites, Sigma DEHP, and oxidative metabolite profile"
+MetabolicOutcome,Metabolic outcomes,Outcome,"HOMA-IR, HbA1c, obesity-related outcomes"
+Age,Age,Confounder,Age affects exposure behavior and metabolic risk
+Sex,Sex,Confounder/effect modifier,"Sex affects exposure patterns, metabolism, and insulin resistance"
+RaceEthnicity,Race/ethnicity,Confounder,"Race/ethnicity relates to socioeconomic factors, exposure, and metabolic risk"
+SES,Socioeconomic status,Confounder,Income and education influence consumer product exposure and metabolic health
+Diet,Dietary intake,Confounder,Energy intake and food packaging may influence exposure and metabolic outcomes
+PhysicalActivity,Physical activity,Confounder,Physical activity affects obesity and insulin resistance; may relate to lifestyle exposure
+Smoking,Smoking,Confounder,Smoking relates to exposure sources and metabolic risk
+Alcohol,Alcohol,Confounder,Alcohol relates to liver metabolism and metabolic outcomes
+UrineDilution,Urine dilution,Measurement factor,Urinary creatinine and urine concentration affect biomarker measurement
+KidneyFunction,Kidney function,Potential confounder/selection factor,Renal function affects urinary biomarker excretion and metabolic risk
+Inflammation,Inflammation,Potential mediator/marker,Inflammatory markers may lie on pathway from exposure to insulin resistance
+LiverMetabolism,Liver metabolism,Potential mediator/marker,Liver enzymes and fatty liver tendency may lie on metabolic pathway
+BMI,Adiposity,Potential mediator/collider depending on model,BMI may mediate exposure-metabolic dysfunction pathway and also reflect outcome state
+Medication,Medication/diagnosis,Potential collider/confounder,Diabetes diagnosis and medication can affect HbA1c and exposure behavior
+Cycle,NHANES cycle,Design/time factor,"Captures temporal changes in exposure, laboratory methods, and population structure"

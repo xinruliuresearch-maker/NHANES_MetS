@@ -1,0 +1,29 @@
+"from","to","edge_type","evidence_level","edge_note","edge_weight"
+"exp_total","mech_ppar","CTD mechanism evidence","High","CTD enrichment q=<0.001",1.18278516291602
+"exp_total","mech_insulin","CTD mechanism evidence","High","CTD enrichment q=<0.001",1.18278516291602
+"exp_total","mech_oxidative","CTD mechanism evidence","High","CTD enrichment q=<0.001",1.18278516291602
+"exp_total","mech_inflammation","CTD mechanism evidence","High","CTD enrichment q=<0.001",1.11636983334592
+"exp_total","mech_lipid","CTD mechanism evidence","High","CTD enrichment q=<0.001",1.09860919330211
+"exp_total","mech_mito_er","CTD mechanism evidence","High","CTD enrichment q=<0.001",0.891072399421545
+"exp_profile","out_homa","NHANES epidemiologic association","Strong","Most consistent intermediate metabolic association",1.3
+"exp_profile","out_hba1c","NHANES epidemiologic association","Supportive","Positive glycemic association, generally weaker than HOMA-IR",1
+"exp_profile","out_tyg","NHANES epidemiologic association","Supportive","Extension to lipid-insulin metabolic marker",0.95
+"exp_profile","out_tghdl","NHANES epidemiologic association","Supportive","Extension to dyslipidemia marker",0.95
+"exp_total","out_homa","NHANES epidemiologic association","Supportive","Total burden positively associated with insulin resistance",0.95
+"exp_total","out_hba1c","NHANES epidemiologic association","Supportive","Total burden positively associated with glycemic marker",0.9
+"exp_total","out_mortality","Linked mortality extension","Strong","ln(Sigma DEHP) associated with all-cause mortality; oxidative profile not positive",1.2
+"exp_profile","mech_oxidative","Mechanistic interpretation","Supportive","Oxidative metabolite balance plausibly reflects metabolic processing and oxidative burden",0.9
+"exp_profile","mech_inflammation","Mechanistic interpretation","Supportive","Profile associations align with inflammatory CTD evidence",0.75
+"exp_profile","mech_mito_er","Mechanistic interpretation","Exploratory","Mitochondrial/ER stress as plausible intermediate mechanism",0.65
+"mech_ppar","out_homa","Biological framework link","Supportive","PPAR/adipogenesis may influence insulin sensitivity",0.65
+"mech_ppar","out_tyg","Biological framework link","Supportive","PPAR signaling links lipid and glucose metabolism",0.65
+"mech_insulin","out_homa","Biological framework link","Supportive","Direct insulin-signaling relevance",0.75
+"mech_insulin","out_hba1c","Biological framework link","Supportive","Glucose regulation relevance",0.65
+"mech_lipid","out_tyg","Biological framework link","Supportive","Triglyceride-glucose marker relevance",0.7
+"mech_lipid","out_tghdl","Biological framework link","Supportive","Lipid ratio relevance",0.7
+"mech_oxidative","out_homa","Biological framework link","Supportive","Oxidative stress may impair insulin signaling",0.7
+"mech_oxidative","out_hba1c","Biological framework link","Supportive","Oxidative stress and glycemic dysfunction",0.6
+"mech_oxidative","out_tyg","Biological framework link","Supportive","Oxidative stress and metabolic dysregulation",0.6
+"mech_inflammation","out_homa","Biological framework link","Supportive","Inflammatory signaling and insulin resistance",0.65
+"mech_inflammation","out_hba1c","Biological framework link","Supportive","Inflammation and glycemic regulation",0.55
+"mech_mito_er","out_homa","Biological framework link","Supportive","Mitochondrial/ER stress and insulin resistance",0.6

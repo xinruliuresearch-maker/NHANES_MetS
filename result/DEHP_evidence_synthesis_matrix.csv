@@ -1,0 +1,73 @@
+"analysis_module","evidence_domain","evidence_level","cell_text","interpretation","evidence_score"
+"Main survey-weighted models","HOMA-IR / insulin resistance","Strong","Strong","Consistent positive association with insulin resistance marker",6
+"Main survey-weighted models","HbA1c / glycemic marker","Supportive","Supportive","Positive glycemic association, generally weaker than HOMA-IR",5
+"Main survey-weighted models","TyG / lipid-insulin marker","N/A","","",0
+"Main survey-weighted models","TG/HDL-C / dyslipidemia marker","N/A","","",0
+"Main survey-weighted models","Long-term mortality relevance","N/A","","",0
+"Main survey-weighted models","Mechanistic plausibility","N/A","","",0
+"Quartile and RCS dose-response","HOMA-IR / insulin resistance","Strong","Strong","Dose-response evidence supports non-linear/monotonic positive pattern",6
+"Quartile and RCS dose-response","HbA1c / glycemic marker","Supportive","Supportive","Dose-response evidence present but weaker than HOMA-IR",5
+"Quartile and RCS dose-response","TyG / lipid-insulin marker","N/A","","",0
+"Quartile and RCS dose-response","TG/HDL-C / dyslipidemia marker","N/A","","",0
+"Quartile and RCS dose-response","Long-term mortality relevance","N/A","","",0
+"Quartile and RCS dose-response","Mechanistic plausibility","N/A","","",0
+"Mixture models: qgcomp-like / WQS","HOMA-IR / insulin resistance","Strong","Strong","Oxidative DEHP mixture repeatedly supported",6
+"Mixture models: qgcomp-like / WQS","HbA1c / glycemic marker","Supportive","Supportive","Mixture evidence directionally consistent",5
+"Mixture models: qgcomp-like / WQS","TyG / lipid-insulin marker","Supportive","Supportive","Mixture extension supports broader metabolic disruption",5
+"Mixture models: qgcomp-like / WQS","TG/HDL-C / dyslipidemia marker","Supportive","Supportive","Mixture extension supports lipid-metabolic disruption",5
+"Mixture models: qgcomp-like / WQS","Long-term mortality relevance","N/A","","",0
+"Mixture models: qgcomp-like / WQS","Mechanistic plausibility","N/A","","",0
+"Compositional log-ratio / ILR","HOMA-IR / insulin resistance","Supportive","Supportive","Oxidative-vs-primary balance supports metabolic-processing interpretation",5
+"Compositional log-ratio / ILR","HbA1c / glycemic marker","Supportive","Supportive","Composition signal supports glycemic relevance but not as primary evidence",5
+"Compositional log-ratio / ILR","TyG / lipid-insulin marker","N/A","","",0
+"Compositional log-ratio / ILR","TG/HDL-C / dyslipidemia marker","N/A","","",0
+"Compositional log-ratio / ILR","Long-term mortality relevance","N/A","","",0
+"Compositional log-ratio / ILR","Mechanistic plausibility","N/A","","",0
+"TyG and TG/HDL-C extension","HOMA-IR / insulin resistance","N/A","","",0
+"TyG and TG/HDL-C extension","HbA1c / glycemic marker","N/A","","",0
+"TyG and TG/HDL-C extension","TyG / lipid-insulin marker","Strong","Strong","Additional metabolic marker extension is consistent with DEHP profile signal",6
+"TyG and TG/HDL-C extension","TG/HDL-C / dyslipidemia marker","Strong","Strong","Additional lipid-ratio marker extension is consistent with DEHP profile signal",6
+"TyG and TG/HDL-C extension","Long-term mortality relevance","N/A","","",0
+"TyG and TG/HDL-C extension","Mechanistic plausibility","N/A","","",0
+"Source-oriented and source-adjusted models","HOMA-IR / insulin resistance","Supportive","Supportive","DEHP associations not fully explained by measured exposure-source proxies",5
+"Source-oriented and source-adjusted models","HbA1c / glycemic marker","Supportive","Supportive","Source adjustment supports robustness but remains observational",5
+"Source-oriented and source-adjusted models","TyG / lipid-insulin marker","Supportive","Supportive","Directionally supports extended metabolic marker interpretation",5
+"Source-oriented and source-adjusted models","TG/HDL-C / dyslipidemia marker","Supportive","Supportive","Directionally supports dyslipidemia marker interpretation",5
+"Source-oriented and source-adjusted models","Long-term mortality relevance","N/A","","",0
+"Source-oriented and source-adjusted models","Mechanistic plausibility","N/A","","",0
+"Diabetes / medication exclusion","HOMA-IR / insulin resistance","Supportive","Supportive","Medication/diabetes exclusion did not remove key signal",5
+"Diabetes / medication exclusion","HbA1c / glycemic marker","Supportive","Supportive","Medication/diabetes exclusion supports robustness",5
+"Diabetes / medication exclusion","TyG / lipid-insulin marker","N/A","","",0
+"Diabetes / medication exclusion","TG/HDL-C / dyslipidemia marker","N/A","","",0
+"Diabetes / medication exclusion","Long-term mortality relevance","N/A","","",0
+"Diabetes / medication exclusion","Mechanistic plausibility","N/A","","",0
+"IPW and multiple imputation","HOMA-IR / insulin resistance","Strong","Strong","Missing-data sensitivity supports complete-case estimates",6
+"IPW and multiple imputation","HbA1c / glycemic marker","Strong","Strong","Missing-data sensitivity supports complete-case estimates",6
+"IPW and multiple imputation","TyG / lipid-insulin marker","Strong","Strong","IPW/MI results remain directionally consistent",6
+"IPW and multiple imputation","TG/HDL-C / dyslipidemia marker","Strong","Strong","IPW/MI results remain directionally consistent",6
+"IPW and multiple imputation","Long-term mortality relevance","N/A","","",0
+"IPW and multiple imputation","Mechanistic plausibility","N/A","","",0
+"BKMR exploratory mixture analysis","HOMA-IR / insulin resistance","Supportive","Supportive","Exploratory BKMR showed positive mixture-response and high PIPs for oxidative components",5
+"BKMR exploratory mixture analysis","HbA1c / glycemic marker","Supportive","Supportive","Exploratory BKMR directionally consistent",5
+"BKMR exploratory mixture analysis","TyG / lipid-insulin marker","Supportive","Supportive","Exploratory BKMR directionally consistent",5
+"BKMR exploratory mixture analysis","TG/HDL-C / dyslipidemia marker","Supportive","Supportive","Exploratory BKMR directionally consistent",5
+"BKMR exploratory mixture analysis","Long-term mortality relevance","N/A","","",0
+"BKMR exploratory mixture analysis","Mechanistic plausibility","N/A","","",0
+"Linked mortality analysis","HOMA-IR / insulin resistance","N/A","","",0
+"Linked mortality analysis","HbA1c / glycemic marker","N/A","","",0
+"Linked mortality analysis","TyG / lipid-insulin marker","N/A","","",0
+"Linked mortality analysis","TG/HDL-C / dyslipidemia marker","N/A","","",0
+"Linked mortality analysis","Long-term mortality relevance","Total-burden only","Total burden only","ln(Sigma DEHP), but not oxidative composition, was associated with all-cause mortality",4
+"Linked mortality analysis","Mechanistic plausibility","N/A","","",0
+"Negative-control / permutation analyses","HOMA-IR / insulin resistance","No falsification signal","No falsification","Adult-height negative control and permutation analyses did not suggest major spurious findings",3
+"Negative-control / permutation analyses","HbA1c / glycemic marker","No falsification signal","No falsification","Adult-height negative control and permutation analyses did not suggest major spurious findings",3
+"Negative-control / permutation analyses","TyG / lipid-insulin marker","N/A","","",0
+"Negative-control / permutation analyses","TG/HDL-C / dyslipidemia marker","N/A","","",0
+"Negative-control / permutation analyses","Long-term mortality relevance","N/A","","",0
+"Negative-control / permutation analyses","Mechanistic plausibility","N/A","","",0
+"CTD / CompTox / ToxCast mechanism triangulation","HOMA-IR / insulin resistance","Supportive","Supportive","Mechanism domains are biologically consistent with insulin resistance",5
+"CTD / CompTox / ToxCast mechanism triangulation","HbA1c / glycemic marker","Supportive","Supportive","Mechanism domains are biologically consistent with glycemic dysfunction",5
+"CTD / CompTox / ToxCast mechanism triangulation","TyG / lipid-insulin marker","Supportive","Supportive","Mechanism domains are biologically consistent with lipid-insulin disruption",5
+"CTD / CompTox / ToxCast mechanism triangulation","TG/HDL-C / dyslipidemia marker","Supportive","Supportive","Mechanism domains are biologically consistent with lipid dysregulation",5
+"CTD / CompTox / ToxCast mechanism triangulation","Long-term mortality relevance","N/A","","",0
+"CTD / CompTox / ToxCast mechanism triangulation","Mechanistic plausibility","Supportive","Supportive","CTD evidence supports PPAR/nuclear receptor, oxidative stress, inflammation, insulin/glucose, lipid metabolism, and mitochondrial/ER stress pathways",5

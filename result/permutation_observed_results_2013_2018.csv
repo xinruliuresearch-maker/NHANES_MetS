@@ -1,0 +1,5 @@
+analysis,perm_id,outcome,outcome_label,exposure,exposure_label,n,beta,se,p_value,effect
+Observed exposure,0,ln_HOMA_IR,ln(HOMA-IR),ln_Sigma_DEHP,ln(Sigma DEHP),1983,0.1068164213737446,0.02557709879678462,2.615046586978223e-4,11.272996229018917
+Observed exposure,0,ln_HOMA_IR,ln(HOMA-IR),pct_oxidative_10,%Oxidative per 10 percentage points,1984,0.21080680298804125,0.04295672198666064,3.280972798865584e-5,23.467379672948606
+Observed exposure,0,HbA1c,HbA1c,ln_Sigma_DEHP,ln(Sigma DEHP),4124,0.08824356786813228,0.024694205597838133,0.0014068219042473302,0.08824356786813228
+Observed exposure,0,HbA1c,HbA1c,pct_oxidative_10,%Oxidative per 10 percentage points,4125,0.06756372827662717,0.019897473445607872,0.0021342041420040984,0.06756372827662717

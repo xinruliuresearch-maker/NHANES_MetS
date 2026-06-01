@@ -1,0 +1,32 @@
+from,to,rationale
+Age,DEHP,"Age influences diet, consumer product use, and exposure patterns"
+Age,MetabolicOutcome,Age strongly affects insulin resistance and HbA1c
+Sex,DEHP,Sex influences product use and phthalate exposure
+Sex,MetabolicOutcome,Sex affects adiposity distribution and insulin resistance
+RaceEthnicity,SES,Race/ethnicity is associated with socioeconomic position
+RaceEthnicity,DEHP,Race/ethnicity may influence product exposure through social and environmental factors
+RaceEthnicity,MetabolicOutcome,Race/ethnicity is associated with metabolic risk
+SES,Diet,Socioeconomic status affects dietary quality and packaged food consumption
+SES,DEHP,Socioeconomic factors influence exposure sources
+SES,MetabolicOutcome,Socioeconomic status affects metabolic health
+Diet,DEHP,Packaged and processed food can contribute to DEHP exposure
+Diet,MetabolicOutcome,Energy intake and dietary composition affect metabolic outcomes
+PhysicalActivity,MetabolicOutcome,Physical activity affects insulin sensitivity and obesity
+PhysicalActivity,DEHP,Lifestyle patterns may correlate with exposure
+Smoking,DEHP,Smoking and associated behaviors may correlate with exposure
+Smoking,MetabolicOutcome,Smoking affects inflammation and metabolic risk
+Alcohol,LiverMetabolism,Alcohol affects liver enzymes
+Alcohol,MetabolicOutcome,Alcohol can influence glycemic and lipid metabolism
+UrineDilution,DEHP,Urinary concentration affects measured urinary metabolites
+KidneyFunction,DEHP,Renal function affects urinary excretion of biomarkers
+KidneyFunction,MetabolicOutcome,Kidney function is associated with metabolic disease
+DEHP,Inflammation,DEHP may be related to inflammatory responses
+DEHP,LiverMetabolism,DEHP may be related to hepatic and oxidative metabolic processes
+DEHP,BMI,DEHP may influence adiposity-related pathways
+Inflammation,MetabolicOutcome,Inflammation contributes to insulin resistance
+LiverMetabolism,MetabolicOutcome,Hepatic dysfunction and fatty liver are linked to insulin resistance
+BMI,MetabolicOutcome,Adiposity contributes to insulin resistance and HbA1c
+MetabolicOutcome,Medication,Metabolic disease diagnosis can lead to medication use
+Medication,MetabolicOutcome,Medication can alter HbA1c and metabolic biomarkers
+Cycle,DEHP,Exposure levels vary across survey cycles
+Cycle,MetabolicOutcome,Population composition and lab methods vary across cycles

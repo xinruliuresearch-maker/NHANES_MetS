@@ -1,0 +1,15 @@
+variable,weight,component,dataset,method,mixture,outcome,outcome_label
+ln_URXECP,0.48214103443639983,MECPP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,ln_HOMA_IR,ln(HOMA-IR)
+ln_URXMHH,0.2973167633914945,MEHHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,ln_HOMA_IR,ln(HOMA-IR)
+ln_URXMOH,0.21699168762362955,MEOHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,ln_HOMA_IR,ln(HOMA-IR)
+ln_URXMHP,0.0035505145484761936,MEHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,ln_HOMA_IR,ln(HOMA-IR)
+ln_URXMOH,0.38616516933295103,MEOHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,HbA1c,HbA1c
+ln_URXECP,0.3689093397228616,MECPP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,HbA1c,HbA1c
+ln_URXMHH,0.23231821313302725,MEHHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,HbA1c,HbA1c
+ln_URXMHP,0.012607277811160165,MEHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_all,HbA1c,HbA1c
+ln_URXMOH,0.4498197148530149,MEOHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_oxidative,ln_HOMA_IR,ln(HOMA-IR)
+ln_URXECP,0.3627032204108029,MECPP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_oxidative,ln_HOMA_IR,ln(HOMA-IR)
+ln_URXMHH,0.18747706473618223,MEHHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_oxidative,ln_HOMA_IR,ln(HOMA-IR)
+ln_URXECP,0.7630681344443506,MECPP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_oxidative,HbA1c,HbA1c
+ln_URXMOH,0.17781793728415468,MEOHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_oxidative,HbA1c,HbA1c
+ln_URXMHH,0.05911392827149465,MEHHP,NHANES 2013-2018,gWQS exploratory sensitivity,DEHP_oxidative,HbA1c,HbA1c

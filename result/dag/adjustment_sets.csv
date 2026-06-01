@@ -1,0 +1,6 @@
+analysis_type,recommended_adjustment,variables_in_project,reason
+Main model,"Age, sex, race/ethnicity, income, education, total energy intake, urinary creatinine, NHANES cycle","RIDAGEYR, RIAGENDR, RIDRETH3, INDFMPIR, DMDEDUC2, DR1TKCAL, ln_URXUCR, cycle","Controls major demographic, socioeconomic, dietary, urinary dilution, and temporal confounding."
+Lifestyle sensitivity model,"Main model plus smoking, alcohol, and physical activity where available","SMQ variables, ALQ variables, PAQ variables",Tests whether lifestyle factors explain the exposure-outcome association.
+Mechanism-attenuation model,"Main model plus hsCRP, WBC/NLR, GGT/ALT, eGFR, or FLI separately","ln_hsCRP, ln_WBC, ln_NLR, ln_GGT, ln_ALT, eGFR_2021, FLI","Exploratory pathway-consistency analysis, not formal mediation."
+Avoided main adjustment,Do not adjust for BMI when obesity/adiposity may be on pathway to HOMA-IR unless explicitly treated as sensitivity analysis,BMXBMI,BMI may be a mediator or collider depending on the causal question.
+Avoided main adjustment,Do not adjust for diagnosed diabetes or medication in primary model unless using sensitivity analysis,"DIQ variables, RXQ variables",Diagnosis and treatment may be downstream of metabolic status and can induce bias.

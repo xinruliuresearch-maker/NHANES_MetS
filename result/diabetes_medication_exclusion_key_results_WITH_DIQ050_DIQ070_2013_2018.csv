@@ -1,0 +1,97 @@
+sample_label,outcome_label,exposure_label,n,effect_CI,p_value_fmt,q_value_fmt,inference,same_direction_as_main,beta_ratio_vs_main,robustness_decision
+Exclude antidiabetic medication users,HbA1c,%Oxidative per 10 percentage points,3579,"0.035 (0.005, 0.065)",0.024,0.024,FDR-significant positive association,TRUE,0.5187501540212824,FDR robust positive
+Exclude diagnosed diabetes,HbA1c,%Oxidative per 10 percentage points,3531,"0.037 (0.008, 0.066)",0.015,0.019,FDR-significant positive association,TRUE,0.5438763067313014,FDR robust positive
+Exclude diagnosed diabetes or medication users,HbA1c,%Oxidative per 10 percentage points,3479,"0.033 (0.004, 0.063)",0.029,0.029,FDR-significant positive association,TRUE,0.4916478292191275,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,HbA1c,%Oxidative per 10 percentage points,3309,"0.013 (-0.011, 0.037)",0.265,0.312,Positive but not significant,TRUE,0.1977145575597108,Directionally consistent
+Full analytic sample,HbA1c,%Oxidative per 10 percentage points,4125,"0.068 (0.027, 0.108)",0.002,0.004,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,HbA1c,%Oxidative per 10 percentage points,1848,"-0.004 (-0.024, 0.016)",0.705,0.930,Negative but not significant,FALSE,-0.05488470925496891,Direction changed
+Exclude antidiabetic medication users,HbA1c,ILR oxidative-vs-primary balance,3578,"0.052 (0.011, 0.093)",0.015,0.024,FDR-significant positive association,TRUE,0.6372671085161605,FDR robust positive
+Exclude diagnosed diabetes,HbA1c,ILR oxidative-vs-primary balance,3530,"0.056 (0.016, 0.095)",0.008,0.019,FDR-significant positive association,TRUE,0.683880168705229,FDR robust positive
+Exclude diagnosed diabetes or medication users,HbA1c,ILR oxidative-vs-primary balance,3478,"0.049 (0.009, 0.089)",0.017,0.029,FDR-significant positive association,TRUE,0.6072144300495251,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,HbA1c,ILR oxidative-vs-primary balance,3308,"0.020 (-0.012, 0.052)",0.214,0.312,Positive but not significant,TRUE,0.24217246752276392,Directionally consistent
+Full analytic sample,HbA1c,ILR oxidative-vs-primary balance,4124,"0.081 (0.028, 0.135)",0.005,0.005,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,HbA1c,ILR oxidative-vs-primary balance,1847,"0.004 (-0.026, 0.035)",0.782,0.930,Positive but not significant,TRUE,0.05074104844477408,Directionally consistent
+Exclude antidiabetic medication users,HbA1c,ln[(MEHHP+MEOHP+MECPP)/MEHP],3578,"0.041 (0.006, 0.075)",0.024,0.024,FDR-significant positive association,TRUE,0.6011327306291556,FDR robust positive
+Exclude diagnosed diabetes,HbA1c,ln[(MEHHP+MEOHP+MECPP)/MEHP],3530,"0.044 (0.011, 0.078)",0.012,0.019,FDR-significant positive association,TRUE,0.6583005485128111,FDR robust positive
+Exclude diagnosed diabetes or medication users,HbA1c,ln[(MEHHP+MEOHP+MECPP)/MEHP],3478,"0.039 (0.005, 0.074)",0.026,0.029,FDR-significant positive association,TRUE,0.5844166827153966,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,HbA1c,ln[(MEHHP+MEOHP+MECPP)/MEHP],3308,"0.013 (-0.013, 0.040)",0.312,0.312,Positive but not significant,TRUE,0.19979683819760838,Directionally consistent
+Full analytic sample,HbA1c,ln[(MEHHP+MEOHP+MECPP)/MEHP],4124,"0.067 (0.023, 0.112)",0.005,0.005,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,HbA1c,ln[(MEHHP+MEOHP+MECPP)/MEHP],1847,"0.001 (-0.025, 0.028)",0.930,0.930,Positive but not significant,TRUE,0.016979438123994252,Directionally consistent
+Exclude antidiabetic medication users,HbA1c,lnΣDEHP,3578,"0.038 (0.009, 0.068)",0.013,0.024,FDR-significant positive association,TRUE,0.4327937580160424,FDR robust positive
+Exclude diagnosed diabetes,HbA1c,lnΣDEHP,3530,"0.032 (0.004, 0.059)",0.025,0.025,FDR-significant positive association,TRUE,0.36094304722552617,FDR robust positive
+Exclude diagnosed diabetes or medication users,HbA1c,lnΣDEHP,3478,"0.034 (0.006, 0.061)",0.018,0.029,FDR-significant positive association,TRUE,0.382358773781886,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,HbA1c,lnΣDEHP,3308,"0.017 (-0.005, 0.039)",0.134,0.312,Positive but not significant,TRUE,0.18765731953443626,Directionally consistent
+Full analytic sample,HbA1c,lnΣDEHP,4124,"0.088 (0.037, 0.139)",0.001,0.004,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,HbA1c,lnΣDEHP,1847,"-0.009 (-0.028, 0.010)",0.335,0.930,Negative but not significant,FALSE,-0.10103977234701852,Direction changed
+Exclude antidiabetic medication users,TyG index,%Oxidative per 10 percentage points,1700,"0.105 (0.033, 0.177)",0.006,0.009,FDR-significant positive association,TRUE,0.7966948554161196,FDR robust positive
+Exclude diagnosed diabetes,TyG index,%Oxidative per 10 percentage points,1691,"0.101 (0.030, 0.171)",0.007,0.013,FDR-significant positive association,TRUE,0.7625288602658152,FDR robust positive
+Exclude diagnosed diabetes or medication users,TyG index,%Oxidative per 10 percentage points,1660,"0.099 (0.028, 0.170)",0.008,0.015,FDR-significant positive association,TRUE,0.7518051183891266,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,TyG index,%Oxidative per 10 percentage points,1552,"0.080 (0.009, 0.152)",0.030,0.053,Nominal positive association,TRUE,0.61018820745976865,Nominal robust positive
+Full analytic sample,TyG index,%Oxidative per 10 percentage points,1970,"0.132 (0.062, 0.202)",<0.001,0.002,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,TyG index,%Oxidative per 10 percentage points,652,"0.054 (-0.059, 0.166)",0.336,0.677,Positive but not significant,TRUE,0.4076293602199547,Directionally consistent
+Exclude antidiabetic medication users,TyG index,ILR oxidative-vs-primary balance,1699,"0.140 (0.043, 0.238)",0.007,0.009,FDR-significant positive association,TRUE,1.0343424491665412,FDR robust positive
+Exclude diagnosed diabetes,TyG index,ILR oxidative-vs-primary balance,1690,"0.130 (0.034, 0.226)",0.010,0.013,FDR-significant positive association,TRUE,0.9599701250678895,FDR robust positive
+Exclude diagnosed diabetes or medication users,TyG index,ILR oxidative-vs-primary balance,1659,"0.129 (0.031, 0.227)",0.012,0.015,FDR-significant positive association,TRUE,0.9531227154487847,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,TyG index,ILR oxidative-vs-primary balance,1551,"0.105 (0.005, 0.205)",0.039,0.053,Nominal positive association,TRUE,0.7765255705986969,Nominal robust positive
+Full analytic sample,TyG index,ILR oxidative-vs-primary balance,1969,"0.135 (0.046, 0.224)",0.004,0.006,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,TyG index,ILR oxidative-vs-primary balance,651,"0.045 (-0.092, 0.181)",0.507,0.677,Positive but not significant,TRUE,0.32872313045615403,Directionally consistent
+Exclude antidiabetic medication users,TyG index,ln[(MEHHP+MEOHP+MECPP)/MEHP],1699,"0.127 (0.043, 0.210)",0.004,0.009,FDR-significant positive association,TRUE,1.030453385898497,FDR robust positive
+Exclude diagnosed diabetes,TyG index,ln[(MEHHP+MEOHP+MECPP)/MEHP],1690,"0.118 (0.035, 0.200)",0.007,0.013,FDR-significant positive association,TRUE,0.9579481402172587,FDR robust positive
+Exclude diagnosed diabetes or medication users,TyG index,ln[(MEHHP+MEOHP+MECPP)/MEHP],1659,"0.117 (0.033, 0.201)",0.008,0.015,FDR-significant positive association,TRUE,0.9541449165825029,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,TyG index,ln[(MEHHP+MEOHP+MECPP)/MEHP],1551,"0.096 (0.010, 0.182)",0.030,0.053,Nominal positive association,TRUE,0.7805578737276159,Nominal robust positive
+Full analytic sample,TyG index,ln[(MEHHP+MEOHP+MECPP)/MEHP],1969,"0.123 (0.045, 0.201)",0.003,0.006,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,TyG index,ln[(MEHHP+MEOHP+MECPP)/MEHP],651,"0.044 (-0.066, 0.154)",0.423,0.677,Positive but not significant,TRUE,0.35566272973219515,Directionally consistent
+Exclude antidiabetic medication users,TyG index,lnΣDEHP,1699,"-0.014 (-0.061, 0.033)",0.547,0.547,Negative but not significant,FALSE,-0.9928160965673416,Direction changed
+Exclude diagnosed diabetes,TyG index,lnΣDEHP,1690,"-0.018 (-0.064, 0.029)",0.447,0.447,Negative but not significant,FALSE,-1.2588458205858588,Direction changed
+Exclude diagnosed diabetes or medication users,TyG index,lnΣDEHP,1659,"-0.016 (-0.064, 0.032)",0.503,0.503,Negative but not significant,FALSE,-1.1321535984479114,Direction changed
+Exclude diagnosed/medication/biochemical diabetes,TyG index,lnΣDEHP,1551,"-0.034 (-0.082, 0.015)",0.168,0.168,Negative but not significant,FALSE,-2.3930398343709816,Direction changed
+Full analytic sample,TyG index,lnΣDEHP,1969,"0.014 (-0.034, 0.062)",0.552,0.552,Positive but not significant,TRUE,1,Reference
+Strict normoglycemia only,TyG index,lnΣDEHP,651,"-0.018 (-0.108, 0.072)",0.682,0.682,Negative but not significant,FALSE,-1.2944891234052893,Direction changed
+Exclude antidiabetic medication users,ln(HOMA-IR),%Oxidative per 10 percentage points,1715,"18.472 (7.911, 30.067)",<0.001,0.002,FDR-significant positive association,TRUE,0.804093169068996,FDR robust positive
+Exclude diagnosed diabetes,ln(HOMA-IR),%Oxidative per 10 percentage points,1707,"18.650 (7.989, 30.364)",<0.001,0.002,FDR-significant positive association,TRUE,0.8112241581561167,FDR robust positive
+Exclude diagnosed diabetes or medication users,ln(HOMA-IR),%Oxidative per 10 percentage points,1676,"18.083 (7.529, 29.672)",0.001,0.002,FDR-significant positive association,TRUE,0.788465005159668,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,ln(HOMA-IR),%Oxidative per 10 percentage points,1566,"14.462 (4.013, 25.960)",0.007,0.015,FDR-significant positive association,TRUE,0.6407417292950168,FDR robust positive
+Full analytic sample,ln(HOMA-IR),%Oxidative per 10 percentage points,1984,"23.467 (13.083, 34.806)",<0.001,<0.001,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,ln(HOMA-IR),%Oxidative per 10 percentage points,662,"6.009 (-1.279, 13.835)",0.104,0.196,Positive but not significant,TRUE,0.27682179858934763,Directionally consistent
+Exclude antidiabetic medication users,ln(HOMA-IR),ILR oxidative-vs-primary balance,1714,"16.320 (2.426, 32.099)",0.022,0.022,FDR-significant positive association,TRUE,0.9880154391160373,FDR robust positive
+Exclude diagnosed diabetes,ln(HOMA-IR),ILR oxidative-vs-primary balance,1706,"16.066 (2.137, 31.895)",0.024,0.024,FDR-significant positive association,TRUE,0.9737210489620702,FDR robust positive
+Exclude diagnosed diabetes or medication users,ln(HOMA-IR),ILR oxidative-vs-primary balance,1675,"15.932 (2.058, 31.692)",0.025,0.025,FDR-significant positive association,TRUE,0.9661556849656449,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,ln(HOMA-IR),ILR oxidative-vs-primary balance,1565,"10.544 (-2.513, 25.349)",0.113,0.113,Positive but not significant,TRUE,0.6551342732429708,Directionally consistent
+Full analytic sample,ln(HOMA-IR),ILR oxidative-vs-primary balance,1983,"16.534 (3.897, 30.707)",0.011,0.011,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,ln(HOMA-IR),ILR oxidative-vs-primary balance,661,"8.610 (-4.263, 23.215)",0.190,0.196,Positive but not significant,TRUE,0.5398140647848712,Directionally consistent
+Exclude antidiabetic medication users,ln(HOMA-IR),ln[(MEHHP+MEOHP+MECPP)/MEHP],1714,"14.616 (2.649, 27.980)",0.017,0.022,FDR-significant positive association,TRUE,0.9931869370454279,FDR robust positive
+Exclude diagnosed diabetes,ln(HOMA-IR),ln[(MEHHP+MEOHP+MECPP)/MEHP],1706,"14.285 (2.340, 27.625)",0.020,0.024,FDR-significant positive association,TRUE,0.9721124818180584,FDR robust positive
+Exclude diagnosed diabetes or medication users,ln(HOMA-IR),ln[(MEHHP+MEOHP+MECPP)/MEHP],1675,"14.266 (2.319, 27.607)",0.020,0.025,FDR-significant positive association,TRUE,0.970864320906414,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,ln(HOMA-IR),ln[(MEHHP+MEOHP+MECPP)/MEHP],1565,"9.552 (-1.759, 22.166)",0.097,0.113,Positive but not significant,TRUE,0.6641795938860056,Directionally consistent
+Full analytic sample,ln(HOMA-IR),ln[(MEHHP+MEOHP+MECPP)/MEHP],1983,"14.724 (3.881, 26.699)",0.008,0.011,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,ln(HOMA-IR),ln[(MEHHP+MEOHP+MECPP)/MEHP],661,"7.068 (-3.689, 19.027)",0.196,0.196,Positive but not significant,TRUE,0.49722821977040327,Directionally consistent
+Exclude antidiabetic medication users,ln(HOMA-IR),lnΣDEHP,1714,"8.122 (3.680, 12.754)",<0.001,0.002,FDR-significant positive association,TRUE,0.7310433023711177,FDR robust positive
+Exclude diagnosed diabetes,ln(HOMA-IR),lnΣDEHP,1706,"7.759 (3.267, 12.445)",0.001,0.002,FDR-significant positive association,TRUE,0.6995421621136061,FDR robust positive
+Exclude diagnosed diabetes or medication users,ln(HOMA-IR),lnΣDEHP,1675,"7.859 (3.365, 12.549)",0.001,0.002,FDR-significant positive association,TRUE,0.7083029549410278,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,ln(HOMA-IR),lnΣDEHP,1565,"6.733 (1.919, 11.775)",0.007,0.015,FDR-significant positive association,TRUE,0.6100262909557691,FDR robust positive
+Full analytic sample,ln(HOMA-IR),lnΣDEHP,1983,"11.273 (5.593, 17.258)",<0.001,<0.001,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,ln(HOMA-IR),lnΣDEHP,661,"6.510 (-2.611, 16.485)",0.160,0.196,Positive but not significant,TRUE,0.5904482830801826,Directionally consistent
+Exclude antidiabetic medication users,ln(TG/HDL-C),%Oxidative per 10 percentage points,1700,"11.883 (2.703, 21.885)",0.012,0.018,FDR-significant positive association,TRUE,0.8496022731853378,FDR robust positive
+Exclude diagnosed diabetes,ln(TG/HDL-C),%Oxidative per 10 percentage points,1691,"11.604 (2.490, 21.529)",0.013,0.025,FDR-significant positive association,TRUE,0.8307030400252614,FDR robust positive
+Exclude diagnosed diabetes or medication users,ln(TG/HDL-C),%Oxidative per 10 percentage points,1660,"11.419 (2.287, 21.366)",0.015,0.027,FDR-significant positive association,TRUE,0.8181167720095386,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,ln(TG/HDL-C),%Oxidative per 10 percentage points,1552,"10.203 (0.866, 20.404)",0.033,0.053,Nominal positive association,TRUE,0.735086142553268,Nominal robust positive
+Full analytic sample,ln(TG/HDL-C),%Oxidative per 10 percentage points,1970,"14.130 (5.335, 23.658)",0.002,0.009,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,ln(TG/HDL-C),%Oxidative per 10 percentage points,652,"6.624 (-6.664, 21.803)",0.332,0.718,Positive but not significant,TRUE,0.485272508367922,Directionally consistent
+Exclude antidiabetic medication users,ln(TG/HDL-C),ILR oxidative-vs-primary balance,1699,"15.735 (3.324, 29.637)",0.014,0.018,FDR-significant positive association,TRUE,1.0748408593192713,FDR robust positive
+Exclude diagnosed diabetes,ln(TG/HDL-C),ILR oxidative-vs-primary balance,1690,"14.693 (2.454, 28.395)",0.019,0.025,FDR-significant positive association,TRUE,1.008324522672267,FDR robust positive
+Exclude diagnosed diabetes or medication users,ln(TG/HDL-C),ILR oxidative-vs-primary balance,1659,"14.793 (2.380, 28.710)",0.020,0.027,FDR-significant positive association,TRUE,1.014686107518349,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,ln(TG/HDL-C),ILR oxidative-vs-primary balance,1551,"13.234 (0.625, 27.424)",0.040,0.053,Nominal positive association,TRUE,0.9141616376275439,Nominal robust positive
+Full analytic sample,ln(TG/HDL-C),ILR oxidative-vs-primary balance,1969,"14.564 (3.740, 26.516)",0.009,0.012,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,ln(TG/HDL-C),ILR oxidative-vs-primary balance,651,"5.320 (-11.234, 24.961)",0.539,0.718,Positive but not significant,TRUE,0.38121460181445527,Directionally consistent
+Exclude antidiabetic medication users,ln(TG/HDL-C),ln[(MEHHP+MEOHP+MECPP)/MEHP],1699,"14.187 (3.652, 25.794)",0.009,0.018,FDR-significant positive association,TRUE,1.072000101196493,FDR robust positive
+Exclude diagnosed diabetes,ln(TG/HDL-C),ln[(MEHHP+MEOHP+MECPP)/MEHP],1690,"13.230 (2.779, 24.745)",0.014,0.025,FDR-significant positive association,TRUE,1.004000786188635,FDR robust positive
+Exclude diagnosed diabetes or medication users,ln(TG/HDL-C),ln[(MEHHP+MEOHP+MECPP)/MEHP],1659,"13.365 (2.799, 25.018)",0.014,0.027,FDR-significant positive association,TRUE,1.0136171105295113,FDR robust positive
+Exclude diagnosed/medication/biochemical diabetes,ln(TG/HDL-C),ln[(MEHHP+MEOHP+MECPP)/MEHP],1551,"11.986 (1.208, 23.911)",0.030,0.053,Nominal positive association,TRUE,0.9146794683495794,Nominal robust positive
+Full analytic sample,ln(TG/HDL-C),ln[(MEHHP+MEOHP+MECPP)/MEHP],1969,"13.174 (3.812, 23.382)",0.007,0.012,FDR-significant positive association,TRUE,1,Reference
+Strict normoglycemia only,ln(TG/HDL-C),ln[(MEHHP+MEOHP+MECPP)/MEHP],651,"5.529 (-8.130, 21.220)",0.432,0.718,Positive but not significant,TRUE,0.43486811924033963,Directionally consistent
+Exclude antidiabetic medication users,ln(TG/HDL-C),lnΣDEHP,1699,"-1.444 (-6.810, 4.231)",0.599,0.599,Negative but not significant,FALSE,-1.342475251713806,Direction changed
+Exclude diagnosed diabetes,ln(TG/HDL-C),lnΣDEHP,1690,"-1.614 (-7.014, 4.100)",0.560,0.560,Negative but not significant,FALSE,-1.501546065285189,Direction changed
+Exclude diagnosed diabetes or medication users,ln(TG/HDL-C),lnΣDEHP,1659,"-1.590 (-7.032, 4.171)",0.569,0.569,Negative but not significant,FALSE,-1.47902672589997,Direction changed
+Exclude diagnosed/medication/biochemical diabetes,ln(TG/HDL-C),lnΣDEHP,1551,"-2.636 (-8.207, 3.274)",0.361,0.361,Negative but not significant,FALSE,-2.46548897275916,Direction changed
+Full analytic sample,ln(TG/HDL-C),lnΣDEHP,1969,"1.089 (-4.271, 6.750)",0.687,0.687,Positive but not significant,TRUE,1,Reference
+Strict normoglycemia only,ln(TG/HDL-C),lnΣDEHP,651,"-0.854 (-11.724, 11.354)",0.881,0.881,Negative but not significant,FALSE,-0.7917483443938219,Direction changed

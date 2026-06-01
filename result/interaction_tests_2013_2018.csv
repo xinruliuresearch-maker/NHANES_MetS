@@ -1,0 +1,17 @@
+priority,outcome,outcome_label,exposure,exposure_label,modifier,modifier_label,n,p_interaction,test_df,result,q_interaction,p_interaction_fmt,q_interaction_fmt,interaction_interpretation
+Primary,ln_HOMA_IR,ln(HOMA-IR),ln_Sigma_DEHP,lnΣDEHP,sex_group,Sex,1983,0.6047406924244029,1,No clear interaction,0.86790107283989,0.605,0.868,No clear interaction
+Primary,ln_HOMA_IR,ln(HOMA-IR),ln_Sigma_DEHP,lnΣDEHP,age_group,Age group,1983,0.9662032598564615,2,No clear interaction,0.9662032598564615,0.966,0.966,No clear interaction
+Primary,ln_HOMA_IR,ln(HOMA-IR),ln_Sigma_DEHP,lnΣDEHP,obesity_status,Obesity status,1967,0.7232508940332417,1,No clear interaction,0.86790107283989,0.723,0.868,No clear interaction
+Exploratory,ln_HOMA_IR,ln(HOMA-IR),ln_Sigma_DEHP,lnΣDEHP,race_group,Race/ethnicity,1983,0.12159300412105094,5,No clear interaction,0.24318600824210188,0.122,0.243,No clear interaction
+Primary,ln_HOMA_IR,ln(HOMA-IR),pct_oxidative_10,%Oxidative per 10 percentage points,sex_group,Sex,1984,0.3313345297467952,1,No clear interaction,0.86790107283989,0.331,0.868,No clear interaction
+Primary,ln_HOMA_IR,ln(HOMA-IR),pct_oxidative_10,%Oxidative per 10 percentage points,age_group,Age group,1984,0.5830318482631481,2,No clear interaction,0.86790107283989,0.583,0.868,No clear interaction
+Primary,ln_HOMA_IR,ln(HOMA-IR),pct_oxidative_10,%Oxidative per 10 percentage points,obesity_status,Obesity status,1968,0.6765364218009428,1,No clear interaction,0.86790107283989,0.677,0.868,No clear interaction
+Exploratory,ln_HOMA_IR,ln(HOMA-IR),pct_oxidative_10,%Oxidative per 10 percentage points,race_group,Race/ethnicity,1984,0.4019423213245052,5,No clear interaction,0.4019423213245052,0.402,0.402,No clear interaction
+Primary,HbA1c,HbA1c,ln_Sigma_DEHP,lnΣDEHP,sex_group,Sex,4124,0.153969810566331,1,No clear interaction,0.153969810566331,0.154,0.154,No clear interaction
+Primary,HbA1c,HbA1c,ln_Sigma_DEHP,lnΣDEHP,age_group,Age group,4124,0.023075561476659956,2,Evidence of interaction,0.10785230620788248,0.023,0.108,Nominal interaction
+Primary,HbA1c,HbA1c,ln_Sigma_DEHP,lnΣDEHP,obesity_status,Obesity status,4096,0.07047549455163687,1,Suggestive interaction,0.10785230620788248,0.070,0.108,Suggestive interaction
+Exploratory,HbA1c,HbA1c,ln_Sigma_DEHP,lnΣDEHP,race_group,Race/ethnicity,4124,0.19946202863539667,5,No clear interaction,0.19946202863539667,0.199,0.199,No clear interaction
+Primary,HbA1c,HbA1c,pct_oxidative_10,%Oxidative per 10 percentage points,sex_group,Sex,4125,0.07190153747192166,1,Suggestive interaction,0.10785230620788248,0.072,0.108,Suggestive interaction
+Primary,HbA1c,HbA1c,pct_oxidative_10,%Oxidative per 10 percentage points,age_group,Age group,4125,0.11584184866631655,2,No clear interaction,0.13901021839957986,0.116,0.139,No clear interaction
+Primary,HbA1c,HbA1c,pct_oxidative_10,%Oxidative per 10 percentage points,obesity_status,Obesity status,4097,0.04104380034027064,1,Evidence of interaction,0.10785230620788248,0.041,0.108,Nominal interaction
+Exploratory,HbA1c,HbA1c,pct_oxidative_10,%Oxidative per 10 percentage points,race_group,Race/ethnicity,4125,0.014197634843286795,5,Evidence of interaction,0.02839526968657359,0.014,0.028,FDR-significant interaction

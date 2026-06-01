@@ -1,0 +1,21 @@
+outcome_label,outcome_role,event_var,exposure_label,exposure,model_type,n,events,term,beta,se,hr,hr_low,hr_high,p_value,result,q_value,hr_CI,p_value_fmt,q_value_fmt
+All-cause mortality,Primary,death_allcause,lnΣDEHP,ln_Sigma_DEHP,continuous,2772,156,ln_Sigma_DEHP,0.37994110040134077,0.10053811026466905,1.462198463995183,1.200682356028451,1.7806744118252127,1.5741175158033032e-4,Nominal positive mortality association,6.296470063213213e-4,"1.46 (1.20, 1.78)",<0.001,<0.001
+All-cause mortality,Primary,death_allcause,%Oxidative per 10 percentage points,pct_oxidative_10,continuous,2774,156,pct_oxidative_10,-0.1889066435858876,0.1956572211956366,0.8278637894820151,0.5641767159293859,1.2147939370495109,0.33429546837600416,Inverse direction,0.33429546837600416,"0.83 (0.56, 1.21)",0.334,0.334
+All-cause mortality,Primary,death_allcause,ln[(MEHHP+MEOHP+MECPP)/MEHP],ln_oxidative_MEHP_ratio,continuous,2772,156,ln_oxidative_MEHP_ratio,-0.20178541837847616,0.1702967976691739,0.8172702803098383,0.5853408168459602,1.1410971042080873,0.2360552625910348,Inverse direction,0.33429546837600416,"0.82 (0.59, 1.14)",0.236,0.334
+All-cause mortality,Primary,death_allcause,ILR oxidative-vs-primary balance,ilr_oxidative_vs_primary,continuous,2772,156,ilr_oxidative_vs_primary,-0.1870032336159687,0.18646620253143256,0.8294410542872293,0.5755263446384109,1.1953796189283856,0.315918741695917,Inverse direction,0.33429546837600416,"0.83 (0.58, 1.20)",0.316,0.334
+Cardiovascular mortality,Exploratory,death_cvd,lnΣDEHP,ln_Sigma_DEHP,continuous,2772,49,ln_Sigma_DEHP,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Cardiovascular mortality,Exploratory,death_cvd,%Oxidative per 10 percentage points,pct_oxidative_10,continuous,2774,49,pct_oxidative_10,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Cardiovascular mortality,Exploratory,death_cvd,ln[(MEHHP+MEOHP+MECPP)/MEHP],ln_oxidative_MEHP_ratio,continuous,2772,49,ln_oxidative_MEHP_ratio,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Cardiovascular mortality,Exploratory,death_cvd,ILR oxidative-vs-primary balance,ilr_oxidative_vs_primary,continuous,2772,49,ilr_oxidative_vs_primary,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Heart-disease mortality,Exploratory,death_heart,lnΣDEHP,ln_Sigma_DEHP,continuous,2772,39,ln_Sigma_DEHP,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Heart-disease mortality,Exploratory,death_heart,%Oxidative per 10 percentage points,pct_oxidative_10,continuous,2774,39,pct_oxidative_10,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Heart-disease mortality,Exploratory,death_heart,ln[(MEHHP+MEOHP+MECPP)/MEHP],ln_oxidative_MEHP_ratio,continuous,2772,39,ln_oxidative_MEHP_ratio,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Heart-disease mortality,Exploratory,death_heart,ILR oxidative-vs-primary balance,ilr_oxidative_vs_primary,continuous,2772,39,ilr_oxidative_vs_primary,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Cancer mortality,Exploratory,death_cancer,lnΣDEHP,ln_Sigma_DEHP,continuous,2772,47,ln_Sigma_DEHP,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Cancer mortality,Exploratory,death_cancer,%Oxidative per 10 percentage points,pct_oxidative_10,continuous,2774,47,pct_oxidative_10,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Cancer mortality,Exploratory,death_cancer,ln[(MEHHP+MEOHP+MECPP)/MEHP],ln_oxidative_MEHP_ratio,continuous,2772,47,ln_oxidative_MEHP_ratio,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Cancer mortality,Exploratory,death_cancer,ILR oxidative-vs-primary balance,ilr_oxidative_vs_primary,continuous,2772,47,ilr_oxidative_vs_primary,NA,NA,NA,NA,NA,NA,Model failed,NA,NA,NA,NA
+Diabetes mortality,Exploratory,death_diabetes,lnΣDEHP,ln_Sigma_DEHP,continuous,2772,5,ln_Sigma_DEHP,NA,NA,NA,NA,NA,NA,Too few events for stable Cox model,NA,NA,NA,NA
+Diabetes mortality,Exploratory,death_diabetes,%Oxidative per 10 percentage points,pct_oxidative_10,continuous,2774,5,pct_oxidative_10,NA,NA,NA,NA,NA,NA,Too few events for stable Cox model,NA,NA,NA,NA
+Diabetes mortality,Exploratory,death_diabetes,ln[(MEHHP+MEOHP+MECPP)/MEHP],ln_oxidative_MEHP_ratio,continuous,2772,5,ln_oxidative_MEHP_ratio,NA,NA,NA,NA,NA,NA,Too few events for stable Cox model,NA,NA,NA,NA
+Diabetes mortality,Exploratory,death_diabetes,ILR oxidative-vs-primary balance,ilr_oxidative_vs_primary,continuous,2772,5,ilr_oxidative_vs_primary,NA,NA,NA,NA,NA,NA,Too few events for stable Cox model,NA,NA,NA,NA

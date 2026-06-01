@@ -1,0 +1,35 @@
+digraph DAG {
+  graph [rankdir=LR];
+  node [shape=box, style=rounded];
+  Age -> DEHP;
+  Age -> MetabolicOutcome;
+  Sex -> DEHP;
+  Sex -> MetabolicOutcome;
+  RaceEthnicity -> SES;
+  RaceEthnicity -> DEHP;
+  RaceEthnicity -> MetabolicOutcome;
+  SES -> Diet;
+  SES -> DEHP;
+  SES -> MetabolicOutcome;
+  Diet -> DEHP;
+  Diet -> MetabolicOutcome;
+  PhysicalActivity -> MetabolicOutcome;
+  PhysicalActivity -> DEHP;
+  Smoking -> DEHP;
+  Smoking -> MetabolicOutcome;
+  Alcohol -> LiverMetabolism;
+  Alcohol -> MetabolicOutcome;
+  UrineDilution -> DEHP;
+  KidneyFunction -> DEHP;
+  KidneyFunction -> MetabolicOutcome;
+  DEHP -> Inflammation;
+  DEHP -> LiverMetabolism;
+  DEHP -> BMI;
+  Inflammation -> MetabolicOutcome;
+  LiverMetabolism -> MetabolicOutcome;
+  BMI -> MetabolicOutcome;
+  MetabolicOutcome -> Medication;
+  Medication -> MetabolicOutcome;
+  Cycle -> DEHP;
+  Cycle -> MetabolicOutcome;
+}

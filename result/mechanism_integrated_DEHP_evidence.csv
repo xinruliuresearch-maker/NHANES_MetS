@@ -1,0 +1,66 @@
+chemical_label,mechanism_panel,evidence_sources,total_evidence_metric,strongest_evidence_level,top_evidence
+2-ethyl-5-carboxypentyl phthalate,Other / not mapped,CTD chemical-disease; CTD chemical-phenotype,621,High,Breast Neoplasms || 24945889
+2-ethyl-5-carboxypentyl phthalate,Other CTD gene,CTD chemical-gene,44,High,ADAM33
+2-ethyl-5-carboxypentyl phthalate,Insulin / glucose / diabetes,CTD chemical-disease,38,High,"Diabetes Mellitus, Experimental"
+2-ethyl-5-carboxypentyl phthalate,Oxidative stress,CTD chemical-disease,35,High,Pulmonary Fibrosis
+2-ethyl-5-carboxypentyl phthalate,Inflammation / immune,CTD chemical-disease,26,High,Inflammation
+2-ethyl-5-carboxypentyl phthalate,Lipid metabolism / dyslipidemia,CTD chemical-disease,16,High,Non-alcoholic Fatty Liver Disease
+2-ethyl-5-carboxypentyl phthalate,Obesity / adiposity / body weight,CTD chemical-disease,14,High,Obesity
+2-ethyl-5-carboxypentyl phthalate,Endocrine / nuclear receptor,CTD chemical-disease,3,Moderate,Thyroid Neoplasms
+2-ethyl-5-carboxypentyl phthalate,Mitochondrial / ER stress,CTD chemical-disease,2,Suggestive,Mitochondrial Diseases
+2-ethyl-5-carboxypentyl phthalate,PPAR / nuclear receptor / adipogenesis,CTD chemical-gene,2,Suggestive,PPARA
+2-ethyl-5-carboxypentyl phthalate,Inflammation / cytokine signaling,CTD chemical-gene,1,Suggestive,TNF
+2-ethyl-5-carboxypentyl phthalate,Inflammation / immune; Endocrine / nuclear receptor,CTD chemical-disease,1,Suggestive,"Thyroiditis, Autoimmune"
+Diethylhexyl Phthalate,Other / not mapped,CTD chemical-disease; CTD chemical-phenotype,22753,High,"Liver Cirrhosis, Experimental || 16038268"
+Diethylhexyl Phthalate,Other CTD gene,CTD chemical-gene,14955,High,CASP3
+Diethylhexyl Phthalate,Oxidative stress,CTD chemical-disease,1425,High,Prostatic Neoplasms
+Diethylhexyl Phthalate,Insulin / glucose / diabetes,CTD chemical-disease,731,High,"Diabetes Mellitus, Type 2"
+Diethylhexyl Phthalate,PPAR / nuclear receptor / adipogenesis,CTD chemical-gene,666,High,PPARA
+Diethylhexyl Phthalate,Obesity / adiposity / body weight,CTD chemical-disease,373,High,Obesity
+Diethylhexyl Phthalate,Lipid metabolism / dyslipidemia,CTD chemical-disease,340,High,Fatty Liver
+Diethylhexyl Phthalate,Inflammation / immune,CTD chemical-disease,298,High,Inflammation
+Diethylhexyl Phthalate,Oxidative stress / antioxidant response,CTD chemical-gene,286,High,NFE2L2
+Diethylhexyl Phthalate,Inflammation / cytokine signaling,CTD chemical-gene,187,High,TNF
+Diethylhexyl Phthalate,Insulin / glucose signaling,CTD chemical-gene,160,High,AKT1
+Diethylhexyl Phthalate,Endocrine / nuclear receptor,CTD chemical-disease,134,High,Thyroid Neoplasms
+Diethylhexyl Phthalate,Lipid metabolism / lipoprotein,CTD chemical-gene,110,High,ACOX1
+Diethylhexyl Phthalate,Mitochondrial / ER stress,CTD chemical-disease; CTD chemical-gene,75,High,PPARGC1A || Mitochondrial Diseases
+Diethylhexyl Phthalate,Inflammation / immune; Endocrine / nuclear receptor,CTD chemical-disease,2,Suggestive,"Thyroiditis, Autoimmune"
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Other / not mapped,CTD chemical-disease; CTD chemical-phenotype,817,High,Chemical and Drug Induced Liver Injury || 18570050
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Other CTD gene,CTD chemical-gene,54,High,ACTB
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Oxidative stress,CTD chemical-disease,54,High,Prostatic Neoplasms
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Insulin / glucose / diabetes,CTD chemical-disease,34,High,"Diabetes Mellitus, Experimental"
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Inflammation / immune,CTD chemical-disease,28,High,Inflammation
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Obesity / adiposity / body weight,CTD chemical-disease,17,High,Obesity
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Lipid metabolism / dyslipidemia,CTD chemical-disease,13,High,Non-alcoholic Fatty Liver Disease
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Endocrine / nuclear receptor,CTD chemical-disease,5,Moderate,"Hyperparathyroidism, Secondary"
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Inflammation / cytokine signaling,CTD chemical-gene,4,Moderate,TNF
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Mitochondrial / ER stress,CTD chemical-disease,3,Moderate,Mitochondrial Diseases
+mono(2-ethyl-5-hydroxyhexyl) phthalate,Oxidative stress / antioxidant response,CTD chemical-gene,2,Suggestive,SOD2
+mono(2-ethyl-5-hydroxyhexyl) phthalate,PPAR / nuclear receptor / adipogenesis,CTD chemical-gene,1,Suggestive,PPARA
+mono(2-ethyl-5-oxohexyl)phthalate,Other / not mapped,CTD chemical-disease; CTD chemical-phenotype,489,High,Breast Neoplasms || 18570050
+mono(2-ethyl-5-oxohexyl)phthalate,Other CTD gene,CTD chemical-gene,58,High,CYP2C9
+mono(2-ethyl-5-oxohexyl)phthalate,Insulin / glucose / diabetes,CTD chemical-disease,34,High,"Diabetes Mellitus, Type 2"
+mono(2-ethyl-5-oxohexyl)phthalate,Oxidative stress,CTD chemical-disease,27,High,Atherosclerosis
+mono(2-ethyl-5-oxohexyl)phthalate,Lipid metabolism / dyslipidemia,CTD chemical-disease,15,High,Non-alcoholic Fatty Liver Disease
+mono(2-ethyl-5-oxohexyl)phthalate,Inflammation / immune,CTD chemical-disease,14,High,Inflammation
+mono(2-ethyl-5-oxohexyl)phthalate,Obesity / adiposity / body weight,CTD chemical-disease,13,High,Obesity
+mono(2-ethyl-5-oxohexyl)phthalate,Endocrine / nuclear receptor,CTD chemical-disease,7,Moderate,Hypothyroidism
+mono(2-ethyl-5-oxohexyl)phthalate,PPAR / nuclear receptor / adipogenesis,CTD chemical-gene,5,Moderate,PPARG
+mono(2-ethyl-5-oxohexyl)phthalate,Inflammation / cytokine signaling,CTD chemical-gene,3,Moderate,CRP
+mono(2-ethyl-5-oxohexyl)phthalate,Mitochondrial / ER stress,CTD chemical-disease,1,Suggestive,Mitochondrial Diseases
+mono-(2-ethylhexyl)phthalate,Other / not mapped,CTD chemical-disease; CTD chemical-phenotype,13549,High,Breast Neoplasms || 12490136
+mono-(2-ethylhexyl)phthalate,Other CTD gene,CTD chemical-gene,5431,High,CGA
+mono-(2-ethylhexyl)phthalate,Oxidative stress,CTD chemical-disease,985,High,Prostatic Neoplasms
+mono-(2-ethylhexyl)phthalate,Insulin / glucose / diabetes,CTD chemical-disease,522,High,"Diabetes Mellitus, Experimental"
+mono-(2-ethylhexyl)phthalate,Obesity / adiposity / body weight,CTD chemical-disease,230,High,Obesity
+mono-(2-ethylhexyl)phthalate,Lipid metabolism / dyslipidemia,CTD chemical-disease,224,High,Fatty Liver
+mono-(2-ethylhexyl)phthalate,Inflammation / immune,CTD chemical-disease,205,High,Inflammation
+mono-(2-ethylhexyl)phthalate,PPAR / nuclear receptor / adipogenesis,CTD chemical-gene,91,High,PPARG
+mono-(2-ethylhexyl)phthalate,Oxidative stress / antioxidant response,CTD chemical-gene,90,High,HMOX1
+mono-(2-ethylhexyl)phthalate,Endocrine / nuclear receptor,CTD chemical-disease,82,High,Thyroid Neoplasms
+mono-(2-ethylhexyl)phthalate,Insulin / glucose signaling,CTD chemical-gene,73,High,AKT1
+mono-(2-ethylhexyl)phthalate,Inflammation / cytokine signaling,CTD chemical-gene,67,High,PTGS2
+mono-(2-ethylhexyl)phthalate,Mitochondrial / ER stress,CTD chemical-disease; CTD chemical-gene,46,High,EIF2AK3 || Mitochondrial Diseases
+mono-(2-ethylhexyl)phthalate,Lipid metabolism / lipoprotein,CTD chemical-gene,30,High,FASN
+mono-(2-ethylhexyl)phthalate,Inflammation / immune; Endocrine / nuclear receptor,CTD chemical-disease,1,Suggestive,"Thyroiditis, Autoimmune"

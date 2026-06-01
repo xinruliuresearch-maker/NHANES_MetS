@@ -1,0 +1,6 @@
+chemical_label,role,casrn,dtxsid,ctd_pattern
+DEHP,Parent compound / total burden anchor,117-81-7,DTXSID5020607,di\(2-ethylhexyl\) phthalate|bis\(2-ethylhexyl\) phthalate|diethylhexyl phthalate|DEHP|117-81-7
+MEHP,Primary monoester metabolite,4376-20-9,DTXSID2025680,mono\(2-ethylhexyl\) phthalate|mono-2-ethylhexyl phthalate|MEHP|4376-20-9
+MEHHP,Oxidative metabolite,NA,NA,MEHHP|mono\(2-ethyl-5-hydroxyhexyl\) phthalate|5-hydroxyhexyl
+MEOHP,Oxidative metabolite,NA,NA,MEOHP|mono\(2-ethyl-5-oxohexyl\) phthalate|5-oxohexyl
+MECPP,Oxidative metabolite,NA,NA,MECPP|mono\(2-ethyl-5-carboxypentyl\) phthalate|carboxypentyl
