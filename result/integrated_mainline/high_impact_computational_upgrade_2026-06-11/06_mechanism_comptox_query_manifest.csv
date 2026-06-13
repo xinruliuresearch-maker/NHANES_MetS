@@ -1,0 +1,6 @@
+﻿chemical_name,chemical_id,dtxsid,casrn,comptox_dashboard_url,role
+"1, 2-benzenedicarboxylic acid, mono (2-ethylhexyl) ester",MESH:C000628158,,,https://comptox.epa.gov/dashboard/chemical/search-results?search=1%2C%202-benzenedicarboxylic%20acid%2C%20mono%20%282-ethylhexyl%29%20ester,reproducible CompTox lookup link; batch API not required for the local CTD network.
+Diethylhexyl Phthalate,MESH:D004051,DTXSID5020607,117-81-7,https://comptox.epa.gov/dashboard/chemical/details/DTXSID5020607,reproducible CompTox lookup link; batch API not required for the local CTD network.
+mono(2-ethyl-5-hydroxyhexyl) phthalate,MESH:C479069,,,https://comptox.epa.gov/dashboard/chemical/search-results?search=mono%282-ethyl-5-hydroxyhexyl%29%20phthalate,reproducible CompTox lookup link; batch API not required for the local CTD network.
+mono(2-ethyl-5-oxohexyl)phthalate,MESH:C080276,DTXSID00865994,40321-98-0,https://comptox.epa.gov/dashboard/chemical/details/DTXSID00865994,reproducible CompTox lookup link; batch API not required for the local CTD network.
+mono-(2-ethylhexyl)phthalate,MESH:C016599,DTXSID2025680,4376-20-9,https://comptox.epa.gov/dashboard/chemical/details/DTXSID2025680,reproducible CompTox lookup link; batch API not required for the local CTD network.

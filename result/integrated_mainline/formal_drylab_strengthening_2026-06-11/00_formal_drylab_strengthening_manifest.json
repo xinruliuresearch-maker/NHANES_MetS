@@ -1,0 +1,19 @@
+{
+  "generated": "2026-06-11T14:05:23",
+  "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\formal_drylab_strengthening_2026-06-11",
+  "mirror_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\formal_drylab_strengthening_2026-06-11",
+  "modules": [
+    "R formal NHANES mixture rerun",
+    "non-glycemic MSI",
+    "CGMacros subject-disjoint prediction and cluster-robust hierarchical inference",
+    "food-matrix dual prelabel/manual annotation template/FDC item-level proxy matching",
+    "D1NAMO and Jaeb external CGM boundary validation",
+    "CompTox/ToxCast query manifest and GEO toxicogenomics candidate search"
+  ],
+  "guardrails": [
+    "No direct DEHP-to-PPGR causality is claimed.",
+    "Automated dual food-matrix prelabels are not final human annotations.",
+    "FDC matching is item-level proxy because full CGMacros ingredient text is unavailable.",
+    "D1NAMO and Jaeb are boundary validations, not one-to-one external replication."
+  ]
+}

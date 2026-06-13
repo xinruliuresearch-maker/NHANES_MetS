@@ -1,0 +1,9 @@
+﻿item,status,evidence,next_action
+Main analysis results,complete,Phase 2/3/4 key CSVs available,convert draft figures to journal style
+R survey NHANES main models,complete,phase2_R_survey_key_results.csv,migrate selected RCS/subgroup models to R survey if used in main text
+MSI robustness,complete,phase1_msi_version_correlations.csv,summarize in supplement
+Food matrix annotation,partial,dry-lab proxy available,manual photo/database validation before strong claims
+Prediction reporting,mostly complete,"TRIPOD+AI draft, model card, leakage audit",complete final checklist with manuscript line references
+External validation,boundary complete,Stanford/T1D/Jaeb summaries,"write as boundary analysis, not direct validation"
+Mechanistic validation,not included,mechanism graph only,state as limitation in no-digestion version
+Manuscript text,draft skeleton complete,phase3 outline and abstract,write full English manuscript

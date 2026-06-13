@@ -1,0 +1,22 @@
+﻿source_key,n_rows,n_columns,columns
+stage1_summary,2,10,dataset; n; n_msi_partial; n_msi_complete; mean_msi_partial; sd_msi_partial; median_msi_partial; p25_msi_partial; p75_msi_partial; n_high_tertile
+phase1_corr,72,6,dataset; msi_a; msi_b; n_pairwise; pearson; spearman
+phase1_nhanes_sens,18,14,term; estimate; se; z; p_value; ci_low; ci_high; n; n_clusters; n_parameters; outcome_msi_version; exposure; q_value; estimate_CI
+phase1_ppgr_sens,36,15,msi_version; outcome; outcome_label; term; estimate; se; z; p_value; ci_low; ci_high; n; n_clusters; n_parameters; q_value; estimate_CI
+phase2_r_key,10,19,outcome; exposure; R_beta; R_se; t; R_p; R_q; python_beta; python_se; python_p; python_q; python_n; python_n_clusters; beta_delta_R_minus_python; se_delta_R_minus_python; R_ci_low; R_ci_high; R_estimate_CI; R_significant_q05
+phase2_quartile,45,6,exposure; outcome; quartile; n; weighted_mean_outcome; weighted_mean_exposure
+stage3_key,32,15,outcome; outcome_label; model; term; estimate; se; z; p_value; ci_low; ci_high; n; n_subjects; unit; q_value; estimate_CI
+stage3_tertile,3,11,msi_tertile; n_subjects; n_meals; median_msi; median_carbs_g; median_iauc_2h; mean_iauc_2h; median_peak_delta_2h; mean_peak_delta_2h; high_iauc_rate; high_peak_rate
+phase3_boot,12,7,outcome; term; B_success; boot_mean; boot_ci_low; boot_ci_high; positive_probability
+module_c_models,40,14,outcome; outcome_label; term; estimate; se; z; p_value; ci_low; ci_high; n; n_clusters; n_parameters; model; q_value
+module_d_clusters,5,10,shape_cluster_id; shape_cluster_label; n_meals; n_subjects; mean_iauc_2h; mean_peak_delta_2h; mean_time_to_peak; mean_recovery_time; mean_msi; mean_digestibility
+module_d_models,102,13,outcome; term; estimate; se; z; p_value; ci_low; ci_high; n; n_clusters; n_parameters; model; q_value
+phase4_perf,8,16,target; target_label; model; n; n_subjects; MAE; RMSE; R2; mean_signed_error; calibration_intercept; calibration_slope; AUC_high_response; AUPRC_high_response; sensitivity_high_flag; specificity_high_flag; net_benefit_pt25
+phase4_delta,4,6,target; comparison; MAE_delta; MAE_pct_change; AUC_delta; calibration_slope_delta
+phase4_conformal,8,8,target; target_label; model; n; coverage_q90; coverage_q95; median_q90_width; median_q95_width
+phase5_boundary,4,7,dataset; n_subjects; n_events; event_type; median_iauc_2h; median_peak_delta_2h; time_above_140_or_high_rate
+phase5_stanford,2,13,term; estimate; se; z; p_value; ci_low; ci_high; n; n_clusters; n_parameters; dataset; outcome; estimate_CI
+phase5_t1d,12,13,dataset; outcome; term; estimate; se; z; p_value; ci_low; ci_high; n; n_clusters; n_parameters; estimate_CI
+module_g_counterfactual,16,24,target; target_label; unit; scenario_id; scenario_label; scenario_type; scenario_description; n_meals; n_subjects; mean_baseline_prediction; mean_counterfactual_prediction; mean_delta_pred; median_delta_pred; q25_delta_pred; q75_delta_pred; mean_predicted_reduction; median_predicted_reduction; percent_meals_with_predicted_reduction; mean_relative_reduction_percent; median_relative_reduction_percent
+module_e_pathway,6,4,target_pathway; n_edges; n_genes; higher_confidence_edges
+module_a_evidence,20,7,domain; citation_short; evidence_type; sample_or_scope; key_message; relevance_to_project; url

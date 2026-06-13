@@ -1,0 +1,31 @@
+{
+  "generated": "2026-06-11T13:03:04",
+  "source_result_package": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\high_impact_computational_upgrade_2026-06-11",
+  "figure_package": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\high_impact_publication_figures_tables_2026-06-11",
+  "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\current_results_interpretation_2026-06-11",
+  "mirror_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\current_results_interpretation_2026-06-11",
+  "core_message": "Triangulated bridge-phenotype evidence links phthalate-related metabolic susceptibility, CGMacros PPGR vulnerability, food-matrix effects, external CGM boundaries, and mechanism plausibility.",
+  "metrics": {
+    "qg_response_beta": "0.091",
+    "qg_response_p": "5.26e-07",
+    "qg_response_fdr": "2.10e-06",
+    "qg_exposure_beta": "0.067",
+    "qg_homa_beta": "0.148",
+    "qg_hba1c_beta": "0.107",
+    "wqs_positive_sig_outcomes": "response_vulnerability_index; msi_core_partial; HbA1c; exposure_facing_msi",
+    "rcs_top_nonlinear": "response_vulnerability_index/pct_oxidative_10: p=3.07e-07; exposure_facing_msi/pct_oxidative_10: p=2.04e-06; ln_HOMA_IR/pct_oxidative_10: p=0.007",
+    "top_evalue": "1.511",
+    "msi_corr_nhanes": "0.845",
+    "msi_corr_cgmacros": "0.876",
+    "cg_iauc_r2_gain": "0.073",
+    "cg_peak_r2_gain": "0.149",
+    "food_kappa": "0.841",
+    "food_icc": "0.971",
+    "ctd_gene_edges": "4717",
+    "ctd_genes": "3070",
+    "ctd_disease_edges": "36325",
+    "ctd_metabolic_edges": "1792",
+    "top_kegg": "PI3K-Akt signaling pathway; FoxO signaling pathway; AMPK signaling pathway; Insulin resistance",
+    "top_reactome": "Metabolism of lipids; Cytokine Signaling in Immune system; Cellular responses to stress; PIP3 activates AKT signaling"
+  }
+}

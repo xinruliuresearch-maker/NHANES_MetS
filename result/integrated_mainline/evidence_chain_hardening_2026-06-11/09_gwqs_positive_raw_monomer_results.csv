@@ -1,0 +1,5 @@
+model,mixture_set,outcome,n,beta,se,statistic,p,error,q
+gWQS_positive_20_bootstrap_unweighted_sensitivity,dehp_raw_four_monomers,response_vulnerability_index,2741,0.09087605246491155,0.02864484152732968,3.1725102189239855,0.001539338778576877,NA,0.006157355114307508
+gWQS_positive_20_bootstrap_unweighted_sensitivity,dehp_raw_four_monomers,exposure_facing_msi,2733,0.07409959332231116,0.029176367533832254,2.5397127739218033,0.011186382528043954,NA,0.022372765056087908
+gWQS_positive_20_bootstrap_unweighted_sensitivity,dehp_raw_four_monomers,ln_HOMA_IR,1292,0.07301923829028045,0.04147939141905076,1.7603739059860941,0.07873884344831726,NA,0.10498512459775634
+gWQS_positive_20_bootstrap_unweighted_sensitivity,dehp_raw_four_monomers,HbA1c,2671,0.04032976605208389,0.030373436572570685,1.327797266395086,0.18443460402757386,NA,0.18443460402757386

@@ -1,0 +1,22 @@
+{
+  "date": "2026-06-10",
+  "package": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10",
+  "mirror": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10",
+  "main_docx": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10\\manuscript\\AJCN_main_manuscript_no_wetlab_2026-06-10.docx",
+  "figures": [
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10\\figures\\Figure1_integrated_study_framework.png",
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10\\figures\\Figure2_NHANES_DEHP_MSI_forest.png",
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10\\figures\\Figure3_CGMacros_MSI_tertile_PPGR.png",
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10\\figures\\Figure4_food_matrix_curve_phenotypes.png",
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\ajcn_no_wetlab_manuscript_package_2026-06-10\\figures\\Figure5_prediction_external_boundary.png"
+  ],
+  "tables": {
+    "Table1_dataset_and_phenotype_summary_AJCN.csv": 5,
+    "Table2_NHANES_DEHP_MSI_survey_results_AJCN.csv": 10,
+    "Table3_CGMacros_MSI_PPGR_models_AJCN.csv": 12,
+    "Table4_food_matrix_curve_phenotype_AJCN.csv": 10,
+    "Table5_prediction_model_performance_AJCN.csv": 6,
+    "SupplementaryTable_external_boundary_AJCN.csv": 4
+  },
+  "scope": "Current completed dry-lab/no-wet-lab results only."
+}

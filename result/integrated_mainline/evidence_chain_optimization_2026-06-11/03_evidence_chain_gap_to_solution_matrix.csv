@@ -1,0 +1,9 @@
+﻿gap_id,critical_gap,why_it_matters_for_high_impact,current_evidence,recommended_solution,priority,dry_lab_feasible_now,expected_gain
+G1,没有同一受试者同时测量尿DEHP/代谢物和餐后CGM/标准餐反应。,这是当前无法声称DEHP直接影响PPGR、也不能做正式中介分析的核心断点。,NHANES负责暴露-代谢易感性；CGMacros负责易感性-PPGR；两者通过MSI桥接。,近期以triangulated bridge-phenotype作为主张；中期设计N=80-120同受试者CGM-exposome标准餐研究；资源有限则N=30-50可行性队列。,最高,否，需新数据；但可做样本量估计、方案、伦理材料和模拟功效分析。,从跨数据关联框架升级为可检验的环境-精准营养因果链。
+G2,NHANES横断面和单次尿样暴露误差。,高水平期刊会质疑时间顺序、反向因果和暴露错分。,复杂抽样近似、qgcomp/WQS/BKMR-style/RCS/E-value已完成。,R原版survey+qgcomp+gWQS+bkmr复核；加入尿肌酐/比重敏感性、负对照、定量偏倚分析、周期/性别/BMI分层。,最高,是,把NHANES结果从探索性分析提升为可投稿级人群证据。
+G3,MSI response-vulnerability index与PPGR结果可能存在构念循环。,审稿人可能认为预测提升来自将糖代谢结果重新包装为预测因子。,dual MSI相关但不完全相同；no-BMI/core partial等敏感性已做一部分。,建立三套指数：exposure-facing、response-vulnerability、non-glycemic susceptibility；做leave-one-component-out和完全剔除糖代谢组分的PPGR预测。,最高,是,显著增强桥接表型的构念独立性和可防守性。
+G4,食物基质评分仍是算法/proxy，缺少人工标注和实验证据。,食物基质是论文营养学创新点，必须可复核、可解释。,kappa=0.841，digestibility ICC=0.971，FDC proxy matching已完成。,双人盲法食物图像/描述标注；建立codebook v2；FDC item-level匹配；可选8-12餐体外/仿生消化验证。,最高,大部分可做；体外消化需实验平台。,把营养学变量从辅助特征提升为机制桥。
+G5,外部验证仍只有Stanford边界验证且性能中等。,预测/精准营养研究最常见审稿问题是泛化性。,"Stanford iAUC R2=0.060, r=0.394；peak R2=0.141, r=0.429。",加入D1NAMO、更多公开CGM挑战数据；统一PPGR提取窗口；报告transportability而非夸大复制。,高,是,从单数据模型转为跨数据稳健性框架。
+G6,机制网络主要来自知识库重叠，缺少方向性毒理组学验证。,顶刊需要更接近机制链条的证据，而不只是通路名称列表。,CTD/KEGG/Reactome/CompTox链接和重叠已完成。,检索GEO/ArrayExpress中DEHP/MEHP暴露转录组；对差异基因做PPAR/AMPK/insulin/TNF/oxidative stress方向富集；与CTD交叉验证。,高,是,机制层从plausibility升级为public-omics-supported plausibility。
+G7,论文主张过宽会削弱说服力。,跨领域研究如果主线不够窄，会被认为是多个弱相关模块拼接。,已有DEHP-MSI、MSI-PPGR、food matrix、external validation、mechanism五层。,主张压缩为一条: phthalate-related oxidative metabolic profile -> metabolic susceptibility -> food-matrix-dependent PPGR vulnerability。,最高,是,让结果、图表、讨论、限制都围绕同一条证据链服务。
+G8,报告规范和审稿防守仍需前置。,高水平期刊会严格审查预测模型、观察性分析和机制检索透明度。,TRIPOD+AI、PROBAST+AI、STROBE、PRISMA清单已生成。,将清单与正文逐项交叉引用；建立reviewer prebuttal表和analysis decision log。,高,是,降低被认为选择性报告或模型泄漏的风险。

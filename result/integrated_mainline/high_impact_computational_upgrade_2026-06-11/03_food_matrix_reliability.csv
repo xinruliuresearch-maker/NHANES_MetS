@@ -1,0 +1,5 @@
+﻿metric,value,interpretation
+category_cohen_kappa_v1_vs_v2,0.8412455358628921,Algorithmic dual-rule stress test; not a substitute for two human raters.
+rapid_digestibility_icc_v1_vs_v2,0.9709943532270227,Agreement of two prespecified threshold variants.
+liquid_proxy_kappa,0.8430145517695674,Binary proxy stability.
+refined_starch_proxy_kappa,0.9118987639557339,Binary proxy stability.

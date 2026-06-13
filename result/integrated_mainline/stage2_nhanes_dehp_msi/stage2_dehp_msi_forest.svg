@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="606">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="25" font-family="Arial" font-size="18" font-weight="bold">Stage 2: DEHP oxidative profile and metabolic susceptibility</text>
+<line x1="479.7" y1="28" x2="479.7" y2="571" stroke="#666" stroke-dasharray="4 4"/>
+<text x="20" y="51" font-family="Arial" font-size="12">HbA1c | ln(Sigma DEHP)</text>
+<line x1="480.0" y1="46" x2="481.0" y2="46" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="480.5" cy="46" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="51" font-family="Arial" font-size="12">0.084 (0.028, 0.139); q=0.008</text>
+<text x="20" y="85" font-family="Arial" font-size="12">HbA1c | ln(Oxidative/MEHP)</text>
+<line x1="480.5" y1="80" x2="481.5" y2="80" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="481.0" cy="80" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="85" font-family="Arial" font-size="12">0.135 (0.077, 0.193); q=<0.001</text>
+<text x="20" y="119" font-family="Arial" font-size="12">HbA1c | %Oxidative per 10 pp</text>
+<line x1="480.0" y1="114" x2="481.5" y2="114" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="480.8" cy="114" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="119" font-family="Arial" font-size="12">0.110 (0.031, 0.188); q=0.012</text>
+<text x="20" y="153" font-family="Arial" font-size="12">TyG index | ln(Sigma DEHP)</text>
+<line x1="479.0" y1="148" x2="480.4" y2="148" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="479.7" cy="148" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="153" font-family="Arial" font-size="12">-0.005 (-0.077, 0.067); q=0.889</text>
+<text x="20" y="187" font-family="Arial" font-size="12">TyG index | ln(Oxidative/MEHP)</text>
+<line x1="480.0" y1="182" x2="481.5" y2="182" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="480.8" cy="182" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="187" font-family="Arial" font-size="12">0.113 (0.032, 0.193); q=0.012</text>
+<text x="20" y="221" font-family="Arial" font-size="12">TyG index | %Oxidative per 10 pp</text>
+<line x1="479.8" y1="216" x2="481.8" y2="216" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="480.8" cy="216" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="221" font-family="Arial" font-size="12">0.108 (0.001, 0.216); q=0.067</text>
+<text x="20" y="255" font-family="Arial" font-size="12">ln(HOMA-IR) | ln(Sigma DEHP)</text>
+<line x1="500.1" y1="250" x2="627.0" y2="250" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="561.6" cy="250" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="255" font-family="Arial" font-size="12">8.802 (2.192, 15.840); q=0.014</text>
+<text x="20" y="289" font-family="Arial" font-size="12">ln(HOMA-IR) | ln(Oxidative/MEHP)</text>
+<line x1="606.7" y1="284" x2="816.2" y2="284" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="706.7" cy="284" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="289" font-family="Arial" font-size="12">24.410 (13.656, 36.181); q=<0.001</text>
+<text x="20" y="323" font-family="Arial" font-size="12">ln(HOMA-IR) | %Oxidative per 10 pp</text>
+<line x1="543.9" y1="318" x2="801.7" y2="318" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="665.3" cy="318" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="323" font-family="Arial" font-size="12">19.958 (6.896, 34.617); q=0.006</text>
+<text x="20" y="357" font-family="Arial" font-size="12">ln(TG/HDL-C) | ln(Sigma DEHP)</text>
+<line x1="393.8" y1="352" x2="547.8" y2="352" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="467.6" cy="352" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="357" font-family="Arial" font-size="12">-1.307 (-9.243, 7.323); q=0.813</text>
+<text x="20" y="391" font-family="Arial" font-size="12">ln(TG/HDL-C) | ln(Oxidative/MEHP)</text>
+<line x1="494.2" y1="386" x2="683.7" y2="386" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="584.7" cy="386" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="391" font-family="Arial" font-size="12">11.281 (1.558, 21.935); q=0.033</text>
+<text x="20" y="425" font-family="Arial" font-size="12">ln(TG/HDL-C) | %Oxidative per 10 pp</text>
+<line x1="461.8" y1="420" x2="702.6" y2="420" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="575.2" cy="420" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="425" font-family="Arial" font-size="12">10.260 (-1.927, 23.962); q=0.118</text>
+<text x="20" y="459" font-family="Arial" font-size="12">MSI-core | ln(Sigma DEHP)</text>
+<line x1="479.7" y1="454" x2="481.0" y2="454" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="480.4" cy="454" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="459" font-family="Arial" font-size="12">0.066 (-0.004, 0.135); q=0.080</text>
+<text x="20" y="493" font-family="Arial" font-size="12">MSI-core | ln(Oxidative/MEHP)</text>
+<line x1="480.7" y1="488" x2="482.2" y2="488" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="481.4" cy="488" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="493" font-family="Arial" font-size="12">0.183 (0.106, 0.259); q=<0.001</text>
+<text x="20" y="527" font-family="Arial" font-size="12">MSI-core | %Oxidative per 10 pp</text>
+<line x1="480.3" y1="522" x2="482.3" y2="522" stroke="#4C78A8" stroke-width="2"/>
+<circle cx="481.3" cy="522" r="4.5" fill="#F58518" stroke="#333"/>
+<text x="875" y="527" font-family="Arial" font-size="12">0.168 (0.065, 0.272); q=0.006</text>
+<text x="360" y="594" font-family="Arial" font-size="11">Effect scale: z-score/absolute units or % difference for log outcomes</text>
+</svg>

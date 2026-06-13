@@ -1,0 +1,7 @@
+geo_accession,title,sample_col,treatment,cell_line
+GSM6542206,"hiPSC-EC1, DMSO, 72Hr",sample1,DMSO,hiPSC-EC1
+GSM6542207,"hiPSC-EC1, MEHP, 72Hr",sample2,MEHP,hiPSC-EC1
+GSM6542208,"hiPSC-EC2, DMSO, 72Hr",sample3,DMSO,hiPSC-EC2
+GSM6542209,"hiPSC-EC2, MEHP, 72Hr",sample4,MEHP,hiPSC-EC2
+GSM6542210,"hiPSC-EC3, DMSO, 72Hr",sample5,DMSO,hiPSC-EC3
+GSM6542211,"hiPSC-EC3, MEHP, 72Hr",sample6,MEHP,hiPSC-EC3

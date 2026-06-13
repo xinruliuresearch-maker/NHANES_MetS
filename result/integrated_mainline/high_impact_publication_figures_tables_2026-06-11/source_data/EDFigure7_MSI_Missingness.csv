@@ -1,0 +1,11 @@
+﻿dataset,component,n_nonmissing,n_missing,pct_nonmissing
+NHANES_2013_2018,bmi,5202,65,98.7659008923486
+NHANES_2013_2018,hba1c,5094,173,96.71539775963548
+NHANES_2013_2018,fasting_glucose_mgdl,2490,2777,47.27548889310803
+NHANES_2013_2018,ln_homa_ir,2446,2821,46.44009872792861
+NHANES_2013_2018,ln_tg_hdl,2418,2849,45.908486804632616
+CGMacros_subjects,bmi,40,0,100.0
+CGMacros_subjects,hba1c,40,0,100.0
+CGMacros_subjects,fasting_glucose_mgdl,40,0,100.0
+CGMacros_subjects,ln_homa_ir,40,0,100.0
+CGMacros_subjects,ln_tg_hdl,40,0,100.0

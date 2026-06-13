@@ -1,0 +1,9 @@
+﻿outcome,method,n_subsample,lambda,kernel_sigma2_median_distance,in_sample_residual_r2,mse,note
+exposure_facing_msi,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.4178374548734345,0.033850749883652886,0.6879241781599755,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.
+response_vulnerability_index,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.4455288950046294,0.026826990903275783,0.481507520723857,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.
+msi_core_partial,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.330236870764933,0.03343603927605643,0.44975850492552205,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.
+msi_no_bmi,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.391344062181685,0.02295109824183883,0.4866928629049066,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.
+ln_HOMA_IR,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.315969895159906,0.03358829390928153,0.6431740837035171,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.
+HbA1c,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.1642433660023714,0.03776185263606413,0.7819854159267854,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.
+TyG,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.280753849661643,0.031809216651266126,0.39944586093488454,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.
+ln_TG_HDL,BKMR_style_gaussian_kernel_ridge_python_approximation,800,0.2,3.364017798258232,0.025036428348548245,0.5201769647285126,Nonlinear mixture screen; not a replacement for R bkmr posterior inference.

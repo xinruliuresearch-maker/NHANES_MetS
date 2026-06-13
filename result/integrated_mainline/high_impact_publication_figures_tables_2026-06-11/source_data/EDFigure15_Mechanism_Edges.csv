@@ -1,0 +1,142 @@
+﻿source_node,target_node,target_pathway,edge_type,mechanistic_bridge,confidence_tier,database_or_literature_source
+DEHP,NFE2L2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,HMOX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,SOD2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,CAT,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,GPX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,higher,CompTox/CTD/PubChem/Reactome literature bridge
+oxidative_stress,MSI_core,metabolic_susceptibility_index,pathway_to_phenotype_bridge,oxidative stress response may influence BMI/HbA1c/glucose/HOMA/TG-HDL components,interpretive_bridge,project MSI definition + metabolic biology
+DEHP,PPARA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,PPARG,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,RXRA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,FABP4,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,ADIPOQ,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+PPAR_signaling,MSI_core,metabolic_susceptibility_index,pathway_to_phenotype_bridge,lipid metabolism/adipogenesis may influence BMI/HbA1c/glucose/HOMA/TG-HDL components,interpretive_bridge,project MSI definition + metabolic biology
+DEHP,INSR,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,IRS1,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,PIK3CA,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,AKT2,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,SLC2A4,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+insulin_signaling,MSI_core,metabolic_susceptibility_index,pathway_to_phenotype_bridge,insulin action/glucose transport may influence BMI/HbA1c/glucose/HOMA/TG-HDL components,interpretive_bridge,project MSI definition + metabolic biology
+DEHP,PPARGC1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,NDUFS1,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,UQCRC2,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,ATP5F1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+mitochondrial_function,MSI_core,metabolic_susceptibility_index,pathway_to_phenotype_bridge,mitochondrial energy metabolism may influence BMI/HbA1c/glucose/HOMA/TG-HDL components,interpretive_bridge,project MSI definition + metabolic biology
+DEHP,TNF,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,IL6,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,NFKB1,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,CRP,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+inflammation,MSI_core,metabolic_susceptibility_index,pathway_to_phenotype_bridge,inflammatory signaling may influence BMI/HbA1c/glucose/HOMA/TG-HDL components,interpretive_bridge,project MSI definition + metabolic biology
+DEHP,PDX1,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,INS,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,KCNJ11,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+DEHP,ABCC8,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+beta_cell_function,MSI_core,metabolic_susceptibility_index,pathway_to_phenotype_bridge,insulin secretion may influence BMI/HbA1c/glucose/HOMA/TG-HDL components,interpretive_bridge,project MSI definition + metabolic biology
+MEHP,NFE2L2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,HMOX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,SOD2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,CAT,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,GPX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,PPARA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,PPARG,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,RXRA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,FABP4,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,ADIPOQ,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,INSR,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,IRS1,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,PIK3CA,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,AKT2,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,SLC2A4,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,higher,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,PPARGC1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,NDUFS1,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,UQCRC2,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,ATP5F1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,TNF,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,IL6,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,NFKB1,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,CRP,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,PDX1,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,INS,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,KCNJ11,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHP,ABCC8,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,NFE2L2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,HMOX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,SOD2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,CAT,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,GPX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,PPARA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,PPARG,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,RXRA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,FABP4,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,ADIPOQ,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,INSR,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,IRS1,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,PIK3CA,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,AKT2,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,SLC2A4,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,PPARGC1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,NDUFS1,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,UQCRC2,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,ATP5F1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,TNF,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,IL6,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,NFKB1,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,CRP,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,PDX1,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,INS,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,KCNJ11,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEHHP,ABCC8,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,NFE2L2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,HMOX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,SOD2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,CAT,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,GPX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,PPARA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,PPARG,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,RXRA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,FABP4,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,ADIPOQ,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,INSR,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,IRS1,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,PIK3CA,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,AKT2,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,SLC2A4,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,PPARGC1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,NDUFS1,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,UQCRC2,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,ATP5F1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,TNF,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,IL6,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,NFKB1,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,CRP,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,PDX1,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,INS,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,KCNJ11,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MEOHP,ABCC8,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,NFE2L2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,HMOX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,SOD2,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,CAT,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,GPX1,oxidative_stress,chemical_gene_pathway_evidence,oxidative stress response,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,PPARA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,PPARG,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,RXRA,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,FABP4,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,ADIPOQ,PPAR_signaling,chemical_gene_pathway_evidence,lipid metabolism/adipogenesis,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,INSR,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,IRS1,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,PIK3CA,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,AKT2,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,SLC2A4,insulin_signaling,chemical_gene_pathway_evidence,insulin action/glucose transport,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,PPARGC1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,NDUFS1,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,UQCRC2,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,ATP5F1A,mitochondrial_function,chemical_gene_pathway_evidence,mitochondrial energy metabolism,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,TNF,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,IL6,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,NFKB1,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,CRP,inflammation,chemical_gene_pathway_evidence,inflammatory signaling,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,PDX1,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,INS,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,KCNJ11,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge
+MECPP,ABCC8,beta_cell_function,chemical_gene_pathway_evidence,insulin secretion,moderate,CompTox/CTD/PubChem/Reactome literature bridge

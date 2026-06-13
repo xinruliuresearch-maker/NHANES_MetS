@@ -1,0 +1,13 @@
+Outcome,Term,Estimate (95% CI),Q,N meals,N participants,Unit
+2-h iAUC /1000,"Carbohydrate load, per 10 g","0.180 (0.141, 0.219)",1.95e-18,1498,40,1000 mg/dL*min
+2-h iAUC /1000,"MSI, centered","1.070 (0.540, 1.599)",1.99e-04,1498,40,1000 mg/dL*min
+2-h iAUC /1000,Carbohydrate load x MSI,"0.042 (-0.011, 0.094)",0.161,1498,40,1000 mg/dL*min
+2-h peak delta,"Carbohydrate load, per 10 g","2.484 (1.908, 3.060)",5.31e-16,1498,40,mg/dL
+2-h peak delta,"MSI, centered","17.356 (9.643, 25.069)",3.54e-05,1498,40,mg/dL
+2-h peak delta,Carbohydrate load x MSI,"0.488 (-0.275, 1.251)",0.252,1498,40,mg/dL
+High iAUC risk,"Carbohydrate load, per 10 g","0.021 (0.013, 0.028)",6.39e-07,1498,40,risk difference
+High iAUC risk,"MSI, centered","0.129 (0.063, 0.195)",2.93e-04,1498,40,risk difference
+High iAUC risk,Carbohydrate load x MSI,"0.004 (-0.006, 0.013)",0.513,1498,40,risk difference
+High peak risk,"Carbohydrate load, per 10 g","0.018 (0.011, 0.025)",2.39e-06,1498,40,risk difference
+High peak risk,"MSI, centered","0.131 (0.063, 0.198)",3.62e-04,1498,40,risk difference
+High peak risk,Carbohydrate load x MSI,"0.007 (-0.002, 0.015)",0.165,1498,40,risk difference

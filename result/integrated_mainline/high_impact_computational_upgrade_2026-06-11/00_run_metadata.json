@@ -1,0 +1,15 @@
+{
+  "generated": "2026-06-11T02:45:33",
+  "root": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros",
+  "output": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\high_impact_computational_upgrade_2026-06-11",
+  "mirror": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\high_impact_computational_upgrade_2026-06-11",
+  "python_implementation_boundary": "WQS/qgcomp/BKMR are transparent Python approximations intended for dry-lab strengthening; rerun R package versions before final submission if possible.",
+  "qa_notes": [
+    "Loaded NHANES analysis dataset: C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\phase2_nhanes_survey_ready\\phase2_python_analysis_dataset.csv with shape (5267, 30).",
+    "Loaded CGMacros MSI meal dataset: C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\stage1_msi\\cgmacros_meal_level_with_msi_core.csv with shape (1498, 101).",
+    "NHANES mixture models use Python approximations: WQS repeated holdout, qgcomp-style quantile sum, and BKMR-style Gaussian kernel ridge.",
+    "FDC linkage is a proxy query-level match because the available CGMacros table has image paths and nutrient fields but no full parsed meal ingredient text.",
+    "Stanford CGM boundary validation uses standardized challenge foods rather than free-living nutrient-coded meals; it tests transportability boundaries, not one-to-one replication.",
+    "Mechanism evidence is database-backed plausibility evidence, not direct experimental proof."
+  ]
+}

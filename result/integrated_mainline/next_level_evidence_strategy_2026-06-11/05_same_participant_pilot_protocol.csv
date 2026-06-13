@@ -1,0 +1,8 @@
+﻿section,design,details
+Objective,Same-participant CGM-exposome bridge pilot,Test whether urinary DEHP/phthalate metabolite profiles and metabolic susceptibility predict standardized meal PPGR and mitigator response.
+Participants,N=60 feasibility or N=120 definitive bridge,Adults without insulin-treated diabetes; enrich across BMI/insulin-resistance strata; balance sex and major ancestry groups where feasible.
+Exposure,Repeated urine biomarkers,"Two or three first-morning urine samples; MEHP, MEHHP, MEOHP, MECPP, MEP, MBP, MiBP, MBzP; creatinine/specific gravity; calculate molar SigmaDEHP and oxidative fractions."
+PPGR,10-14 day CGM with standardized meal challenges,Replicated rice/bread/potato/beans/pasta or local equivalents; include mitigator arms such as rice plus fiber/protein/fat; water-only washout and 3-hour spacing.
+Baseline phenotype,Metabolic susceptibility panel,"BMI, waist, fasting glucose, insulin, HbA1c, lipids, CRP/IL-6 if possible; optional stool microbiome and metabolomics if budget allows."
+Primary analysis,Hierarchical target-trial-like meal model,"Outcome: iAUC/peak/full curve; predictors: urinary raw metabolite mixture, RVI, meal type, mitigator, interactions; random participant intercept and meal replicate effects."
+Decision criterion,Go/no-go,"If exposure mixture or RVI modifies standardized meal PPGR/mitigator response in expected direction, paper can credibly target Nature Food/Cell Metabolism style venues."

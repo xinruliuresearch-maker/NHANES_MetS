@@ -1,0 +1,7 @@
+﻿phase,name,core_question,actions,primary_outputs,success_criteria,timeline
+Phase 0,主张收敛、DAG和预注册分析框架,本研究到底证明什么、不能证明什么？,绘制DAG；定义primary/secondary/exploratory outcomes；写analysis decision log；明确不能做正式DEHP->PPGR因果中介。,DAG图、claim ladder、analysis protocol、审稿防守表。,所有模型和图表都能映射到同一条证据链。,1周
+Phase 1,NHANES环境混合物主证据复核,DEHP相关氧化代谢暴露是否稳健关联代谢易感性？,R survey-weighted GLM/qgcomp/gWQS/BKMR；RCS；E-value；负对照；尿稀释敏感性；周期/性别/BMI/糖尿病状态分层。,主结果表、权重图、RCS图、敏感性森林图、bias analysis表。,主效应方向在至少3类模型中一致，关键结果FDR可控，负对照不过度阳性。,2-3周
+Phase 2,CGMacros食物基质和PPGR动态表型强化,代谢易感性是否解释食物基质依赖的PPGR脆弱性？,双人食物标注；FDC item-level匹配；NOVA/GI/GL/结构完整性/消化可得性编码；subject-disjoint nested CV；层级模型；校准和误差分析。,食物基质codebook v2、标注一致性、PPGR预测/推断表、个体差异图。,剔除糖代谢组分后的MSI仍提供增量解释；food matrix交互方向稳定。,3-5周
+Phase 3,外部CGM验证扩展,PPGR表型和易感性框架能否迁移到不同CGM数据结构？,下载/整理D1NAMO等公开CGM数据；统一0-2h iAUC、peak、time-to-peak、recovery slope；复用subject-disjoint协议；比较Stanford/CGMacros/D1NAMO。,external validation matrix、transportability图、跨数据异质性表。,方向一致、性能诚实报告；清晰说明哪些数据结构支持或限制该框架。,2-4周
+Phase 4,机制层干实验升级,DEHP/MEHP相关机制是否与MSI和PPGR脆弱性生物学路径一致？,CompTox/ToxCast endpoints提取；GEO/ArrayExpress DEHP/MEHP转录组差异分析；CTD-omics-KEGG-Reactome交叉；构建方向性机制网络。,机制证据网络、通路富集表、tox-omics overlap图、可复核检索日志。,PPAR/AMPK/PI3K-Akt/insulin resistance/inflammation/oxidative stress至少在两个独立来源中汇聚。,3-6周
+Phase 5,可选小规模同受试者桥接或仿生消化验证,能否补上同人群暴露-餐后反应闭环或验证食物基质消化机制？,A方案: N=30-50可行性CGM+尿DEHP+标准餐；B方案: 8-12代表餐食仿生/体外消化葡萄糖释放曲线。,pilot protocol、样本量模拟、digestion kinetics、桥接验证图。,同向趋势或消化动力学与预测PPGR/food matrix评分一致。,6-12周以上

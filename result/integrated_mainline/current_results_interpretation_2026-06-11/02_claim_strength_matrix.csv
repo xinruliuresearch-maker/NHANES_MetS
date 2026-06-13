@@ -1,0 +1,6 @@
+﻿claim,supporting_results,claim_strength,safe_wording,unsafe_wording
+DEHP相关暴露混合物与代谢易感性相关,"qgcomp response-vulnerability beta=0.091, p=5.26e-07; WQS方向一致; RCS提示非线性",较强关联证据,associated with / linked to / indicates population-level metabolic susceptibility,causes PPGR abnormalities / mediates DEHP-to-PPGR
+MSI可以作为跨NHANES与CGMacros的桥接表型,"Dual MSI correlation: NHANES r=0.845, CGMacros r=0.876",较强构念证据,bridge phenotype / susceptibility index,validated clinical diagnostic score
+代谢易感性和食物基质共同解释个体化PPGR差异,"Subject-disjoint R2 gains: iAUC +0.073, peak +0.149; food score reliability kappa=0.841, ICC=0.971",较强动态表型证据,improves prediction / marks vulnerability,ready for clinical deployment
+外部CGM数据支持但限制了模型可迁移边界,Stanford subject-disjoint boundary validation has modest positive R2 and correlations,中等外部边界证据,boundary validation / transportability signal,fully externally validated model
+DEHP-代谢易感性-PPGR框架具有生物学可行性,CTD genes=3070; KEGG: PI3K-Akt signaling pathway; FoxO signaling pathway; AMPK signaling pathway; Insulin resistance; Reactome: Metabolism of lipids; Cytokine Signaling in Immune system; Cellular responses to stress; PIP3 activates AKT signaling,机制可行性证据,mechanistic plausibility,mechanism proven experimentally

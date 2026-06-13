@@ -1,0 +1,14 @@
+﻿module,finding,key_result,interpretation,evidence_strength
+NHANES mixture,DEHP-related quantile mixture association with exposure_facing_msi,"psi=0.067, p=0.004, FDR=0.006, n=5,229",混合暴露与代谢易感性/糖代谢指标呈正向关联，支持人群层面的环境-代谢易感性锚点。,较强
+NHANES mixture,DEHP-related quantile mixture association with response_vulnerability_index,"psi=0.091, p=5.26e-07, FDR=2.10e-06, n=5,261",混合暴露与代谢易感性/糖代谢指标呈正向关联，支持人群层面的环境-代谢易感性锚点。,较强
+NHANES mixture,DEHP-related quantile mixture association with ln_HOMA_IR,"psi=0.148, p=6.71e-08, FDR=5.37e-07, n=2,446",混合暴露与代谢易感性/糖代谢指标呈正向关联，支持人群层面的环境-代谢易感性锚点。,较强
+NHANES mixture,DEHP-related quantile mixture association with HbA1c,"psi=0.107, p=3.46e-06, FDR=9.22e-06, n=5,094",混合暴露与代谢易感性/糖代谢指标呈正向关联，支持人群层面的环境-代谢易感性锚点。,较强
+NHANES WQS,Repeated-holdout WQS positive-direction stability,Top outcomes: response_vulnerability_index; msi_core_partial; HbA1c; exposure_facing_msi,重复holdout WQS与qgcomp方向基本一致，说明混合暴露信号不是单一模型偶然产物。,中等至较强
+NHANES RCS,Nonlinear exposure-response patterns,response_vulnerability_index/pct_oxidative_10: p=3.07e-07; exposure_facing_msi/pct_oxidative_10: p=2.04e-06; ln_HOMA_IR/pct_oxidative_10: p=0.007,氧化比例相关指标呈非线性剂量-反应，提示简单线性模型可能低估或误读暴露-代谢关系。,中等
+Sensitivity,E-value sensitivity analysis,Max E-value=1.511 for msi_core_partial/ln_oxidative_to_MEHP,观察性关联对未测混杂的敏感性处于中等水平，应作为稳健性描述而非因果证明。,辅助证据
+Dual MSI,Two MSI versions remain related but not identical,NHANES r=0.845; CGMacros r=0.876,exposure-facing MSI与response-vulnerability index高度相关，说明它们共享代谢易感性核心；同时两者定义不同，有助于避免完全循环论证。,较强
+CGMacros prediction,MSI + food matrix improves subject-disjoint PPGR prediction,iAUC R2 0.110->0.183; peak R2 0.098->0.247,在严格受试者留出条件下，代谢易感性与食物基质特征增加了对餐后血糖反应的解释度。,较强
+CGMacros inference,Response-vulnerability index is a strong PPGR vulnerability marker,"iAUC beta=3.074, FDR=4.21e-08; peak beta=43.570, FDR=1.18e-08; RVI x digestibility iAUC beta=0.149",同样餐食负荷下，高反应易感个体表现出更高PPGR，且消化可得性与易感性之间存在交互信号。,较强
+Food matrix,Food-matrix scoring is internally stable under dual-rule stress test,Category kappa=0.841; digestibility ICC=0.971,食物基质评分不是纯粹主观叙述，已形成可复核的干实验评分体系；但仍需人工双评或体外消化进一步验证。,中等
+External boundary,Stanford CGM boundary validation is positive but modest,"Stanford iAUC R2=0.060, r=0.394; peak R2=0.141, r=0.429",外部数据支持CGM表型和易感性框架具有一定可迁移性，但跨数据结构差异明显，应表述为边界验证而非强外部复制。,中等
+Mechanism network,Database-backed DEHP/metabolite mechanism plausibility network,CTD gene edges=4717; genes=3070; disease edges=36325; metabolic-relevant disease edges=1792; top KEGG=PI3K-Akt signaling pathway; FoxO signaling pathway; AMPK signaling pathway; Insulin resistance,机制层不再只是叙述性文献拼接，而是可追溯到CTD/KEGG/Reactome的数据库证据，集中于PPAR、PI3K-Akt、AMPK、胰岛素抵抗、TNF/炎症和脂质代谢。,机制可行性证据

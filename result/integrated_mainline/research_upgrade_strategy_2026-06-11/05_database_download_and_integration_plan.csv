@@ -1,0 +1,9 @@
+﻿database,priority,purpose,download_or_access,integration,url
+NHANES laboratory + demographics + diet + examination,P0,扩展DEHP/邻苯二甲酸酯、代谢综合征、胰岛素抵抗、饮食与协变量。,CDC XPT files via NHANES search pages; cycles按变量可用性统一。,R survey包或Python statsmodels处理复杂抽样; 统一SEQN、权重、周期和LOD变量。,https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Laboratory
+CGMacros,P0,主CGM-餐食-个体表型数据源。,PhysioNet项目页; 注意数据使用协议和引用。,"餐次窗口提取, 受试者层分割, meal-photo/food description与宏量营养、活动和血液指标合并。",https://physionet.org/content/cgmacros/
+USDA FoodData Central,P0,补充食品营养、纤维、糖、淀粉代理、食品类别和加工线索。,CSV/JSON批量下载或API; API需key。,餐食文本/图像描述到FDC food item的半自动匹配; 保留match confidence。,https://fdc.nal.usda.gov/download-datasets
+Stanford CGM Database,P1,CGM表型和外部边界验证。,网站直接下载CGM、表型、脂质、代谢组、蛋白组CSV。,"提取与CGMacros同定义的CGM曲线和变异性表型; 若缺餐食, 用于subject-level metabolic vulnerability外部验证。",https://cgmdb.stanford.edu/data/
+EPA CompTox Chemicals Dashboard,P1,DEHP、MEHP及替代塑化剂化学与毒理证据。,Dashboard和batch search; 可下载多种数据流。,化学ID映射、暴露/毒性端点、替代增塑剂扩展分析。,https://www.epa.gov/comptox-tools/comptox-chemicals-dashboard
+Comparative Toxicogenomics Database,P1,化学-基因-疾病网络和机制富集。,"CTD下载或页面检索; 若主站访问不稳定, 可用文献和镜像数据。","DEHP/MEHP相关基因与insulin resistance, oxidative stress, inflammation, mitochondrial dysfunction交集。",https://pmc.ncbi.nlm.nih.gov/articles/PMC2686584/
+Reactome/KEGG/GO/STRING/DisGeNET,P2,机制通路富集与网络可视化。,API或R/Python包访问; 需记录版本日期。,将CTD/CompTox基因集做富集; 输出机制网络图和补充表。,https://reactome.org/
+PREDICT/其他PPGR队列,P2,"若可获得, 用于更强外部验证和精准营养参照。","公开受限或申请制, 先完成可得性审查。",只纳入变量定义可对齐的数据; 作为扩展而非当前论文必需前提。,https://clinicaltrials.gov/study/NCT03479866

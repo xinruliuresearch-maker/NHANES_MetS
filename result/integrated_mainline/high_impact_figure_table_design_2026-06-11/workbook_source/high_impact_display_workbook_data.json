@@ -1,0 +1,1325 @@
+{
+  "Main_Figures": [
+    {
+      "display_id": "Main Figure 1",
+      "title": "Integrated evidence architecture and study design",
+      "short_title": "Evidence architecture",
+      "core_question": "How can a population DEHP oxidative-metabolism signal be connected conservatively to CGM meal vulnerability without overclaiming causality?",
+      "recommended_panels": "A. Graphical evidence cascade; B. Dataset flow and sample sizes; C. MSI bridge phenotype construction; D. Claim hierarchy and no-overclaim guardrails; E. Analysis module timeline.",
+      "current_status": "New design needed; previous schematic can be rebuilt as cleaner data-annotated graphical abstract.",
+      "source_data": "Table1_dataset_and_phenotype_summary.csv; phase0 registry; claim guardrails; module manifest",
+      "key_message": "This is a staged bridge-phenotype design: DEHP oxidative profile -> MSI in NHANES; MSI -> PPGR vulnerability in CGMacros.",
+      "journal_role": "Front-door figure for Nature/Cell/Lancet-style readers; explains why the cross-dataset design is valid but cautious.",
+      "priority": "Essential",
+      "risk_if_missing": "Reviewers may misread the work as a direct DEHP-to-CGM causal claim or as disconnected datasets.",
+      "needed_work": "Rebuild as high-end graphical abstract with minimal text, dataset sizes, and a clear 'not direct causality' design note."
+    },
+    {
+      "display_id": "Main Figure 2",
+      "title": "DEHP oxidative-metabolism profile is associated with metabolic susceptibility in NHANES",
+      "short_title": "NHANES exposure-response",
+      "core_question": "Is the environmental exposure-profile layer statistically robust?",
+      "recommended_panels": "A. Survey-weighted forest plot for primary and secondary exposures; B. Weighted quartile dose-response; C. spline curve; D. MSI-version robustness; E. sensitivity/negative-control panel; F. subgroup or effect-modification heatmap.",
+      "current_status": "Partly implemented in Figure1_NHANES_exposure_response_publication_v2; should be expanded for top-tier submission.",
+      "source_data": "Table2_NHANES_R_survey_key_results.csv; phase2_nhanes_dose_response_quartile_summary.csv; phase2_python_rcs_prediction_grid.csv; NHANES sensitivity/composition/effect-modification files.",
+      "key_message": "The DEHP oxidative profile is consistently associated with MSI and insulin-resistance/glycemic markers.",
+      "journal_role": "Primary epidemiologic evidence figure.",
+      "priority": "Essential",
+      "risk_if_missing": "The environmental component appears underpowered or merely decorative.",
+      "needed_work": "Add robustness strip and subgroup heatmap; keep main forest/dose/spline as central panels."
+    },
+    {
+      "display_id": "Main Figure 3",
+      "title": "Construction, robustness, and transfer of the metabolic susceptibility phenotype",
+      "short_title": "MSI validation",
+      "core_question": "Is MSI a stable bridge phenotype rather than an arbitrary score?",
+      "recommended_panels": "A. MSI component z-score architecture; B. PCA/component weights; C. MSI-version correlation matrix; D. NHANES vs CGMacros MSI distributions; E. component profiles across MSI tertiles; F. missingness/availability waterfall.",
+      "current_status": "Not yet built as a main figure; data available.",
+      "source_data": "phase1_msi_version_correlations.csv; phase1_msi_pca_component_weights.csv; stage1_msi_summary_by_dataset.csv; cgmacros_subject_msi_core.csv; nhanes_2013_2018_msi_core.csv.",
+      "key_message": "MSI behaves consistently across construction variants and can bridge NHANES and CGMacros.",
+      "journal_role": "Defends the bridge variable, which is the manuscript's central methodological hinge.",
+      "priority": "Essential",
+      "risk_if_missing": "Reviewers may attack MSI as post hoc or unstable.",
+      "needed_work": "Generate as a polished multi-panel figure before any top-tier submission."
+    },
+    {
+      "display_id": "Main Figure 4",
+      "title": "MSI identifies free-living postprandial glycemic vulnerability in CGMacros",
+      "short_title": "CGMacros PPGR vulnerability",
+      "core_question": "Does the bridge phenotype manifest as dynamic meal-level vulnerability?",
+      "recommended_panels": "A. Meal-level iAUC distribution by MSI tertile; B. peak distribution; C. subject-level MSI-response gradient; D. cluster-robust model coefficient forest; E. bootstrap estimates; F. leave-one-subject influence.",
+      "current_status": "Partly implemented in Figure2_CGMacros_MSI_PPGR_publication_v2.",
+      "source_data": "cgmacros_meal_level_with_msi_core.csv; phase3_subject_level_ppgr_msi_summary.csv; Table3_CGMacros_MSI_PPGR_results.csv; phase3_subject_bootstrap_key_terms.csv; phase3_leave_one_subject_influence.csv.",
+      "key_message": "Higher MSI is a robust main-effect marker of PPGR vulnerability.",
+      "journal_role": "Primary CGM physiology figure.",
+      "priority": "Essential",
+      "risk_if_missing": "The CGM evidence looks like summary-only association rather than true meal-level biology.",
+      "needed_work": "Add bootstrap and leave-one-subject influence as E-F or Extended Data if main figure becomes dense."
+    },
+    {
+      "display_id": "Main Figure 5",
+      "title": "Person-by-food-matrix susceptibility refines carbohydrate-only interpretation",
+      "short_title": "Food matrix interaction",
+      "core_question": "Why is the biology not just 'more carbs, more glucose'?",
+      "recommended_panels": "A. Digestibility-risk vs iAUC meal scatter; B. iAUC and peak model forest; C. MSI x digestibility predicted response surface; D. high-risk food-matrix feature enrichment; E. counterfactual meal redesign effect; F. candidate high-risk meal matrix examples if image permissions allow.",
+      "current_status": "Partly implemented in Figure3_FoodMatrix_CurvePhenotypes_publication_v2; response surface and counterfactual panel not yet built.",
+      "source_data": "cgmacros_food_matrix_annotation.csv; cgmacros_food_matrix_ppgr_models.csv; counterfactual_meal_redesign_effects.csv; Supplement_counterfactual_meal_redesign_summary.csv.",
+      "key_message": "High-MSI individuals appear especially vulnerable to high-digestibility-risk food matrices.",
+      "journal_role": "Mechanistic/nutrition novelty figure.",
+      "priority": "Essential",
+      "risk_if_missing": "The manuscript may look like another CGM prediction paper rather than a nutrition-mechanism paper.",
+      "needed_work": "Add predicted interaction surface and counterfactual redesign panel; keep proxy caveat in legend."
+    },
+    {
+      "display_id": "Main Figure 6",
+      "title": "CGM curve phenotypes reveal prolonged and delayed response vulnerability",
+      "short_title": "Dynamic CGM phenotypes",
+      "core_question": "Does MSI/food-matrix susceptibility affect response shape, not only scalar iAUC/peak?",
+      "recommended_panels": "A. Cluster map by iAUC/peak/time-to-peak/recovery; B. cluster composition by MSI tertile; C. delayed-peak/prolonged-elevation model forest; D. prototype response curves or reconstructed curves; E. MSI-digestibility to curve-phenotype alluvial plot.",
+      "current_status": "Partly implemented inside Figure3 v2; should become independent figure if targeting a top-tier journal.",
+      "source_data": "cgmacros_ppgr_curve_features.csv; curve_shape_msi_food_matrix_models.csv; Figure4_data_curve_clusters.csv.",
+      "key_message": "Susceptibility is expressed as dynamic CGM response phenotypes, especially large/prolonged responses.",
+      "journal_role": "Adds physiologic depth and makes CGM dynamics visible.",
+      "priority": "High",
+      "risk_if_missing": "Dynamic CGM data are underused; reviewers may see only static iAUC/peak outcomes.",
+      "needed_work": "Generate prototype curve panel if raw time-series alignment is feasible; otherwise use feature-derived clusters and model forest."
+    },
+    {
+      "display_id": "Main Figure 7",
+      "title": "MSI-enhanced models improve personalized high-response stratification",
+      "short_title": "Prediction and calibration",
+      "core_question": "Does the biology improve practical meal-risk prediction?",
+      "recommended_panels": "A. observed vs predicted iAUC; B. observed vs predicted peak; C. nested model AUC/MAE/R2; D. calibration deciles; E. conformal interval coverage/width; F. decision-curve net benefit; G. performance by MSI tertile.",
+      "current_status": "Partly implemented in Figure4_Prediction_Calibration_publication_v2.",
+      "source_data": "phase4_nested_lso_prediction_records.csv; phase4_model_performance_overall.csv; phase4_calibration_deciles.csv; phase4_conformal_interval_coverage.csv; phase4_performance_by_msi.csv.",
+      "key_message": "MSI adds incremental predictive value beyond macro/pre-CGM context models.",
+      "journal_role": "Translational and AI/prediction standards figure.",
+      "priority": "Essential",
+      "risk_if_missing": "Prediction claims may look unsupported or not TRIPOD/PROBAST-aligned.",
+      "needed_work": "Add conformal interval and decision-curve panels; present prediction as research stratification, not clinical tool."
+    },
+    {
+      "display_id": "Main Figure 8",
+      "title": "External CGM datasets define transportability boundaries",
+      "short_title": "External boundaries",
+      "core_question": "Where does the framework generalize, and where does it not?",
+      "recommended_panels": "A. response-scale comparison across datasets; B. response ratio vs CGMacros; C. T1D macro directionality; D. Stanford same-food heterogeneity; E. Jaeb healthy-adult time-above-threshold reference; F. transportability evidence map.",
+      "current_status": "Partly implemented in Figure5_ExternalBoundary_publication_v2.",
+      "source_data": "external_transportability_map.csv; external_domain_shift_metrics.csv; phase5 external validation tables.",
+      "key_message": "External data support heterogeneity and macro-response directionality while clarifying non-replication boundaries.",
+      "journal_role": "Preempts overgeneralization and frames boundary conditions honestly.",
+      "priority": "High",
+      "risk_if_missing": "Reviewers may demand external validation or criticize generalizability.",
+      "needed_work": "Add Stanford same-food heterogeneity and Jaeb healthy reference if space allows."
+    },
+    {
+      "display_id": "Main Figure 9",
+      "title": "Mechanistic plausibility map linking DEHP oxidative metabolism, MSI, and PPGR vulnerability",
+      "short_title": "Mechanism map",
+      "core_question": "Is there a biologically plausible pathway, even without wet-lab data?",
+      "recommended_panels": "A. curated mechanism knowledge graph; B. pathway enrichment bar plot; C. literature evidence-map matrix; D. current evidence vs missing causal tests.",
+      "current_status": "Not yet built as a main figure; data available from Module E and literature module.",
+      "source_data": "dehp_msi_mechanism_knowledge_graph_edges.csv; dehp_msi_pathway_enrichment.csv; module_A evidence map.",
+      "key_message": "The integrated observational/CGM signal is biologically plausible but not mechanistically proven.",
+      "journal_role": "Useful for discussion or graphical abstract; may be Extended Data depending on journal length.",
+      "priority": "Optional-main / Strong Extended",
+      "risk_if_missing": "Mechanistic novelty may feel thin for top-tier translational journals.",
+      "needed_work": "Keep conservative; do not make causal arrows beyond evidence level."
+    }
+  ],
+  "Extended_Figures": [
+    {
+      "display_id": "ED Figure 1",
+      "title": "Dataset flow, exclusions, and analytic sample construction",
+      "recommended_panels": "participant/meal/event inclusion flow across NHANES, CGMacros, Stanford, T1D-UOM, Jaeb",
+      "source_data": "Table1; analysis manifests; dataset inventories",
+      "reviewer_value": "Supports transparency.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 2",
+      "title": "NHANES weighted Table 1 by DEHP oxidative quartile",
+      "recommended_panels": "demographic/metabolic balance by exposure quartile",
+      "source_data": "phase2_weighted_table1_by_oxidative_quartile.csv",
+      "reviewer_value": "Addresses confounding and exposure distribution.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 3",
+      "title": "NHANES R survey vs Python reproducibility",
+      "recommended_panels": "paired estimates and differences",
+      "source_data": "phase2_R_survey_vs_python_comparison.csv",
+      "reviewer_value": "Shows formal R survey confirmation.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 4",
+      "title": "NHANES subgroup/effect-modification heatmap",
+      "recommended_panels": "sex, age, obesity, diabetes history, race/ethnicity, diet-source proxy",
+      "source_data": "nhanes_effect_modification_results.csv",
+      "reviewer_value": "Addresses heterogeneity.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 5",
+      "title": "NHANES sensitivity and negative-control-like analyses",
+      "recommended_panels": "exclude diabetes, no creatinine adjustment, height outcome, negative-control-like exposure",
+      "source_data": "nhanes_negative_control_and_sensitivity_results.csv",
+      "reviewer_value": "Addresses residual confounding.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 6",
+      "title": "DEHP mixture/composition proxy analysis",
+      "recommended_panels": "composition coefficients and clr/ilr terms",
+      "source_data": "nhanes_dehp_mixture_composition_results.csv",
+      "reviewer_value": "Addresses exposure mixture concern.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 7",
+      "title": "MSI component missingness and version correlations",
+      "recommended_panels": "missingness heatmap, correlations across MSI variants",
+      "source_data": "phase1_msi_component_missingness.csv; phase1_msi_version_correlations.csv",
+      "reviewer_value": "Defends MSI construction.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 8",
+      "title": "CGMacros high-response threshold sensitivity",
+      "recommended_panels": "top quartile, alternative definitions, iAUC/peak agreement",
+      "source_data": "phase3_high_response_definition_sensitivity.csv",
+      "reviewer_value": "Addresses endpoint arbitrariness.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 9",
+      "title": "Subject bootstrap and leave-one-subject influence",
+      "recommended_panels": "bootstrap distributions and influence diagnostics",
+      "source_data": "phase3_subject_bootstrap_key_terms.csv; phase3_leave_one_subject_influence.csv",
+      "reviewer_value": "Addresses small n=40 concern.",
+      "priority": "High",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 10",
+      "title": "Food-matrix annotation audit and feature dictionary",
+      "recommended_panels": "NOVA/GI/GL/digestibility proxy feature distributions",
+      "source_data": "cgmacros_food_matrix_annotation.csv; food_matrix_annotation_codebook.md",
+      "reviewer_value": "Addresses proxy validity.",
+      "priority": "Medium",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 11",
+      "title": "Counterfactual meal redesign scenario results",
+      "recommended_panels": "predicted risk reductions by redesign scenario and subgroup",
+      "source_data": "counterfactual_meal_redesign_effects.csv",
+      "reviewer_value": "Shows translational nutrition utility.",
+      "priority": "Medium",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 12",
+      "title": "Prediction leakage audit and predictor dictionary",
+      "recommended_panels": "forbidden predictors, allowed predictors, model card summary",
+      "source_data": "prediction_leakage_audit.csv; prediction_predictor_dictionary.csv",
+      "reviewer_value": "TRIPOD/PROBAST defense.",
+      "priority": "Medium",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 13",
+      "title": "Prediction conformal interval and net benefit details",
+      "recommended_panels": "coverage/width by target/model, net benefit curves",
+      "source_data": "phase4_conformal_interval_coverage.csv; prediction_model_performance_summary.csv",
+      "reviewer_value": "Calibration/uncertainty evidence.",
+      "priority": "Medium",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 14",
+      "title": "External dataset domain shift diagnostics",
+      "recommended_panels": "event scale, subject scale, macro direction, healthy time-above-threshold reference",
+      "source_data": "external_domain_shift_metrics.csv; external_transportability_map.csv",
+      "reviewer_value": "Generalizability boundary.",
+      "priority": "Medium",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 15",
+      "title": "Mechanism knowledge graph and pathway enrichment",
+      "recommended_panels": "curated edges, evidence type, pathway enrichment",
+      "source_data": "dehp_msi_mechanism_knowledge_graph_edges.csv; dehp_msi_pathway_enrichment.csv",
+      "reviewer_value": "Mechanistic plausibility.",
+      "priority": "Medium",
+      "build_status": "Design specified; build from listed source data."
+    },
+    {
+      "display_id": "ED Figure 16",
+      "title": "Full source-data lineage and reproducibility map",
+      "recommended_panels": "which script generated every claim/table/figure",
+      "source_data": "analysis_manifest.csv; phase0_to_phase4_file_manifest.csv",
+      "reviewer_value": "Reproducibility asset.",
+      "priority": "Medium",
+      "build_status": "Design specified; build from listed source data."
+    }
+  ],
+  "Main_Tables": [
+    {
+      "table_id": "Main Table 1",
+      "title": "Datasets, phenotypes, and analytic roles",
+      "columns": "Dataset; role; participants; meals/events/readings; MSI available; key exposure/outcome; main limitation",
+      "source_data": "Table1_dataset_and_phenotype_summary.csv; external_transportability_map.csv",
+      "journal_role": "One-page transparent overview of all evidence layers.",
+      "priority": "Essential"
+    },
+    {
+      "table_id": "Main Table 2",
+      "title": "Primary NHANES exposure-susceptibility estimates",
+      "columns": "Exposure; outcome; beta; 95% CI; P; q; model/covariates; analytic n",
+      "source_data": "Table2_NHANES_R_survey_key_results.csv",
+      "journal_role": "Main epidemiology results table, complements Figure 2.",
+      "priority": "Essential"
+    },
+    {
+      "table_id": "Main Table 3",
+      "title": "Primary CGMacros MSI-PPGR and food-matrix models",
+      "columns": "Outcome; model block; term; estimate; 95% CI; q; meals; participants; interpretation",
+      "source_data": "Table3_CGMacros_MSI_PPGR_results.csv; Table4_FoodMatrix_CurvePhenotype_results.csv",
+      "journal_role": "Compact table for main CGM and food-matrix estimates.",
+      "priority": "Essential"
+    },
+    {
+      "table_id": "Main Table 4",
+      "title": "Prediction performance and incremental value of MSI",
+      "columns": "Target; model; MAE; R2; AUC; AUPRC; calibration slope; net benefit; delta vs M2",
+      "source_data": "Table5A_prediction_model_performance.csv; Table5B_prediction_incremental_gain.csv",
+      "journal_role": "Prediction/translational table aligned with TRIPOD+AI expectations.",
+      "priority": "Essential"
+    },
+    {
+      "table_id": "Main Table 5",
+      "title": "Claim-level evidence strength and guardrails",
+      "columns": "Claim; supporting figure/table; dataset; inference type; causal status; limitation; required wording",
+      "source_data": "phase3_main_claims_table_no_digestion.csv; claim_guardrails_for_reviewers.md",
+      "journal_role": "May be main or supplement; extremely useful for top-tier cautious framing.",
+      "priority": "High"
+    }
+  ],
+  "Supp_Tables": [
+    {
+      "table_id": "Supplementary Table 1",
+      "title": "Full data dictionary and variable definitions",
+      "source_data": "data_dictionary.csv/xlsx",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 2",
+      "title": "Analysis registry and prespecified claim boundaries",
+      "source_data": "phase0_no_digestion_analysis_registry.csv; phase0_overclaim_guardrails.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 3",
+      "title": "NHANES weighted descriptive table by oxidative quartile",
+      "source_data": "phase2_weighted_table1_by_oxidative_quartile.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 4",
+      "title": "Full NHANES R survey model results",
+      "source_data": "phase2_R_survey_main_results.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 5",
+      "title": "R survey vs Python comparison",
+      "source_data": "phase2_R_survey_vs_python_comparison.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 6",
+      "title": "NHANES dose-response quartile summary",
+      "source_data": "phase2_nhanes_dose_response_quartile_summary.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 7",
+      "title": "NHANES spline coefficients and prediction grid",
+      "source_data": "phase2_python_rcs_spline_coefficients.csv; phase2_python_rcs_prediction_grid.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 8",
+      "title": "NHANES effect modification",
+      "source_data": "nhanes_effect_modification_results.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 9",
+      "title": "NHANES sensitivity and negative-control-like analyses",
+      "source_data": "nhanes_negative_control_and_sensitivity_results.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 10",
+      "title": "DEHP mixture/composition proxy results",
+      "source_data": "nhanes_dehp_mixture_composition_results.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 11",
+      "title": "MSI component scaler, missingness, PCA weights, correlations",
+      "source_data": "stage1_msi_component_scaler.csv; phase1_msi_pca_component_weights.csv; phase1_msi_version_correlations.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 12",
+      "title": "CGMacros subject-level PPGR by MSI",
+      "source_data": "phase3_subject_level_ppgr_msi_summary.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 13",
+      "title": "CGMacros full cluster-robust meal-level models",
+      "source_data": "stage3_cgmacros_msi_ppgr_model_results.csv; Table3_CGMacros_MSI_PPGR_results.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 14",
+      "title": "CGMacros bootstrap and influence diagnostics",
+      "source_data": "phase3_subject_bootstrap_key_terms.csv; phase3_leave_one_subject_influence.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 15",
+      "title": "High-response definition sensitivity",
+      "source_data": "phase3_high_response_definition_sensitivity.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 16",
+      "title": "Food-matrix annotation codebook and features",
+      "source_data": "cgmacros_food_matrix_annotation.csv; food_matrix_annotation_codebook.md",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 17",
+      "title": "Food-matrix PPGR models",
+      "source_data": "cgmacros_food_matrix_ppgr_models.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 18",
+      "title": "CGM curve phenotype features and models",
+      "source_data": "cgmacros_ppgr_curve_features.csv; curve_shape_msi_food_matrix_models.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 19",
+      "title": "Prediction model performance, calibration, conformal intervals",
+      "source_data": "phase4_model_performance_overall.csv; phase4_calibration_deciles.csv; phase4_conformal_interval_coverage.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 20",
+      "title": "Prediction leakage audit and predictor dictionary",
+      "source_data": "prediction_leakage_audit.csv; prediction_predictor_dictionary.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "High"
+    },
+    {
+      "table_id": "Supplementary Table 21",
+      "title": "Prediction performance by MSI subgroup",
+      "source_data": "phase4_performance_by_msi.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 22",
+      "title": "Counterfactual meal redesign results",
+      "source_data": "counterfactual_meal_redesign_effects.csv; counterfactual_subject_level_heterogeneity.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 23",
+      "title": "External CGM transportability map",
+      "source_data": "external_transportability_map.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 24",
+      "title": "External domain shift and macro directionality",
+      "source_data": "external_domain_shift_metrics.csv; external_macro_direction_consistency.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 25",
+      "title": "Mechanism knowledge graph edges and pathway enrichment",
+      "source_data": "dehp_msi_mechanism_knowledge_graph_edges.csv; dehp_msi_pathway_enrichment.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 26",
+      "title": "Literature evidence map and evidence gaps",
+      "source_data": "dry_lab_evidence_map_seed.csv; dry_lab_evidence_gap_table.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 27",
+      "title": "Reproducibility manifest and run order",
+      "source_data": "analysis_manifest.csv; run_order.md",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 28",
+      "title": "Source-data mapping for all display items",
+      "source_data": "display_source_data_map.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 29",
+      "title": "Reviewer concern-response matrix",
+      "source_data": "reviewer_concern_response_matrix.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    },
+    {
+      "table_id": "Supplementary Table 30",
+      "title": "Figure and table production priority tracker",
+      "source_data": "figure_build_priority_and_gap_audit.csv",
+      "role": "Supplementary evidence / reproducibility / reviewer defense",
+      "priority": "Medium"
+    }
+  ],
+  "Claims_Crosswalk": [
+    {
+      "claim_id": "C1",
+      "claim": "DEHP oxidative-metabolism profile is associated with metabolic susceptibility in NHANES.",
+      "primary_display": "Main Figure 2; Main Table 2",
+      "supporting_displays": "ED Figures 2-6; Supplementary Tables 3-10",
+      "evidence_type": "Survey-weighted observational association",
+      "allowed_wording": "associated with; consistent across sensitivity analyses",
+      "avoid_wording": "causes; mediates; predicts CGM response directly"
+    },
+    {
+      "claim_id": "C2",
+      "claim": "MSI is a robust bridge phenotype across construction variants.",
+      "primary_display": "Main Figure 3",
+      "supporting_displays": "ED Figure 7; Supplementary Table 11",
+      "evidence_type": "Construct validation / sensitivity analysis",
+      "allowed_wording": "stable, concordant, transferable phenotype",
+      "avoid_wording": "validated clinical biomarker"
+    },
+    {
+      "claim_id": "C3",
+      "claim": "MSI identifies higher free-living meal-level PPGR vulnerability in CGMacros.",
+      "primary_display": "Main Figure 4; Main Table 3",
+      "supporting_displays": "ED Figures 8-9; Supplementary Tables 12-15",
+      "evidence_type": "Subject-clustered meal-level association",
+      "allowed_wording": "higher vulnerability; robust main effect",
+      "avoid_wording": "DEHP directly predicts CGMacros PPGR"
+    },
+    {
+      "claim_id": "C4",
+      "claim": "High-digestibility-risk food matrices amplify MSI-related PPGR vulnerability.",
+      "primary_display": "Main Figure 5; Main Table 3",
+      "supporting_displays": "ED Figures 10-11; Supplementary Tables 16-18, 22",
+      "evidence_type": "Exploratory dry-lab proxy interaction",
+      "allowed_wording": "food-matrix proxy; hypothesis-generating interaction",
+      "avoid_wording": "measured digestion kinetics"
+    },
+    {
+      "claim_id": "C5",
+      "claim": "CGM curve phenotypes reveal delayed/prolonged vulnerability beyond iAUC and peak.",
+      "primary_display": "Main Figure 6",
+      "supporting_displays": "Supplementary Table 18",
+      "evidence_type": "Feature engineering / unsupervised or rule-based dynamic phenotype",
+      "allowed_wording": "dynamic phenotype; response-shape pattern",
+      "avoid_wording": "pathophysiologic subtype proven"
+    },
+    {
+      "claim_id": "C6",
+      "claim": "MSI improves high-response meal-risk stratification within CGMacros.",
+      "primary_display": "Main Figure 7; Main Table 4",
+      "supporting_displays": "ED Figures 12-13; Supplementary Tables 19-21",
+      "evidence_type": "Leave-subject-out prediction and calibration",
+      "allowed_wording": "research-use stratification; incremental improvement",
+      "avoid_wording": "clinical deployment; diagnostic model"
+    },
+    {
+      "claim_id": "C7",
+      "claim": "External CGM datasets define boundary conditions rather than direct replication.",
+      "primary_display": "Main Figure 8",
+      "supporting_displays": "ED Figure 14; Supplementary Tables 23-24",
+      "evidence_type": "External boundary and domain shift evidence",
+      "allowed_wording": "boundary evidence; supports heterogeneity and directionality",
+      "avoid_wording": "external validation of DEHP-MSI-PPGR pathway"
+    },
+    {
+      "claim_id": "C8",
+      "claim": "Mechanistic literature supports biological plausibility but not causal proof.",
+      "primary_display": "Main Figure 9 or ED Figure 15",
+      "supporting_displays": "Supplementary Tables 25-26",
+      "evidence_type": "Curated knowledge graph and literature map",
+      "allowed_wording": "biologically plausible; convergent prior evidence",
+      "avoid_wording": "mechanistically proven"
+    }
+  ],
+  "Reviewer_Strategy": [
+    {
+      "reviewer_concern": "Datasets are disconnected",
+      "display_response": "Main Figure 1; claim crosswalk",
+      "textual_response_strategy": "Bridge-phenotype design shown explicitly; no direct DEHP-to-CGM claim.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "MSI is arbitrary",
+      "display_response": "Main Figure 3; ED Figure 7",
+      "textual_response_strategy": "Show component construction, PCA weights, version correlations, no-BMI sensitivity.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "NHANES residual confounding",
+      "display_response": "Main Figure 2; ED Figures 2-6",
+      "textual_response_strategy": "Include weighted covariate table, sensitivity, negative-control-like analyses, composition models.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "CGMacros n=40 is small",
+      "display_response": "Main Figure 4; ED Figure 9",
+      "textual_response_strategy": "Show meal-level n=1498, subject-level gradient, bootstrap and leave-one-subject influence.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "Food-matrix score is proxy",
+      "display_response": "Main Figure 5; ED Figure 10",
+      "textual_response_strategy": "Explicitly label as dry-lab proxy; provide codebook and feature distributions.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "Prediction model may leak outcomes",
+      "display_response": "Main Figure 7; ED Figure 12",
+      "textual_response_strategy": "Show leakage audit and predictor dictionary.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "Prediction not externally validated",
+      "display_response": "Main Figure 8; ED Figure 14",
+      "textual_response_strategy": "Frame external data as boundary evidence; avoid deployment claims.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "Mechanism is underdeveloped",
+      "display_response": "Main Figure 9; ED Figure 15",
+      "textual_response_strategy": "Mechanism graph and pathway enrichment, conservative language.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "Too many claims",
+      "display_response": "Main Table 5; claim guardrails",
+      "textual_response_strategy": "Separate primary, secondary, exploratory and boundary claims.",
+      "priority": "High"
+    },
+    {
+      "reviewer_concern": "Journal fit unclear",
+      "display_response": "README and display hierarchy",
+      "textual_response_strategy": "Put nutrition mechanism and CGM precision nutrition at center, exposure as upstream susceptibility context.",
+      "priority": "High"
+    }
+  ],
+  "Source_Map": [
+    {
+      "display_id": "Main Figure 1",
+      "display_type": "Figure",
+      "title": "Integrated evidence architecture and study design",
+      "source_data": "Table1_dataset_and_phenotype_summary.csv; phase0 registry; claim guardrails; module manifest",
+      "current_status": "New design needed; previous schematic can be rebuilt as cleaner data-annotated graphical abstract.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Figure 2",
+      "display_type": "Figure",
+      "title": "DEHP oxidative-metabolism profile is associated with metabolic susceptibility in NHANES",
+      "source_data": "Table2_NHANES_R_survey_key_results.csv; phase2_nhanes_dose_response_quartile_summary.csv; phase2_python_rcs_prediction_grid.csv; NHANES sensitivity/composition/effect-modification files.",
+      "current_status": "Partly implemented in Figure1_NHANES_exposure_response_publication_v2; should be expanded for top-tier submission.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Figure 3",
+      "display_type": "Figure",
+      "title": "Construction, robustness, and transfer of the metabolic susceptibility phenotype",
+      "source_data": "phase1_msi_version_correlations.csv; phase1_msi_pca_component_weights.csv; stage1_msi_summary_by_dataset.csv; cgmacros_subject_msi_core.csv; nhanes_2013_2018_msi_core.csv.",
+      "current_status": "Not yet built as a main figure; data available.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Figure 4",
+      "display_type": "Figure",
+      "title": "MSI identifies free-living postprandial glycemic vulnerability in CGMacros",
+      "source_data": "cgmacros_meal_level_with_msi_core.csv; phase3_subject_level_ppgr_msi_summary.csv; Table3_CGMacros_MSI_PPGR_results.csv; phase3_subject_bootstrap_key_terms.csv; phase3_leave_one_subject_influence.csv.",
+      "current_status": "Partly implemented in Figure2_CGMacros_MSI_PPGR_publication_v2.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Figure 5",
+      "display_type": "Figure",
+      "title": "Person-by-food-matrix susceptibility refines carbohydrate-only interpretation",
+      "source_data": "cgmacros_food_matrix_annotation.csv; cgmacros_food_matrix_ppgr_models.csv; counterfactual_meal_redesign_effects.csv; Supplement_counterfactual_meal_redesign_summary.csv.",
+      "current_status": "Partly implemented in Figure3_FoodMatrix_CurvePhenotypes_publication_v2; response surface and counterfactual panel not yet built.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Figure 6",
+      "display_type": "Figure",
+      "title": "CGM curve phenotypes reveal prolonged and delayed response vulnerability",
+      "source_data": "cgmacros_ppgr_curve_features.csv; curve_shape_msi_food_matrix_models.csv; Figure4_data_curve_clusters.csv.",
+      "current_status": "Partly implemented inside Figure3 v2; should become independent figure if targeting a top-tier journal.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Main Figure 7",
+      "display_type": "Figure",
+      "title": "MSI-enhanced models improve personalized high-response stratification",
+      "source_data": "phase4_nested_lso_prediction_records.csv; phase4_model_performance_overall.csv; phase4_calibration_deciles.csv; phase4_conformal_interval_coverage.csv; phase4_performance_by_msi.csv.",
+      "current_status": "Partly implemented in Figure4_Prediction_Calibration_publication_v2.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Figure 8",
+      "display_type": "Figure",
+      "title": "External CGM datasets define transportability boundaries",
+      "source_data": "external_transportability_map.csv; external_domain_shift_metrics.csv; phase5 external validation tables.",
+      "current_status": "Partly implemented in Figure5_ExternalBoundary_publication_v2.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Main Figure 9",
+      "display_type": "Figure",
+      "title": "Mechanistic plausibility map linking DEHP oxidative metabolism, MSI, and PPGR vulnerability",
+      "source_data": "dehp_msi_mechanism_knowledge_graph_edges.csv; dehp_msi_pathway_enrichment.csv; module_A evidence map.",
+      "current_status": "Not yet built as a main figure; data available from Module E and literature module.",
+      "priority": "Optional-main / Strong Extended"
+    },
+    {
+      "display_id": "ED Figure 1",
+      "display_type": "Figure",
+      "title": "Dataset flow, exclusions, and analytic sample construction",
+      "source_data": "Table1; analysis manifests; dataset inventories",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 2",
+      "display_type": "Figure",
+      "title": "NHANES weighted Table 1 by DEHP oxidative quartile",
+      "source_data": "phase2_weighted_table1_by_oxidative_quartile.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 3",
+      "display_type": "Figure",
+      "title": "NHANES R survey vs Python reproducibility",
+      "source_data": "phase2_R_survey_vs_python_comparison.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 4",
+      "display_type": "Figure",
+      "title": "NHANES subgroup/effect-modification heatmap",
+      "source_data": "nhanes_effect_modification_results.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 5",
+      "display_type": "Figure",
+      "title": "NHANES sensitivity and negative-control-like analyses",
+      "source_data": "nhanes_negative_control_and_sensitivity_results.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 6",
+      "display_type": "Figure",
+      "title": "DEHP mixture/composition proxy analysis",
+      "source_data": "nhanes_dehp_mixture_composition_results.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 7",
+      "display_type": "Figure",
+      "title": "MSI component missingness and version correlations",
+      "source_data": "phase1_msi_component_missingness.csv; phase1_msi_version_correlations.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 8",
+      "display_type": "Figure",
+      "title": "CGMacros high-response threshold sensitivity",
+      "source_data": "phase3_high_response_definition_sensitivity.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 9",
+      "display_type": "Figure",
+      "title": "Subject bootstrap and leave-one-subject influence",
+      "source_data": "phase3_subject_bootstrap_key_terms.csv; phase3_leave_one_subject_influence.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "High"
+    },
+    {
+      "display_id": "ED Figure 10",
+      "display_type": "Figure",
+      "title": "Food-matrix annotation audit and feature dictionary",
+      "source_data": "cgmacros_food_matrix_annotation.csv; food_matrix_annotation_codebook.md",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "ED Figure 11",
+      "display_type": "Figure",
+      "title": "Counterfactual meal redesign scenario results",
+      "source_data": "counterfactual_meal_redesign_effects.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "ED Figure 12",
+      "display_type": "Figure",
+      "title": "Prediction leakage audit and predictor dictionary",
+      "source_data": "prediction_leakage_audit.csv; prediction_predictor_dictionary.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "ED Figure 13",
+      "display_type": "Figure",
+      "title": "Prediction conformal interval and net benefit details",
+      "source_data": "phase4_conformal_interval_coverage.csv; prediction_model_performance_summary.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "ED Figure 14",
+      "display_type": "Figure",
+      "title": "External dataset domain shift diagnostics",
+      "source_data": "external_domain_shift_metrics.csv; external_transportability_map.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "ED Figure 15",
+      "display_type": "Figure",
+      "title": "Mechanism knowledge graph and pathway enrichment",
+      "source_data": "dehp_msi_mechanism_knowledge_graph_edges.csv; dehp_msi_pathway_enrichment.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "ED Figure 16",
+      "display_type": "Figure",
+      "title": "Full source-data lineage and reproducibility map",
+      "source_data": "analysis_manifest.csv; phase0_to_phase4_file_manifest.csv",
+      "current_status": "Design specified; build from listed source data.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Main Table 1",
+      "display_type": "Table",
+      "title": "Datasets, phenotypes, and analytic roles",
+      "source_data": "Table1_dataset_and_phenotype_summary.csv; external_transportability_map.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Table 2",
+      "display_type": "Table",
+      "title": "Primary NHANES exposure-susceptibility estimates",
+      "source_data": "Table2_NHANES_R_survey_key_results.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Table 3",
+      "display_type": "Table",
+      "title": "Primary CGMacros MSI-PPGR and food-matrix models",
+      "source_data": "Table3_CGMacros_MSI_PPGR_results.csv; Table4_FoodMatrix_CurvePhenotype_results.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Table 4",
+      "display_type": "Table",
+      "title": "Prediction performance and incremental value of MSI",
+      "source_data": "Table5A_prediction_model_performance.csv; Table5B_prediction_incremental_gain.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Essential"
+    },
+    {
+      "display_id": "Main Table 5",
+      "display_type": "Table",
+      "title": "Claim-level evidence strength and guardrails",
+      "source_data": "phase3_main_claims_table_no_digestion.csv; claim_guardrails_for_reviewers.md",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 1",
+      "display_type": "Table",
+      "title": "Full data dictionary and variable definitions",
+      "source_data": "data_dictionary.csv/xlsx",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 2",
+      "display_type": "Table",
+      "title": "Analysis registry and prespecified claim boundaries",
+      "source_data": "phase0_no_digestion_analysis_registry.csv; phase0_overclaim_guardrails.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 3",
+      "display_type": "Table",
+      "title": "NHANES weighted descriptive table by oxidative quartile",
+      "source_data": "phase2_weighted_table1_by_oxidative_quartile.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 4",
+      "display_type": "Table",
+      "title": "Full NHANES R survey model results",
+      "source_data": "phase2_R_survey_main_results.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 5",
+      "display_type": "Table",
+      "title": "R survey vs Python comparison",
+      "source_data": "phase2_R_survey_vs_python_comparison.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 6",
+      "display_type": "Table",
+      "title": "NHANES dose-response quartile summary",
+      "source_data": "phase2_nhanes_dose_response_quartile_summary.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 7",
+      "display_type": "Table",
+      "title": "NHANES spline coefficients and prediction grid",
+      "source_data": "phase2_python_rcs_spline_coefficients.csv; phase2_python_rcs_prediction_grid.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 8",
+      "display_type": "Table",
+      "title": "NHANES effect modification",
+      "source_data": "nhanes_effect_modification_results.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 9",
+      "display_type": "Table",
+      "title": "NHANES sensitivity and negative-control-like analyses",
+      "source_data": "nhanes_negative_control_and_sensitivity_results.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 10",
+      "display_type": "Table",
+      "title": "DEHP mixture/composition proxy results",
+      "source_data": "nhanes_dehp_mixture_composition_results.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 11",
+      "display_type": "Table",
+      "title": "MSI component scaler, missingness, PCA weights, correlations",
+      "source_data": "stage1_msi_component_scaler.csv; phase1_msi_pca_component_weights.csv; phase1_msi_version_correlations.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 12",
+      "display_type": "Table",
+      "title": "CGMacros subject-level PPGR by MSI",
+      "source_data": "phase3_subject_level_ppgr_msi_summary.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 13",
+      "display_type": "Table",
+      "title": "CGMacros full cluster-robust meal-level models",
+      "source_data": "stage3_cgmacros_msi_ppgr_model_results.csv; Table3_CGMacros_MSI_PPGR_results.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 14",
+      "display_type": "Table",
+      "title": "CGMacros bootstrap and influence diagnostics",
+      "source_data": "phase3_subject_bootstrap_key_terms.csv; phase3_leave_one_subject_influence.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 15",
+      "display_type": "Table",
+      "title": "High-response definition sensitivity",
+      "source_data": "phase3_high_response_definition_sensitivity.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 16",
+      "display_type": "Table",
+      "title": "Food-matrix annotation codebook and features",
+      "source_data": "cgmacros_food_matrix_annotation.csv; food_matrix_annotation_codebook.md",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 17",
+      "display_type": "Table",
+      "title": "Food-matrix PPGR models",
+      "source_data": "cgmacros_food_matrix_ppgr_models.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 18",
+      "display_type": "Table",
+      "title": "CGM curve phenotype features and models",
+      "source_data": "cgmacros_ppgr_curve_features.csv; curve_shape_msi_food_matrix_models.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 19",
+      "display_type": "Table",
+      "title": "Prediction model performance, calibration, conformal intervals",
+      "source_data": "phase4_model_performance_overall.csv; phase4_calibration_deciles.csv; phase4_conformal_interval_coverage.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 20",
+      "display_type": "Table",
+      "title": "Prediction leakage audit and predictor dictionary",
+      "source_data": "prediction_leakage_audit.csv; prediction_predictor_dictionary.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "High"
+    },
+    {
+      "display_id": "Supplementary Table 21",
+      "display_type": "Table",
+      "title": "Prediction performance by MSI subgroup",
+      "source_data": "phase4_performance_by_msi.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 22",
+      "display_type": "Table",
+      "title": "Counterfactual meal redesign results",
+      "source_data": "counterfactual_meal_redesign_effects.csv; counterfactual_subject_level_heterogeneity.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 23",
+      "display_type": "Table",
+      "title": "External CGM transportability map",
+      "source_data": "external_transportability_map.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 24",
+      "display_type": "Table",
+      "title": "External domain shift and macro directionality",
+      "source_data": "external_domain_shift_metrics.csv; external_macro_direction_consistency.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 25",
+      "display_type": "Table",
+      "title": "Mechanism knowledge graph edges and pathway enrichment",
+      "source_data": "dehp_msi_mechanism_knowledge_graph_edges.csv; dehp_msi_pathway_enrichment.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 26",
+      "display_type": "Table",
+      "title": "Literature evidence map and evidence gaps",
+      "source_data": "dry_lab_evidence_map_seed.csv; dry_lab_evidence_gap_table.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 27",
+      "display_type": "Table",
+      "title": "Reproducibility manifest and run order",
+      "source_data": "analysis_manifest.csv; run_order.md",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 28",
+      "display_type": "Table",
+      "title": "Source-data mapping for all display items",
+      "source_data": "display_source_data_map.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 29",
+      "display_type": "Table",
+      "title": "Reviewer concern-response matrix",
+      "source_data": "reviewer_concern_response_matrix.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    },
+    {
+      "display_id": "Supplementary Table 30",
+      "display_type": "Table",
+      "title": "Figure and table production priority tracker",
+      "source_data": "figure_build_priority_and_gap_audit.csv",
+      "current_status": "Design specified; build as manuscript table/supplement.",
+      "priority": "Medium"
+    }
+  ],
+  "Build_Audit": [
+    {
+      "display_id": "Main Figure 1",
+      "priority": "Essential",
+      "current_status": "New design needed; previous schematic can be rebuilt as cleaner data-annotated graphical abstract.",
+      "next_action": "Build new multi-panel figure from listed source data.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 2",
+      "priority": "Essential",
+      "current_status": "Partly implemented in Figure1_NHANES_exposure_response_publication_v2; should be expanded for top-tier submission.",
+      "next_action": "Upgrade current v2 figure with additional panels.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 3",
+      "priority": "Essential",
+      "current_status": "Not yet built as a main figure; data available.",
+      "next_action": "Build new multi-panel figure from listed source data.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 4",
+      "priority": "Essential",
+      "current_status": "Partly implemented in Figure2_CGMacros_MSI_PPGR_publication_v2.",
+      "next_action": "Upgrade current v2 figure with additional panels.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 5",
+      "priority": "Essential",
+      "current_status": "Partly implemented in Figure3_FoodMatrix_CurvePhenotypes_publication_v2; response surface and counterfactual panel not yet built.",
+      "next_action": "Upgrade current v2 figure with additional panels.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 6",
+      "priority": "High",
+      "current_status": "Partly implemented inside Figure3 v2; should become independent figure if targeting a top-tier journal.",
+      "next_action": "Upgrade current v2 figure with additional panels.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 7",
+      "priority": "Essential",
+      "current_status": "Partly implemented in Figure4_Prediction_Calibration_publication_v2.",
+      "next_action": "Upgrade current v2 figure with additional panels.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 8",
+      "priority": "High",
+      "current_status": "Partly implemented in Figure5_ExternalBoundary_publication_v2.",
+      "next_action": "Upgrade current v2 figure with additional panels.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "Main Figure 9",
+      "priority": "Optional-main / Strong Extended",
+      "current_status": "Not yet built as a main figure; data available from Module E and literature module.",
+      "next_action": "Build new multi-panel figure from listed source data.",
+      "blocking_issue": "None for design; implementation requires final journal target and figure count limits."
+    },
+    {
+      "display_id": "ED Figure 1",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 2",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 3",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 4",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 5",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 6",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 7",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 8",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 9",
+      "priority": "High",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 10",
+      "priority": "Medium",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 11",
+      "priority": "Medium",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 12",
+      "priority": "Medium",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 13",
+      "priority": "Medium",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 14",
+      "priority": "Medium",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 15",
+      "priority": "Medium",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    },
+    {
+      "display_id": "ED Figure 16",
+      "priority": "Medium",
+      "current_status": "Design specified; build from listed source data.",
+      "next_action": "Build after main figure set is frozen.",
+      "blocking_issue": "Only needed if space/reviewer pressure requires it."
+    }
+  ]
+}

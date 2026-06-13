@@ -1,0 +1,23 @@
+{
+  "generated": "2026-06-11T14:34:34",
+  "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\next_level_evidence_strategy_2026-06-11",
+  "mirror_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\next_level_evidence_strategy_2026-06-11",
+  "central_claim": "Raw phthalate/DEHP metabolite mixture -> metabolic susceptibility -> food-matrix-dependent PPGR vulnerability",
+  "source_packages": [
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\formal_drylab_strengthening_2026-06-11",
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\high_impact_computational_upgrade_2026-06-11"
+  ],
+  "files": [
+    "README.md",
+    "00_next_level_evidence_strategy_report.md",
+    "01_literature_and_guideline_update.csv",
+    "02_current_evidence_audit.csv",
+    "03_redesigned_evidence_chain.csv",
+    "04_priority_drylab_actions.csv",
+    "05_same_participant_pilot_protocol.csv",
+    "06_manuscript_claim_ladder.csv",
+    "07_reviewer_attack_prebuttal_matrix.csv",
+    "08_journal_path_decision_matrix.csv",
+    "09_database_remediation_plan.csv"
+  ]
+}

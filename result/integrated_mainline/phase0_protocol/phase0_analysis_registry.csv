@@ -1,0 +1,5 @@
+﻿analysis_id,claim_level,question,primary_dataset,primary_outputs
+P0-H1,primary,NHANES 中 DEHP oxidative profile 是否与 MSI-core/insulin-resistance phenotype 相关,NHANES 2013-2018,Phase 2 survey-ready models
+P0-H2,primary,CGMacros 中 MSI-core 是否预测更高 PPGR vulnerability,CGMacros,Phase 3 robust repeated-meal inference
+P0-H3,secondary,MSI-aware 模型是否改善 high-response detection、calibration 或 few-shot personalization,CGMacros,Phase 4 nested leave-subject-out prediction
+P0-H4,boundary/mechanistic support,外部 CGM 数据是否支持 PPGR heterogeneity 和模型适用边界,Stanford CGMDB; T1D-UOM; Jaeb CGMND,Phase 5 external validation

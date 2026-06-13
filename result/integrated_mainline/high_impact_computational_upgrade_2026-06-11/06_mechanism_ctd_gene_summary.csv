@@ -1,0 +1,3071 @@
+﻿GeneSymbol,GeneID,n_chemical_edges,n_chemicals,n_pubmed_records,example_actions
+PPARA,5465,32,4,18,affects^binding; affects^binding|decreases^reaction; affects^binding|increases^activity; affects^binding|increases^reaction
+MMP2,4313,21,4,7,affects^expression; affects^expression|affects^reaction; decreases^activity|decreases^reaction|increases^secretion; decreases^activity|decreases^response to substance
+CYP3A4,1576,16,4,9,affects^binding|increases^expression|increases^reaction; affects^binding|increases^reaction; affects^cotreatment|increases^activity; affects^cotreatment|increases^expression
+JAK3,3718,9,4,1,decreases^methylation|increases^abundance; increases^abundance|increases^expression
+FLG,2312,7,4,1,affects^abundance|affects^response to substance
+IFI6,2537,4,4,2,affects^cotreatment|affects^expression; increases^expression
+ESR1,2099,31,3,18,affects^binding|decreases^activity; affects^binding|decreases^reaction; affects^binding|decreases^reaction|increases^activity; affects^binding|increases^activity
+PPARG,5468,30,3,27,affects^activity; affects^binding; affects^binding|affects^folding|increases^activity; affects^binding|decreases^activity
+TNF,7124,13,3,6,affects^reaction|decreases^reaction|increases^expression; decreases^methylation|increases^abundance; decreases^methylation|increases^abundance|increases^expression; decreases^reaction|increases^expression
+CYP2C9,1559,12,3,2,increases^chemical synthesis|increases^metabolic processing; increases^metabolic processing
+SOD2,6648,7,3,3,affects^response to substance|increases^abundance; decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction
+ACTB,60,6,3,2,affects^cotreatment|increases^expression; affects^expression; increases^expression
+PAX8,7849,6,3,3,affects^reaction|increases^expression; decreases^expression; increases^abundance|increases^expression; increases^expression
+STAT5B,6777,6,3,1,decreases^methylation|increases^abundance; increases^abundance|increases^expression
+CRP,1401,5,3,4,affects^cotreatment|decreases^expression; decreases^expression; increases^expression
+CYP2C19,1557,5,3,1,increases^chemical synthesis|increases^metabolic processing; increases^metabolic processing
+EXOSC1,51013,5,3,1,affects^cotreatment|affects^expression; affects^cotreatment|decreases^expression; affects^expression
+GORASP2,26003,5,3,1,affects^cotreatment|affects^expression; affects^cotreatment|decreases^expression; decreases^expression
+MIRLET7C,406885,5,3,1,affects^expression; affects^expression|increases^abundance
+NEFL,4747,5,3,1,increases^abundance|increases^expression
+RNR2,4550,5,3,1,affects^cotreatment|affects^expression; increases^expression
+TP53I13,90313,5,3,1,affects^cotreatment|decreases^expression; affects^cotreatment|increases^expression; affects^expression
+IGF2,3481,4,3,1,decreases^methylation|increases^abundance
+CCDC163,126661,3,3,1,affects^cotreatment|affects^expression
+DCAKD,79877,3,3,1,affects^cotreatment|affects^expression
+FIBIN,387758,3,3,1,increases^abundance|increases^methylation
+IFT140,9742,3,3,2,decreases^expression; increases^abundance|increases^methylation
+IGF2-AS,51214,3,3,1,affects^expression
+MMP1,4312,3,3,2,increases^expression
+PFAS,5198,3,3,1,affects^cotreatment|affects^expression
+SHBG,6462,3,3,1,decreases^secretion
+SPRY4-AS1,101926941,3,3,1,affects^cotreatment|affects^expression
+SVIL-AS1,102724316,3,3,1,increases^abundance|increases^methylation
+VCL,7414,3,3,4,decreases^expression; increases^expression
+CGA,1081,47,2,7,affects^cotreatment|affects^expression|affects^reaction; affects^cotreatment|affects^reaction|decreases^expression; affects^cotreatment|affects^reaction|decreases^expression|decreases^reaction; affects^cotreatment|affects^reaction|increases^abundance
+PTGS2,5743,20,2,8,affects^binding|decreases^reaction; affects^binding|increases^reaction; affects^cotreatment|affects^reaction|increases^expression; affects^reaction|increases^expression
+IL33,90865,19,2,1,decreases^reaction|increases^expression; decreases^reaction|increases^expression|increases^reaction; increases^abundance|increases^secretion; increases^expression
+MAPK1,5594,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation
+MAPK3,5595,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation
+MMP9,4318,18,2,6,affects^cotreatment|increases^secretion; affects^expression; affects^expression|affects^reaction; decreases^expression
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation
+INS,3630,17,2,5,affects^cotreatment|decreases^secretion|increases^reaction; affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion
+PRKN,5071,17,2,2,affects^cotreatment|affects^localization|decreases^reaction|increases^ubiquitination; affects^cotreatment|affects^localization|increases^activity|increases^degradation|increases^reaction|increases^ubiquitination; affects^cotreatment|affects^localization|increases^activity|increases^degradation|increases^ubiquitination; affects^cotreatment|affects^localization|increases^activity|increases^ubiquitination
+AHR,196,15,2,4,affects^binding; affects^binding|decreases^reaction|increases^reaction; affects^binding|increases^activity; affects^binding|increases^reaction
+CASP3,836,13,2,13,affects^cotreatment|affects^expression; decreases^reaction|increases^activity|increases^reaction; decreases^reaction|increases^cleavage; increases^activity
+RELA,5970,13,2,8,affects^expression; affects^localization; affects^localization|decreases^reaction; affects^localization|increases^phosphorylation
+TP53,7157,12,2,5,decreases^expression; decreases^expression|decreases^reaction; decreases^reaction|increases^activity; decreases^reaction|increases^expression
+PINK1,65018,11,2,2,affects^cotreatment|affects^localization|increases^activity|increases^degradation|increases^reaction|increases^ubiquitination; affects^cotreatment|decreases^reaction|increases^expression; affects^cotreatment|increases^degradation|increases^reaction; affects^cotreatment|increases^expression
+CYP1A1,1543,10,2,5,affects^binding|decreases^reaction|increases^reaction; affects^response to substance; decreases^reaction|increases^expression; decreases^reaction|increases^expression|increases^reaction
+BAX,581,9,2,11,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^expression
+NR1I2,8856,9,2,12,affects^binding; affects^binding|increases^activity; affects^binding|increases^expression|increases^reaction; decreases^expression
+PCNA,5111,9,2,5,affects^reaction|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^expression
+RBP4,5950,9,2,1,decreases^activity|decreases^phosphorylation|increases^reaction; decreases^activity|increases^reaction; decreases^phosphorylation|increases^reaction; decreases^reaction|increases^abundance|increases^reaction
+TIMP2,7077,9,2,2,affects^expression; affects^expression|affects^reaction; decreases^reaction|increases^expression; increases^expression
+AR,367,8,2,6,affects^binding|decreases^reaction|increases^activity; decreases^expression; decreases^reaction|increases^activity; decreases^reaction|increases^expression
+BCL2,596,8,2,13,affects^cotreatment|increases^expression; affects^reaction|decreases^expression; decreases^expression; decreases^expression|decreases^reaction
+CRH,1392,8,2,3,affects^binding|increases^reaction; affects^cotreatment|decreases^expression; affects^reaction|increases^expression; decreases^expression
+HDAC6,10013,8,2,2,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|affects^reaction|decreases^expression; affects^cotreatment|affects^reaction|increases^expression; affects^cotreatment|affects^reaction|increases^phosphorylation
+MYC,4609,8,2,5,affects^cotreatment|affects^reaction|increases^expression; affects^cotreatment|decreases^reaction|increases^expression; affects^cotreatment|increases^expression; affects^reaction|decreases^expression
+NR1I3,9970,8,2,6,affects^binding; affects^binding|increases^activity; decreases^activity; decreases^reaction|increases^activity
+VEGFA,7422,8,2,7,affects^cotreatment|increases^secretion; affects^reaction|increases^secretion; decreases^reaction|increases^expression|increases^secretion; decreases^secretion
+ADIPOQ,9370,7,2,5,affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion; decreases^methylation|increases^abundance
+CYP19A1,1588,7,2,7,decreases^activity; decreases^expression; decreases^reaction|increases^expression; increases^expression
+ESR2,2100,7,2,6,affects^binding|decreases^activity; affects^binding|increases^activity; decreases^expression|decreases^reaction; decreases^reaction|increases^activity
+IFNL2,282616,7,2,1,decreases^reaction|increases^expression; increases^expression; increases^secretion
+IL1B,3553,7,2,4,affects^cotreatment|increases^secretion; decreases^reaction|increases^cleavage; increases^abundance|increases^secretion; increases^cleavage
+NLRP3,114548,7,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction
+PTEN,5728,7,2,2,affects^cotreatment|affects^reaction|decreases^expression; affects^cotreatment|decreases^expression; affects^cotreatment|increases^expression; decreases^reaction|increases^expression
+CTNNB1,1499,6,2,4,decreases^expression; decreases^reaction|increases^expression; increases^expression
+IL6,3569,6,2,6,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^abundance|increases^secretion
+MAP1LC3B,81631,6,2,2,increases^expression; increases^expression|increases^reaction; increases^lipidation|increases^localization; increases^lipidation|increases^localization|increases^reaction
+MTOR,2475,6,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction
+NFE2L2,4780,6,2,4,affects^expression; decreases^expression; decreases^expression|increases^reaction; increases^expression
+NOTCH1,4851,6,2,2,increases^abundance|increases^expression; increases^abundance|increases^methylation; increases^expression
+SREBF1,6720,6,2,4,affects^expression; decreases^expression; decreases^expression|increases^reaction; increases^expression
+TOMM20,9804,6,2,2,affects^cotreatment|decreases^reaction|increases^degradation; affects^cotreatment|increases^degradation; affects^cotreatment|increases^degradation|increases^reaction; decreases^expression
+BECN1,8678,5,2,2,affects^cotreatment|decreases^expression; increases^expression; increases^expression|increases^reaction
+BHLHE22,27319,5,2,2,decreases^expression; decreases^methylation|increases^abundance; increases^abundance|increases^methylation
+CAT,847,5,2,4,affects^cotreatment|increases^expression; decreases^reaction|increases^activity; increases^activity; increases^expression
+CDKN1A,1026,5,2,3,decreases^reaction|increases^activity; increases^activity; increases^expression
+CXCL8,3576,5,2,6,affects^cotreatment|increases^secretion; increases^abundance|increases^secretion; increases^expression; increases^secretion
+GSK3B,2932,5,2,2,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction
+HMOX1,3162,5,2,4,affects^expression; decreases^expression; decreases^reaction|increases^expression; increases^expression
+IFNL1,282618,5,2,1,decreases^reaction|increases^expression; increases^secretion
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction
+PTGES,9536,5,2,3,affects^cotreatment|affects^reaction|increases^expression; decreases^expression; increases^expression
+STAR,6770,5,2,4,affects^cotreatment|decreases^reaction|increases^expression; affects^cotreatment|increases^expression; decreases^expression; increases^expression
+TIMM23,100287932,5,2,1,affects^cotreatment|decreases^reaction|increases^degradation; affects^cotreatment|increases^degradation; affects^cotreatment|increases^degradation|increases^reaction
+TIMP1,7076,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction
+VDAC1,7416,5,2,1,affects^cotreatment|decreases^reaction|increases^degradation; affects^cotreatment|increases^degradation; affects^cotreatment|increases^degradation|increases^reaction
+ABCA1,19,4,2,3,decreases^expression; decreases^expression|increases^reaction; increases^expression
+ACAA1,30,4,2,2,decreases^expression; increases^abundance|increases^methylation; increases^expression
+AFAP1L2,84632,4,2,2,decreases^expression; decreases^methylation|increases^abundance; increases^expression
+CALD1,800,4,2,3,decreases^expression; decreases^methylation|increases^abundance; increases^expression
+CASP1,834,4,2,2,decreases^reaction|increases^cleavage; increases^cleavage; increases^cleavage|increases^reaction; increases^expression
+CASP8,841,4,2,4,affects^cotreatment|increases^expression; increases^activity; increases^expression
+CCND1,595,4,2,4,decreases^expression; increases^expression
+CDH2,1000,4,2,2,increases^expression; increases^expression|increases^reaction
+CYP1B1,1545,4,2,3,increases^activity|increases^expression; increases^expression
+DIO3,1735,4,2,3,affects^expression; decreases^expression; decreases^expression|decreases^methylation; increases^expression
+LDHA,3939,4,2,2,decreases^expression; decreases^reaction|increases^secretion; increases^expression; increases^secretion
+LMF1,64788,4,2,1,decreases^methylation|increases^abundance; increases^abundance|increases^methylation
+LPP,4026,4,2,1,decreases^methylation|increases^abundance
+MAP2K6,5608,4,2,3,decreases^expression; increases^abundance|increases^methylation
+PARP1,142,4,2,2,decreases^reaction|increases^cleavage; increases^cleavage; increases^expression
+PTX3,5806,4,2,4,affects^cotreatment|affects^reaction|increases^expression; decreases^expression; increases^expression
+SFXN3,81855,4,2,2,decreases^expression; increases^abundance|increases^methylation; increases^expression
+SLC2A1,6513,4,2,3,decreases^expression; increases^expression
+SLC2A4,6517,4,2,3,decreases^expression; decreases^expression|decreases^reaction
+SLC7A11,23657,4,2,4,decreases^expression; decreases^expression|increases^reaction; increases^expression
+TG,7038,4,2,3,decreases^expression; decreases^expression|decreases^reaction; decreases^secretion; increases^abundance|increases^expression
+WNK2,65268,4,2,2,decreases^expression; increases^abundance|increases^methylation; increases^expression
+ABTB2,25841,3,2,2,increases^abundance|increases^methylation; increases^expression
+ACADM,34,3,2,3,affects^response to substance|increases^expression; decreases^expression; increases^expression
+ADAMTS9,56999,3,2,2,increases^abundance|increases^methylation; increases^expression
+AKR1C3,8644,3,2,2,affects^cotreatment|decreases^expression|decreases^reaction; increases^expression
+AMDHD1,144193,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+ANGPTL4,51129,3,2,4,decreases^expression; increases^expression; increases^expression|increases^methylation
+ARHGAP24,83478,3,2,2,decreases^expression; increases^abundance|increases^methylation
+ASPRV1,151516,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+C6ORF118,168090,3,2,2,decreases^expression; increases^abundance|increases^methylation
+CACNA1D,776,3,2,2,decreases^expression; increases^abundance|increases^methylation
+CASP7,840,3,2,3,increases^activity; increases^expression
+CASP9,842,3,2,4,increases^activity; increases^expression
+CDH23,64072,3,2,2,decreases^expression; increases^abundance|increases^methylation
+CHEK2,11200,3,2,2,decreases^reaction|increases^expression; decreases^reaction|increases^phosphorylation; increases^phosphorylation
+CLIC5,53405,3,2,2,increases^abundance|increases^methylation; increases^expression
+COL5A1,1289,3,2,2,decreases^expression; increases^expression
+CYP11A1,1583,3,2,4,affects^cotreatment|affects^reaction|increases^expression; increases^expression
+CYP2B6,1555,3,2,2,decreases^expression; increases^expression
+DDIT3,1649,3,2,3,affects^expression; decreases^expression; increases^expression
+DIO2,1734,3,2,2,decreases^expression
+DLL4,54567,3,2,1,increases^abundance|increases^expression; increases^expression
+DUSP10,11221,3,2,2,decreases^methylation|increases^abundance; increases^expression
+DUSP4,1846,3,2,2,increases^abundance|increases^methylation; increases^expression
+ELFN2,114794,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+ERN1,2081,3,2,2,increases^expression
+FCGRT,2217,3,2,2,decreases^expression; increases^abundance|increases^methylation
+GJA1,2697,3,2,3,affects^expression; decreases^expression; increases^expression
+HLA-DQB2,3120,3,2,2,increases^abundance|increases^methylation; increases^expression
+HSD3B1,3283,3,2,2,decreases^expression; increases^expression
+HSPA13,6782,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+IGFBP3,3486,3,2,3,decreases^expression; decreases^expression|increases^methylation; increases^expression
+IGFBP7,3490,3,2,2,decreases^expression; increases^expression
+IKBIP,121457,3,2,2,decreases^expression; increases^expression
+ITGA2,3673,3,2,2,decreases^expression; increases^expression
+LAMC2,3918,3,2,2,decreases^expression; increases^expression
+LBP,3929,3,2,2,decreases^reaction|increases^expression; increases^abundance|increases^secretion; increases^expression
+MDM2,4193,3,2,2,decreases^expression; decreases^phosphorylation; increases^expression
+NCALD,83988,3,2,2,decreases^expression; increases^abundance|increases^methylation
+NCOA1,8648,3,2,2,affects^binding|increases^activity|increases^reaction; affects^binding|increases^expression|increases^reaction
+NKX2-1,7080,3,2,1,increases^abundance|increases^expression
+NR4A2,4929,3,2,2,increases^abundance|increases^methylation; increases^expression
+NSG1,27065,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+OSBP2,23762,3,2,2,decreases^expression; increases^abundance|increases^methylation
+PCK1,5105,3,2,2,increases^expression
+PCK2,5106,3,2,3,increases^expression
+PLA2G12A,81579,3,2,2,decreases^expression; increases^abundance|increases^methylation
+PPARGC1A,10891,3,2,2,affects^binding|increases^reaction; decreases^expression
+PROK2,60675,3,2,2,decreases^expression; increases^abundance|increases^methylation
+PTGFR,5737,3,2,2,affects^cotreatment|affects^expression|affects^reaction; decreases^expression
+QTMAN,79712,3,2,2,increases^abundance|increases^methylation; increases^expression
+S100A6,6277,3,2,2,increases^abundance|increases^methylation; increases^expression
+SAMD5,389432,3,2,2,decreases^expression; increases^abundance|increases^methylation
+SLC43A2,124935,3,2,2,increases^abundance|increases^methylation; increases^expression
+SOD1,6647,3,2,3,affects^cotreatment|increases^expression; decreases^reaction|increases^expression; decreases^secretion|increases^reaction
+SOX1,6656,3,2,2,decreases^expression; increases^abundance|increases^methylation
+SPRY4,81848,3,2,3,decreases^expression; increases^expression
+SRGAP3,9901,3,2,2,decreases^expression; increases^abundance|increases^methylation
+TBC1D30,23329,3,2,2,decreases^expression; increases^abundance|increases^methylation
+TFG,10342,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+TGM2,7052,3,2,2,decreases^expression; increases^expression
+TIAF1,100316851,3,2,2,decreases^methylation|increases^abundance; increases^expression
+TLR4,7099,3,2,3,affects^reaction|decreases^reaction|increases^expression; decreases^expression; increases^expression
+TLX1,3195,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+UBIAD1,29914,3,2,2,decreases^expression; increases^abundance|increases^methylation
+VAMP2,6844,3,2,2,decreases^expression; decreases^methylation|increases^abundance
+VIM,7431,3,2,4,increases^expression; increases^expression|increases^reaction
+ACACB,32,2,2,2,decreases^expression; increases^expression
+ACAD9,28976,2,2,1,increases^abundance|increases^methylation
+ADAM33,80332,2,2,1,increases^abundance|increases^expression|increases^methylation
+ADGRD1,283383,2,2,2,decreases^expression; increases^expression
+ADGRL1,22859,2,2,1,decreases^methylation|increases^abundance
+ADI1,55256,2,2,1,increases^abundance|increases^methylation
+ADSL,158,2,2,1,increases^abundance|increases^methylation
+AGAP2,116986,2,2,1,decreases^methylation|increases^abundance
+AGPAT1,10554,2,2,1,decreases^methylation|increases^abundance
+AGTPBP1,23287,2,2,1,decreases^methylation|increases^abundance
+AK5,26289,2,2,2,decreases^expression; increases^expression
+AKAP8,10270,2,2,1,decreases^methylation|increases^abundance
+AKR1C2,1646,2,2,2,increases^expression
+ALPK1,80216,2,2,1,decreases^methylation|increases^abundance
+ALX4,60529,2,2,1,increases^abundance|increases^methylation
+AMPH,273,2,2,2,decreases^expression; increases^expression
+ANAPC15,25906,2,2,1,decreases^methylation|increases^abundance
+ANKRD1,27063,2,2,2,decreases^expression; increases^expression
+AOX1,316,2,2,2,decreases^expression; increases^expression
+APOL6,80830,2,2,2,decreases^expression; increases^expression
+ARHGAP39,80728,2,2,1,increases^abundance|increases^methylation
+ARHGEF6,9459,2,2,2,decreases^expression; increases^expression
+ARID5A,10865,2,2,1,decreases^methylation|increases^abundance
+ARMC7,79637,2,2,1,increases^abundance|increases^methylation
+ARNT2,9915,2,2,1,increases^abundance|increases^methylation
+ARRDC3-AS1,100129716,2,2,1,increases^abundance|increases^methylation
+ASS1,445,2,2,2,increases^expression
+ASTN1,460,2,2,2,decreases^expression
+ATG16L1,55054,2,2,1,decreases^methylation|increases^abundance
+ATP11A,23250,2,2,1,increases^abundance|increases^methylation
+ATP5G2,100858216,2,2,1,increases^abundance|increases^methylation
+ATP6,4508,2,2,2,decreases^expression
+ATP6V1G1,9550,2,2,1,decreases^methylation|increases^abundance
+AXL,558,2,2,2,increases^expression
+B4GALT1,2683,2,2,2,increases^expression
+BCL2L14,79370,2,2,1,decreases^methylation|increases^abundance
+BUD31,8896,2,2,1,decreases^methylation|increases^abundance
+C2ORF42,54980,2,2,1,decreases^methylation|increases^abundance
+C6ORF47,57827,2,2,1,decreases^methylation|increases^abundance
+CACNA1C,775,2,2,1,increases^abundance|increases^methylation
+CAPN13,92291,2,2,1,increases^abundance|increases^methylation
+CCL2,6347,2,2,2,decreases^expression; increases^secretion
+CCNA1,8900,2,2,2,decreases^expression
+CD70,970,2,2,1,increases^abundance|increases^methylation
+CD9,928,2,2,2,decreases^expression; increases^expression
+CDKN2A,1029,2,2,2,affects^cotreatment|decreases^expression; increases^expression
+CEBPA,1050,2,2,2,increases^expression
+CEBPB,1051,2,2,2,increases^expression
+CECR1,418160,2,2,1,increases^abundance|increases^methylation
+CHST9,83539,2,2,2,decreases^expression
+CKAP5,9793,2,2,1,decreases^methylation|increases^abundance
+CKS1B,1163,2,2,2,decreases^expression; increases^expression
+CLCN7,1186,2,2,1,increases^abundance|increases^methylation
+CLDN1,9076,2,2,2,decreases^expression; increases^expression
+CLDN6,9074,2,2,2,increases^expression
+CLIC1,1192,2,2,1,decreases^methylation|increases^abundance
+CNPY1,285888,2,2,1,increases^abundance|increases^methylation
+COG2,22796,2,2,1,increases^abundance|increases^methylation
+COL13A1,1305,2,2,2,decreases^expression; increases^expression
+COLGALT2,23127,2,2,2,decreases^expression
+CRISPLD2,83716,2,2,2,decreases^expression; increases^expression
+CSNK1G3,1456,2,2,1,increases^abundance|increases^methylation
+CTBP1,1487,2,2,1,increases^abundance|increases^methylation
+CTHRC1,115908,2,2,3,decreases^expression; increases^expression
+DAB2IP,153090,2,2,1,increases^abundance|increases^methylation
+DACT2,168002,2,2,1,increases^abundance|increases^methylation
+DAXX,1616,2,2,1,increases^abundance|increases^methylation
+DBN1,1627,2,2,1,decreases^methylation|increases^abundance
+DDIT4,54541,2,2,2,increases^expression
+DDRGK1,65992,2,2,1,decreases^methylation|increases^abundance
+DORIP1,122525,2,2,1,increases^abundance|increases^methylation
+DPYSL2,1808,2,2,1,increases^abundance|increases^methylation
+DRG1,4733,2,2,1,decreases^methylation|increases^abundance
+DSE,29940,2,2,1,increases^abundance|increases^methylation
+DUSP5,1847,2,2,2,increases^expression
+E2F7,144455,2,2,1,increases^abundance|increases^methylation
+EFNA3,1944,2,2,1,increases^abundance|increases^methylation
+EGFLAM,133584,2,2,1,increases^abundance|increases^methylation
+EIF4A1,1973,2,2,1,decreases^methylation|increases^abundance
+EMC6,83460,2,2,1,decreases^methylation|increases^abundance
+ENO1,2023,2,2,1,decreases^methylation|increases^abundance
+EPHB6,2051,2,2,1,decreases^methylation|increases^abundance
+EPHX3,79852,2,2,1,decreases^methylation|increases^abundance
+EPPK1,83481,2,2,2,decreases^expression; increases^expression
+EPRS,421348,2,2,1,increases^abundance|increases^methylation
+ERICH1,157697,2,2,1,decreases^methylation|increases^abundance
+ESM1,11082,2,2,2,increases^abundance|increases^methylation; increases^expression
+ETV4,2118,2,2,2,increases^expression
+EWSR1,2130,2,2,1,decreases^methylation|increases^abundance
+EXT2,2132,2,2,1,decreases^methylation|increases^abundance
+FABP4,2167,2,2,2,affects^cotreatment|increases^expression|increases^reaction; increases^expression
+FABP5,2171,2,2,2,increases^expression
+FBXO32,114907,2,2,1,increases^abundance|increases^methylation
+FCHO1,23149,2,2,1,increases^abundance|increases^methylation
+FEM1A,55527,2,2,1,decreases^methylation|increases^abundance
+FEN1,2237,2,2,1,increases^expression
+FGF9,2254,2,2,1,increases^abundance|increases^methylation
+FGFR1,2260,2,2,2,decreases^expression; increases^expression
+FILIP1,27145,2,2,2,decreases^expression
+FOXA1,3169,2,2,1,increases^abundance|increases^methylation
+FOXP4,116113,2,2,1,decreases^methylation|increases^abundance
+FSHR,2492,2,2,2,decreases^expression
+FSTL4,23105,2,2,1,decreases^methylation|increases^abundance
+FTCDNL1,348751,2,2,1,increases^abundance|increases^methylation
+FUT9,10690,2,2,1,decreases^methylation|increases^abundance
+G0S2,50486,2,2,2,increases^expression
+G6PC1,2538,2,2,2,decreases^expression; increases^expression
+GAL3ST2,64090,2,2,1,increases^abundance|increases^methylation
+GATA2,2624,2,2,1,decreases^methylation|increases^abundance
+GDF15,9518,2,2,2,increases^expression
+GGA2,23062,2,2,1,decreases^methylation|increases^abundance
+GLRB,2743,2,2,1,decreases^methylation|increases^abundance
+GLRX3,10539,2,2,1,increases^abundance|increases^methylation
+GPR85,54329,2,2,1,decreases^methylation|increases^abundance
+GPRC5A,9052,2,2,2,decreases^expression; increases^expression
+HABP2,3026,2,2,1,increases^abundance|increases^methylation
+HAS2,3037,2,2,2,decreases^expression; increases^expression
+HBM,3042,2,2,1,decreases^methylation|increases^abundance
+HEBP1,50865,2,2,1,increases^abundance|increases^methylation
+HIVEP3,59269,2,2,1,decreases^methylation|increases^abundance
+HLA-B,3106,2,2,1,increases^abundance|increases^methylation
+HLA-C,3107,2,2,1,increases^abundance|increases^methylation
+HOTAIR,100124700,2,2,1,increases^abundance|increases^methylation
+HOXA2,3199,2,2,2,decreases^expression
+HOXC5,3222,2,2,2,decreases^expression; increases^expression
+HS3ST4,9951,2,2,1,increases^abundance|increases^methylation
+HSD3B7,80270,2,2,1,decreases^methylation|increases^abundance
+ICAM1,3383,2,2,2,decreases^expression; increases^expression
+ID1,3397,2,2,2,decreases^expression; increases^expression
+IFFO1,25900,2,2,1,increases^abundance|increases^methylation
+IFNA2,3440,2,2,1,increases^abundance|increases^methylation
+IGSF9B,22997,2,2,1,increases^abundance|increases^methylation
+IL1F10,84639,2,2,1,increases^abundance|increases^methylation
+IL1R1,3554,2,2,2,decreases^expression; increases^expression
+INHBA-AS1,285954,2,2,1,increases^abundance|increases^methylation
+INPP5A,3632,2,2,1,increases^abundance|increases^methylation
+IPO8,10526,2,2,1,increases^abundance|increases^methylation
+IQSEC3,440073,2,2,1,increases^abundance|increases^methylation
+IRX3,79191,2,2,1,increases^abundance|increases^methylation
+ISOC1,51015,2,2,2,decreases^expression; increases^expression
+ISY1,57461,2,2,1,decreases^methylation|increases^abundance
+ITPR2,3709,2,2,1,increases^abundance|increases^methylation
+JAGN1,84522,2,2,1,increases^abundance|increases^methylation
+JPH3,57338,2,2,1,increases^abundance|increases^methylation
+KCNB1,3745,2,2,2,decreases^expression
+KCNB2,9312,2,2,1,decreases^methylation|increases^abundance
+KIF25,3834,2,2,1,increases^abundance|increases^methylation
+KIRREL,100329090,2,2,1,decreases^methylation|increases^abundance
+KLHDC8A,55220,2,2,2,decreases^expression
+KLHL3,26249,2,2,2,decreases^expression
+KLK3,354,2,2,2,affects^cotreatment|increases^expression; decreases^expression
+LBH,81606,2,2,2,decreases^expression; increases^expression
+LBX1-AS1,399806,2,2,1,increases^abundance|increases^methylation
+LCP1,3936,2,2,2,increases^expression
+LEFTY1,10637,2,2,1,increases^abundance|increases^methylation
+LFNG,3955,2,2,2,decreases^expression
+LIG1,3978,2,2,1,increases^expression
+LINC01091,285419,2,2,1,increases^abundance|increases^methylation
+LINC01235,401492,2,2,1,increases^abundance|increases^methylation
+LMTK2,22853,2,2,1,decreases^methylation|increases^abundance
+LPHN2,102850997,2,2,1,increases^abundance|increases^methylation
+LPL,4023,2,2,2,increases^expression
+MAP3K3,4215,2,2,1,increases^abundance|increases^methylation
+MAPK8,5599,2,2,3,affects^phosphorylation; increases^phosphorylation
+MDGA1,266727,2,2,2,decreases^expression
+MEG3,55384,2,2,1,increases^methylation
+METTL15,196074,2,2,1,increases^abundance|increases^methylation
+MGEA5,423851,2,2,1,decreases^methylation|increases^abundance
+MGLL,11343,2,2,2,increases^expression
+MIB2,142678,2,2,1,increases^abundance|increases^methylation
+MIR106B,406900,2,2,1,affects^expression|increases^abundance
+MIR1179,100302235,2,2,1,decreases^methylation|increases^abundance
+MIR124-2,406908,2,2,1,increases^abundance|increases^methylation
+MIR1246,100302142,2,2,2,affects^methylation|increases^abundance; increases^expression
+MIR15B,406949,2,2,1,affects^expression|increases^abundance
+MIR1914,100302137,2,2,1,increases^abundance|increases^methylation
+MIR374A,442919,2,2,1,affects^expression|increases^abundance
+MIR4262,100422996,2,2,1,increases^abundance|increases^methylation
+MIR4277,100422966,2,2,1,increases^abundance|increases^methylation
+MIR548H4,100313884,2,2,1,increases^abundance|increases^methylation
+MIR5579,100847000,2,2,1,increases^abundance|increases^methylation
+MIR921,100126349,2,2,1,decreases^methylation|increases^abundance
+MRPL10,124995,2,2,1,decreases^methylation|increases^abundance
+MRPS36,66128,2,2,1,increases^abundance|increases^methylation
+MSANTD1,345222,2,2,1,increases^abundance|increases^methylation
+MSC,9242,2,2,1,decreases^methylation|increases^abundance
+MSI1,4440,2,2,1,increases^abundance|increases^methylation
+MUC4,4585,2,2,2,decreases^expression; increases^abundance|increases^methylation
+MXRA5,25878,2,2,2,decreases^expression; increases^expression
+MYBPC1,4604,2,2,1,increases^abundance|increases^methylation
+MYLIP,29116,2,2,2,decreases^expression; increases^expression
+MYOM2,9172,2,2,1,decreases^methylation|increases^abundance
+MYT1L,23040,2,2,1,increases^abundance|increases^methylation
+NADK2,133686,2,2,1,decreases^methylation|increases^abundance
+NAMPT,10135,2,2,2,increases^expression
+NASP,4678,2,2,2,decreases^expression; increases^expression
+NBPF22P,285622,2,2,1,increases^abundance|increases^methylation
+NCOR2,9612,2,2,1,increases^abundance|increases^methylation
+NDE1,54820,2,2,1,increases^abundance|increases^methylation
+NEAT1,283131,2,2,2,affects^cotreatment|decreases^expression; affects^expression
+NEUROG2,63973,2,2,2,decreases^expression; increases^expression
+NPPB,4879,2,2,2,decreases^expression; increases^expression
+NPR3,4883,2,2,2,decreases^expression
+NT5DC2,64943,2,2,1,decreases^methylation|increases^abundance
+NTHL1,4913,2,2,1,increases^expression
+NUBP2,10101,2,2,1,increases^abundance|increases^methylation
+NUMBL,9253,2,2,1,decreases^methylation|increases^abundance
+OLA1,29789,2,2,1,increases^abundance|increases^methylation
+OLAH,55301,2,2,2,increases^expression
+OLFM4,10562,2,2,1,increases^abundance|increases^methylation
+OLFML1,283298,2,2,2,decreases^expression; increases^expression
+OSMR,9180,2,2,2,decreases^expression; increases^expression
+OTOS,150677,2,2,1,increases^abundance|increases^methylation
+P2RY1,5028,2,2,1,increases^abundance|increases^methylation
+PACSIN1,29993,2,2,1,increases^abundance|increases^methylation
+PALMD,54873,2,2,2,decreases^expression; increases^expression
+PAX3,5077,2,2,2,decreases^expression; increases^expression
+PAX6,5080,2,2,2,affects^cotreatment|decreases^reaction|increases^expression; increases^expression
+PCDHB10,56126,2,2,1,decreases^methylation|increases^abundance
+PCSK6,5046,2,2,1,increases^abundance|increases^methylation
+PDE1B,5153,2,2,2,decreases^expression; increases^expression
+PDGFRL,5157,2,2,2,decreases^expression; increases^expression
+PEX11B,8799,2,2,2,decreases^expression; increases^expression
+PGAP2,27315,2,2,1,increases^abundance|increases^methylation
+PID1,55022,2,2,2,increases^expression
+PIK3CG,5294,2,2,1,increases^abundance|increases^methylation
+PLA2G2A,5320,2,2,3,decreases^expression
+PLAC8,51316,2,2,2,affects^cotreatment|decreases^expression; decreases^expression
+PLAU,5328,2,2,2,decreases^expression; increases^expression
+PLAUR,5329,2,2,2,increases^expression
+PLCD1,5333,2,2,1,decreases^methylation|increases^abundance
+PLEKHG1,57480,2,2,1,decreases^methylation|increases^abundance
+PLIN2,123,2,2,2,increases^expression; increases^expression|increases^reaction
+POLB,5423,2,2,1,increases^expression
+POLD1,5424,2,2,1,increases^expression
+POLR3H,171568,2,2,1,increases^abundance|increases^methylation
+PPARB,100136658,2,2,1,affects^binding
+PPARD,5467,2,2,2,increases^activity; increases^expression
+PPFIBP2,8495,2,2,2,decreases^expression
+PPM1A,5494,2,2,1,increases^abundance|increases^methylation
+PPM1G,5496,2,2,1,decreases^methylation|increases^abundance
+PRKCZ,5590,2,2,1,increases^abundance|increases^methylation
+PRRX1,5396,2,2,1,increases^abundance|increases^methylation
+PRSS23,11098,2,2,2,decreases^expression; increases^expression
+PSMB9,5698,2,2,1,decreases^methylation|increases^abundance
+PSMD9,5715,2,2,1,increases^abundance|increases^methylation
+PTPRN2,5799,2,2,1,increases^abundance|increases^methylation
+PXDN,7837,2,2,1,increases^abundance|increases^methylation
+RAP1GAP,5909,2,2,1,decreases^methylation|increases^abundance
+RARA,5914,2,2,1,decreases^methylation|increases^abundance
+RBM38,55544,2,2,1,increases^abundance|increases^methylation
+RCBTB1,55213,2,2,1,decreases^methylation|increases^abundance
+RERE,473,2,2,1,decreases^methylation|increases^abundance
+RFNG,5986,2,2,1,increases^abundance|increases^methylation
+RHOB,388,2,2,1,increases^abundance|increases^methylation
+RPA1,6117,2,2,1,increases^abundance|increases^methylation
+RPSAP52,204010,2,2,1,increases^abundance|increases^methylation
+RREB1,6239,2,2,1,decreases^methylation|increases^abundance
+RUVBL1,8607,2,2,1,increases^abundance|increases^methylation
+RXRA,6256,2,2,1,affects^binding
+RXRB,6257,2,2,1,affects^binding
+RXRG,6258,2,2,2,affects^binding; decreases^expression
+SATB2,23314,2,2,2,decreases^expression; increases^expression
+SCAF11,9169,2,2,1,increases^abundance|increases^methylation
+SCFD2,152579,2,2,1,increases^abundance|increases^methylation
+SCG5,6447,2,2,3,decreases^expression
+SDK1,221935,2,2,1,increases^abundance|increases^methylation
+SDR9C7,121214,2,2,1,decreases^methylation|increases^abundance
+SELP,6403,2,2,1,decreases^methylation|increases^abundance
+SERPINE1,5054,2,2,2,increases^expression
+SET,6418,2,2,2,increases^expression
+SFRP1,6422,2,2,1,increases^abundance|increases^methylation
+SGK1,6446,2,2,2,decreases^expression; increases^expression
+SKIDA1,387640,2,2,2,decreases^expression
+SLC25A45,283130,2,2,1,decreases^methylation|increases^abundance
+SLC29A1,2030,2,2,1,increases^abundance|increases^methylation
+SLC40A1,30061,2,2,2,decreases^expression; increases^expression
+SLC71A1,64645,2,2,1,decreases^methylation|increases^abundance
+SLFN12,55106,2,2,2,decreases^expression; increases^expression
+SMOC2,64094,2,2,1,increases^abundance|increases^methylation
+SNAP25-AS1,100131208,2,2,1,increases^abundance|increases^methylation
+SNX24,28966,2,2,1,decreases^methylation|increases^abundance
+SOCS2-AS1,144481,2,2,1,affects^expression
+SOX5,6660,2,2,2,decreases^expression; increases^expression
+SPON1,10418,2,2,1,increases^abundance|increases^methylation
+SPOPL,339745,2,2,1,increases^abundance|increases^methylation
+SPTBN1,6711,2,2,1,increases^abundance|increases^methylation
+SRSF8,10929,2,2,1,increases^abundance|increases^methylation
+ST3GAL1,6482,2,2,2,increases^expression
+STARD9,57519,2,2,1,increases^abundance|increases^methylation
+STC2,8614,2,2,2,increases^expression
+STMN4,81551,2,2,2,decreases^expression
+SUCNR1,56670,2,2,1,increases^abundance|increases^methylation
+SYNE2,23224,2,2,1,increases^abundance|increases^methylation
+SYT12,91683,2,2,2,decreases^expression; increases^expression
+TBC1D1,23216,2,2,1,increases^abundance|increases^methylation
+TBCD,6904,2,2,1,decreases^methylation|increases^abundance
+TBX20,57057,2,2,1,increases^abundance|increases^methylation
+TCP10L,140290,2,2,1,increases^abundance|increases^methylation
+TESPA1,9840,2,2,1,decreases^methylation|increases^abundance
+TEX29,121793,2,2,1,increases^abundance|increases^methylation
+TEX36-AS1,100169752,2,2,1,increases^abundance|increases^methylation
+TH,7054,2,2,1,increases^abundance|increases^methylation
+TIMP3,7078,2,2,2,decreases^expression; increases^expression
+TM6SF1,53346,2,2,2,decreases^expression; increases^expression
+TMEFF2,23671,2,2,3,decreases^expression
+TMEM154,201799,2,2,2,increases^expression
+TMEM204,79652,2,2,1,increases^abundance|increases^methylation
+TMEM52,339456,2,2,1,decreases^methylation|increases^abundance
+TNFRSF21,27242,2,2,2,increases^expression
+TNFRSF8,943,2,2,2,decreases^expression
+TNFSF11,8600,2,2,1,increases^abundance|increases^methylation
+TNR,7143,2,2,1,decreases^methylation|increases^abundance
+TOE1,114034,2,2,1,increases^abundance|increases^methylation
+TPM1,7168,2,2,2,decreases^expression
+TRIB3,57761,2,2,2,increases^expression
+TRIM22,10346,2,2,2,decreases^expression; increases^expression
+TRIM26,7726,2,2,1,increases^abundance|increases^methylation
+TSHB,7252,2,2,1,decreases^secretion|increases^abundance
+TSLP,85480,2,2,1,decreases^methylation|increases^abundance
+TTC34,100287898,2,2,1,increases^abundance|increases^methylation
+TTC40,24590450,2,2,1,increases^abundance|increases^methylation
+TUBGCP3,10426,2,2,1,increases^abundance|increases^methylation
+TUG1,55000,2,2,1,affects^expression
+TXN,7295,2,2,1,increases^abundance|increases^methylation
+UBD,10537,2,2,1,increases^abundance|increases^methylation
+UBE2F-SCLY,100533179,2,2,1,increases^abundance|increases^methylation
+UBTD2,92181,2,2,1,increases^abundance|increases^methylation
+UNG,7374,2,2,2,increases^expression
+USP3,9960,2,2,1,increases^abundance|increases^methylation
+VARS1,7407,2,2,1,increases^abundance|increases^methylation
+VEPH1,79674,2,2,2,decreases^expression; increases^expression
+VEZF1,7716,2,2,2,decreases^expression; increases^expression
+VPS37C,55048,2,2,1,decreases^methylation|increases^abundance
+VPS53,55275,2,2,1,increases^abundance|increases^methylation
+WASF3,10810,2,2,2,decreases^expression
+WDR63,429090,2,2,1,decreases^methylation|increases^abundance
+YTHDF1,54915,2,2,1,decreases^methylation|increases^abundance
+YY1P2,647012,2,2,1,increases^abundance|increases^methylation
+ZC3H10,84872,2,2,1,decreases^methylation|increases^abundance
+ZC3H7B,23264,2,2,1,increases^abundance|increases^methylation
+ZNF114,163071,2,2,1,decreases^methylation|increases^abundance
+ZNF492,57615,2,2,1,decreases^methylation|increases^abundance
+ZNF502,91392,2,2,1,increases^abundance|increases^methylation
+ZNF618,114991,2,2,1,decreases^methylation|increases^abundance
+ZNF644,84146,2,2,1,decreases^methylation|increases^abundance
+ZNF704,619279,2,2,1,increases^abundance|increases^methylation
+ZNF721,170960,2,2,1,decreases^methylation|increases^abundance
+ZNF91,7644,2,2,1,increases^abundance|increases^methylation
+RAP1A,5906,14,1,1,decreases^expression|increases^reaction; increases^expression; increases^expression|increases^reaction
+IL12B,3593,12,1,1,affects^reaction|decreases^reaction|increases^expression; decreases^reaction|increases^expression
+SP3,6670,10,1,1,affects^binding|decreases^reaction; decreases^acetylation|decreases^reaction|increases^ubiquitination; decreases^acetylation|increases^ubiquitination; decreases^expression
+NR3C1,2908,9,1,3,affects^cotreatment|increases^activity; affects^cotreatment|increases^activity|increases^reaction; increases^activity; increases^activity|increases^reaction
+SLC39A5,283375,9,1,1,decreases^reaction|increases^expression|increases^reaction; decreases^reaction|increases^phosphorylation|increases^reaction; increases^cleavage|increases^reaction; increases^expression
+KLF7,8609,8,1,1,decreases^expression; decreases^expression|decreases^reaction; decreases^reaction|increases^expression
+FOXO3,2309,7,1,1,affects^localization|decreases^phosphorylation|increases^expression; increases^expression; increases^expression|increases^reaction
+TFEB,7942,7,1,1,decreases^activity|decreases^reaction; decreases^expression; decreases^expression|decreases^reaction; decreases^reaction|increases^cleavage
+TSHR,7253,7,1,2,affects^reaction|increases^expression; affects^reaction|increases^phosphorylation; decreases^expression
+MIR26A1,407015,6,1,2,affects^secretion|increases^abundance; decreases^expression|increases^reaction; decreases^reaction|increases^expression; increases^expression
+CDH1,999,5,1,5,decreases^expression; decreases^expression|increases^reaction; increases^expression
+RPS6KB1,6198,5,1,2,decreases^expression; decreases^reaction|increases^expression; increases^expression
+YAP1,10413,5,1,1,affects^localization|decreases^phosphorylation|increases^activity|increases^expression|increases^stability; decreases^reaction|increases^stability; increases^expression; increases^expression|increases^reaction
+CCNE1,898,4,1,2,affects^reaction|increases^expression; decreases^expression; increases^expression
+COX4I1,1327,4,1,1,affects^cotreatment|decreases^reaction|increases^degradation; affects^cotreatment|increases^degradation; affects^cotreatment|increases^degradation|increases^reaction
+EIF2AK3,9451,4,1,1,decreases^expression|decreases^reaction; decreases^reaction|increases^expression; increases^expression
+GPX4,2879,4,1,3,decreases^expression; decreases^expression|decreases^reaction; decreases^expression|increases^reaction; increases^expression
+H2AX,3014,4,1,2,affects^reaction|increases^phosphorylation; decreases^reaction|increases^expression; decreases^reaction|increases^expression|increases^reaction; increases^phosphorylation
+IRF1,3659,4,1,1,increases^expression; increases^expression|increases^reaction
+IRS1,3667,4,1,1,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction
+MFN1,55669,4,1,1,affects^cotreatment|decreases^reaction|increases^degradation; affects^cotreatment|increases^degradation; affects^cotreatment|increases^degradation|increases^reaction
+MFN2,9927,4,1,1,affects^cotreatment|decreases^reaction|increases^degradation; affects^cotreatment|increases^degradation; affects^cotreatment|increases^degradation|increases^reaction
+MIR27B,407019,4,1,1,affects^reaction|decreases^expression; decreases^expression; decreases^reaction|increases^expression
+MYD88,4615,4,1,2,affects^cotreatment|decreases^expression; decreases^reaction|increases^expression; increases^expression
+NGB,58157,4,1,1,affects^binding|decreases^reaction; decreases^expression; decreases^expression|decreases^reaction
+NOL3,8996,4,1,1,increases^expression; increases^expression|increases^reaction
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction
+RELB,5971,4,1,1,affects^binding|increases^reaction; affects^localization; affects^localization|affects^reaction
+THRB,7068,4,1,3,affects^binding|decreases^activity; affects^binding|increases^activity; affects^expression; decreases^expression
+TNFAIP3,7128,4,1,2,affects^reaction|decreases^reaction|increases^expression; decreases^reaction|increases^expression; increases^expression
+ABCC4,10257,3,1,2,affects^cotreatment|decreases^expression; affects^cotreatment|decreases^reaction|increases^expression; affects^cotreatment|increases^expression
+ACACA,31,3,1,2,affects^expression; decreases^expression
+AKR1C1,1645,3,1,2,affects^cotreatment|affects^expression|affects^reaction; increases^expression
+ALOX5,240,3,1,1,affects^cotreatment|increases^expression; decreases^reaction|increases^expression; increases^expression
+C3,718,3,1,1,affects^cotreatment|increases^expression; decreases^reaction|increases^expression; increases^expression
+CCR6,1235,3,1,1,affects^cotreatment|increases^expression; decreases^reaction|increases^expression; increases^expression
+CD14,929,3,1,1,affects^cotreatment|decreases^expression; decreases^expression; decreases^expression|decreases^reaction
+CD40,958,3,1,2,affects^cotreatment|decreases^expression; decreases^expression; increases^expression
+CSF1R,1436,3,1,2,affects^cotreatment|decreases^expression; decreases^expression; increases^expression
+CTSD,1509,3,1,2,decreases^activity; decreases^activity|decreases^reaction; increases^expression
+CYP2C8,1558,3,1,1,affects^binding|increases^reaction; decreases^activity|increases^expression|increases^metabolic processing; increases^expression
+CYP2D6,1565,3,1,1,affects^binding|increases^reaction; decreases^activity|increases^expression|increases^metabolic processing; increases^expression
+CYP4F11,57834,3,1,1,affects^cotreatment|increases^expression; decreases^expression; decreases^expression|decreases^reaction
+F2,2147,3,1,2,affects^cotreatment|increases^expression; decreases^expression; decreases^expression|decreases^reaction
+FASN,2194,3,1,3,affects^expression; increases^expression
+GSDMD,79792,3,1,1,decreases^reaction|increases^cleavage; increases^cleavage; increases^cleavage|increases^reaction
+HCK,3055,3,1,1,affects^cotreatment|decreases^expression; decreases^expression; decreases^expression|decreases^reaction
+HDAC4,9759,3,1,1,decreases^acetylation|decreases^reaction|increases^ubiquitination; increases^expression
+HFE,3077,3,1,1,affects^cotreatment|increases^expression; decreases^expression; decreases^expression|decreases^reaction
+HPGD,3248,3,1,2,affects^cotreatment|decreases^expression|decreases^reaction; increases^expression
+HRH4,59340,3,1,1,affects^cotreatment|decreases^expression; decreases^expression; decreases^expression|decreases^reaction
+IL34,146433,3,1,1,affects^cotreatment|decreases^expression; decreases^expression; decreases^expression|decreases^reaction
+KRAS,3845,3,1,1,affects^reaction|increases^phosphorylation
+LGALS3,3958,3,1,2,decreases^expression; decreases^expression|decreases^reaction; increases^expression
+LY75,4065,3,1,1,affects^cotreatment|decreases^expression; decreases^expression; decreases^expression|decreases^reaction
+MAP4K4,9448,3,1,1,affects^localization|affects^reaction; affects^reaction|increases^expression
+MIR372,442917,3,1,1,decreases^expression; decreases^reaction|increases^expression
+NFKB2,4791,3,1,1,affects^binding|increases^reaction; affects^localization
+PRKCG,5582,3,1,2,affects^reaction|decreases^reaction|increases^expression; decreases^expression
+PTCH1,5727,3,1,1,affects^cotreatment|increases^expression; decreases^expression|decreases^reaction; increases^expression
+PTGER2,5732,3,1,2,affects^cotreatment|affects^expression|affects^reaction; decreases^expression
+PTGS1,5742,3,1,2,affects^cotreatment|affects^expression|affects^reaction; decreases^expression
+SCD,6319,3,1,3,affects^expression; increases^expression
+SLCO2A1,6578,3,1,2,affects^cotreatment|affects^reaction|increases^expression; increases^expression
+SQSTM1,8878,3,1,2,decreases^reaction|increases^expression; increases^expression
+SULT1A3,6818,3,1,2,affects^cotreatment|affects^expression; affects^expression; increases^expression
+THRA,7067,3,1,2,affects^binding|increases^activity; decreases^expression
+UCN,7349,3,1,2,affects^cotreatment|increases^expression; decreases^expression; increases^expression
+AASS,10157,2,1,1,decreases^expression; increases^expression
+ABCB1,5243,2,1,1,increases^expression; increases^expression|increases^reaction
+ACADVL,37,2,1,2,affects^response to substance|increases^expression; increases^expression
+ACSL1,2180,2,1,1,decreases^expression; increases^expression
+ADAMTS1,9510,2,1,2,affects^cotreatment|affects^expression|affects^reaction; increases^expression
+ADAMTS15,170689,2,1,2,decreases^expression; increases^expression
+AHNAK,79026,2,1,1,decreases^expression; increases^expression
+ALDH1A1,216,2,1,1,decreases^expression; increases^expression
+ANXA4,307,2,1,1,decreases^expression; increases^expression
+APOL3,80833,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+AQP1,358,2,1,1,decreases^expression; increases^expression
+ARHGAP1,392,2,1,1,decreases^expression; increases^expression
+ARHGAP18,93663,2,1,1,increases^expression
+ATM,472,2,1,1,decreases^reaction|increases^expression; decreases^reaction|increases^expression|increases^reaction
+BLNK,29760,2,1,1,affects^cotreatment|increases^expression; increases^expression
+BMP2,650,2,1,1,affects^cotreatment|increases^expression; increases^expression
+C4A,720,2,1,1,affects^cotreatment|affects^expression; decreases^expression
+C4B,721,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+C5AR1,728,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+CA14,23632,2,1,1,decreases^expression; increases^expression
+CA3,761,2,1,1,decreases^expression; increases^expression
+CACNA2D2,9254,2,1,1,decreases^expression; increases^expression
+CAPN6,827,2,1,1,decreases^expression; increases^expression
+CCL25,6370,2,1,1,affects^cotreatment|increases^expression; increases^expression
+CCL4,6351,2,1,1,affects^cotreatment|decreases^secretion; decreases^secretion
+CCR2,729230,2,1,1,decreases^reaction|increases^expression; increases^expression
+CD96,10225,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+CENPV,201161,2,1,1,decreases^expression; increases^expression
+CHI3L1,1116,2,1,2,decreases^expression; decreases^expression|decreases^reaction
+CKMT1A,548596,2,1,1,affects^cotreatment|affects^expression; decreases^expression
+CLEC7A,64581,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+CMKLR1,1240,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+COL12A1,1303,2,1,1,decreases^expression; increases^expression
+CSRP1,1465,2,1,1,decreases^expression; increases^expression
+CSRP2,1466,2,1,1,decreases^expression; increases^expression
+CXCL3,2921,2,1,1,affects^cotreatment|increases^expression; increases^expression
+CXCL5,6374,2,1,1,decreases^reaction|increases^expression; increases^expression
+CYP17A1,1586,2,1,2,increases^expression
+DNMT1,1786,2,1,1,affects^cotreatment|affects^expression; affects^cotreatment|increases^expression
+DNMT3B,1789,2,1,1,decreases^expression; increases^expression
+DPPA4,55211,2,1,1,decreases^expression; increases^expression
+EIF3CL,728689,2,1,2,affects^cotreatment|affects^expression; increases^expression
+ERO1A,30001,2,1,2,decreases^expression; increases^expression
+FAM114A1,92689,2,1,1,decreases^expression; increases^expression
+FFAR2,2867,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+FRMD6,122786,2,1,1,decreases^expression; increases^expression
+GALNT3,2591,2,1,1,decreases^expression; increases^expression
+GATA3,2625,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+GCK,2645,2,1,2,affects^expression; decreases^expression
+GNPDA1,10007,2,1,1,affects^cotreatment|affects^expression; increases^expression
+GPT,2875,2,1,2,increases^activity; increases^expression
+GPX1,2876,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+GSTA2,2939,2,1,2,affects^cotreatment|increases^expression; increases^expression
+GSTK1,373156,2,1,1,decreases^expression; increases^expression
+HAPLN1,1404,2,1,1,decreases^expression; increases^expression
+HEXA,3073,2,1,1,affects^binding|decreases^reaction|increases^secretion; affects^binding|increases^secretion
+HEXB,3074,2,1,1,affects^binding|decreases^reaction|increases^secretion; affects^binding|increases^secretion
+HOMER2,9455,2,1,2,decreases^expression; increases^expression
+HP,3240,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+HPR,3250,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+HSD3B2,3284,2,1,2,affects^cotreatment|affects^reaction|increases^expression; decreases^expression
+HSPA5,3309,2,1,1,decreases^expression|decreases^reaction; increases^expression
+IFI16,3428,2,1,1,increases^expression
+IFNL3,282617,2,1,1,increases^expression
+IL17B,27190,2,1,1,decreases^reaction|increases^expression; increases^expression
+IL1RAP,3556,2,1,1,affects^cotreatment|increases^expression; increases^expression
+IL20RB,53833,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+IL27,246778,2,1,1,affects^cotreatment|decreases^expression; increases^expression
+IL31RA,133396,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+IL4,3565,2,1,1,decreases^reaction|increases^expression; increases^expression
+ITGB6,3694,2,1,1,decreases^expression; increases^expression
+KIF5C,3800,2,1,1,decreases^expression; increases^expression
+LDHD,197257,2,1,1,decreases^expression; increases^expression
+LMCD1,29995,2,1,1,decreases^expression; increases^expression
+LOX,4015,2,1,2,decreases^expression; increases^expression
+LPCAT2,54947,2,1,1,decreases^expression; increases^expression
+LUM,4060,2,1,2,affects^cotreatment|decreases^expression; increases^expression
+LY96,23643,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+MAN2B2,23324,2,1,1,decreases^expression; increases^expression
+MAP2K1,5604,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction
+MAP2K2,5605,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction
+MEFV,4210,2,1,1,decreases^reaction|increases^expression; increases^expression
+MIR16-1,406950,2,1,1,affects^reaction|decreases^expression; increases^expression
+MIR99B,407056,2,1,2,affects^secretion|increases^abundance; decreases^expression
+MKI67,4288,2,1,2,affects^cotreatment|affects^expression; increases^expression
+MSX1,4487,2,1,2,decreases^expression; increases^expression
+MT2A,4502,2,1,2,increases^abundance|increases^expression; increases^expression
+MX1,4599,2,1,1,decreases^expression; increases^expression
+MYLK3,91807,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+NFKBID,84807,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+NLRP9,338321,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+NR1H3,10062,2,1,3,affects^binding|increases^activity|increases^reaction; increases^expression
+NR4A1,3164,2,1,2,decreases^expression; increases^expression
+NRF1,4899,2,1,1,decreases^expression
+OMD,4958,2,1,2,affects^cotreatment|decreases^expression; decreases^expression
+P4HA2,8974,2,1,1,decreases^expression; increases^expression
+P4HB,5034,2,1,1,decreases^expression; increases^expression
+PF4V1,5197,2,1,1,decreases^reaction|increases^expression; increases^expression
+PGBD3,267004,2,1,1,affects^cotreatment|affects^expression; affects^expression
+PGR,5241,2,1,1,affects^cotreatment|decreases^reaction|increases^expression
+PHOSPHO2-KLHL23,100526832,2,1,2,affects^cotreatment|affects^expression; decreases^expression
+PIPOX,51268,2,1,2,decreases^expression; increases^expression
+PMAIP1,5366,2,1,2,increases^expression
+POC1B-GALNT4,100528030,2,1,1,affects^cotreatment|affects^expression; decreases^expression
+POSTN,10631,2,1,2,decreases^expression; decreases^expression|increases^methylation
+POU5F1,5460,2,1,2,affects^cotreatment|decreases^expression|decreases^reaction; increases^expression
+PPIC,5480,2,1,1,decreases^expression; increases^expression
+PPP2CA,5515,2,1,1,decreases^expression|increases^activity; decreases^reaction|increases^activity
+PRKCE,5581,2,1,1,affects^reaction|increases^expression; increases^expression
+PSTPIP1,9051,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+PTGER1,5731,2,1,1,affects^cotreatment|affects^reaction|decreases^expression|decreases^reaction; affects^cotreatment|decreases^expression|decreases^reaction
+PTGER3,5733,2,1,1,affects^cotreatment|affects^expression|affects^reaction
+PTGES2,80142,2,1,1,affects^cotreatment|affects^reaction|decreases^expression
+PTN,5764,2,1,1,decreases^expression; increases^expression
+RAB31,11031,2,1,1,decreases^expression; increases^expression
+RAB9A,9367,2,1,1,decreases^expression; increases^expression
+RAP1B,5908,2,1,1,increases^expression; increases^expression|increases^reaction
+RCC1L,81554,2,1,1,decreases^expression; increases^expression
+REM1,28954,2,1,1,decreases^expression; increases^expression
+RGS4,5999,2,1,2,decreases^expression; increases^expression
+S100A10,6281,2,1,1,decreases^expression; increases^expression
+S100A8,6279,2,1,2,affects^cotreatment|increases^expression; increases^expression
+SAMHD1,25939,2,1,1,decreases^expression; increases^expression
+SERPINA3,12,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+SERPINE2,5270,2,1,1,decreases^expression; increases^expression
+SERPINF2,5345,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+SFRP2,6423,2,1,1,decreases^expression; increases^expression
+SIGLEC1,6614,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+SIRT1,23411,2,1,2,decreases^expression
+SLC1A3,6507,2,1,2,decreases^expression; increases^expression
+SLC27A6,28965,2,1,1,decreases^expression; increases^expression
+SLC6A12,6539,2,1,2,decreases^expression; increases^expression
+SLC7A10,56301,2,1,2,decreases^expression; increases^expression
+SLC7A3,84889,2,1,1,decreases^expression; increases^expression
+SMO,6608,2,1,1,affects^cotreatment|increases^expression; decreases^reaction|increases^expression
+SULT1A4,445329,2,1,1,affects^cotreatment|affects^expression; affects^expression
+SUSD2,56241,2,1,2,affects^cotreatment|decreases^expression; increases^expression
+TACR1,6869,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+TFAM,7019,2,1,1,decreases^expression
+TFF3,7033,2,1,1,increases^expression
+TGFBI,7045,2,1,1,decreases^expression; increases^expression
+TLR1,7096,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+TNC,3371,2,1,1,decreases^expression; increases^expression
+TNFAIP8,25816,2,1,1,decreases^expression; increases^expression
+TNFRSF1B,7133,2,1,1,affects^cotreatment|increases^expression; increases^expression
+TNFRSF4,7293,2,1,1,decreases^reaction|increases^expression; increases^expression
+TNFSF10,8743,2,1,2,decreases^expression; decreases^expression|increases^methylation
+TNIP3,79931,2,1,1,decreases^reaction|increases^expression; increases^expression
+TRHR,7201,2,1,1,decreases^reaction|increases^expression; increases^expression
+TRIM16,10626,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+TSPO,706,2,1,1,decreases^expression; increases^expression
+TTR,7276,2,1,1,affects^secretion|decreases^uptake; decreases^expression
+TUBB3,10381,2,1,2,decreases^expression; increases^expression
+TUBB4A,10382,2,1,1,decreases^expression; increases^expression
+TUBB6,84617,2,1,1,decreases^expression; increases^expression
+USP49,25862,2,1,1,increases^expression
+VAT1L,57687,2,1,1,decreases^expression; increases^expression
+VNN1,8876,2,1,1,affects^cotreatment|decreases^expression; decreases^expression
+VTCN1,79679,2,1,1,decreases^expression; increases^expression
+XCL1,6375,2,1,1,decreases^expression; decreases^expression|decreases^reaction
+A2M,2,1,1,1,decreases^expression
+AAMDC,28971,1,1,1,decreases^expression
+AATK,9625,1,1,1,decreases^expression
+ABCA9,10350,1,1,1,decreases^expression
+ABCB11,8647,1,1,1,decreases^expression
+ABCC2,1244,1,1,1,affects^cotreatment|increases^expression
+ABCC3,8714,1,1,1,affects^cotreatment|increases^expression
+ABCC6,368,1,1,1,decreases^expression
+ABCC8,6833,1,1,1,decreases^expression
+ABCG2,9429,1,1,1,affects^cotreatment|increases^expression
+ABHD5,51099,1,1,1,increases^expression
+ABHD6,57406,1,1,1,increases^expression
+ABI2,10152,1,1,1,decreases^expression
+ABLIM2,84448,1,1,1,increases^expression
+ABLIM3,22885,1,1,1,increases^expression
+ABTB3,121551,1,1,1,decreases^expression
+ACAA1A,113868,1,1,1,affects^response to substance|increases^expression
+ACBD7,414149,1,1,1,increases^expression
+ACCS,84680,1,1,1,decreases^expression
+ACIN1,22985,1,1,1,affects^expression
+ACKR1,2532,1,1,1,decreases^expression
+ACKR2,1238,1,1,1,increases^expression
+ACLY,47,1,1,1,decreases^expression
+ACOT7,11332,1,1,1,decreases^expression
+ACSF2,80221,1,1,1,increases^expression
+ACSL3,2181,1,1,1,increases^expression
+ACSL5,51703,1,1,1,increases^expression
+ACSS2,55902,1,1,1,decreases^expression
+ACTA1,58,1,1,1,increases^expression
+ACTA2,59,1,1,1,increases^expression
+ACTBL2,345651,1,1,1,increases^expression
+ACTG2,72,1,1,1,increases^expression
+ACTN1,87,1,1,1,increases^expression
+ACTR1B,10120,1,1,1,decreases^expression
+ACTR3,10096,1,1,1,increases^expression
+ADAM11,4185,1,1,1,decreases^expression
+ADAM19,8728,1,1,1,increases^expression
+ADAM22,53616,1,1,1,decreases^expression
+ADAM23,8745,1,1,1,decreases^expression
+ADAMTS14,140766,1,1,1,decreases^expression
+ADAMTS4,9507,1,1,1,decreases^expression
+ADARB1,104,1,1,1,decreases^expression
+ADCYAP1R1,117,1,1,1,decreases^expression
+ADD3,120,1,1,1,decreases^expression
+ADGRG1,9289,1,1,1,increases^expression
+ADGRG6,57211,1,1,1,increases^expression
+ADGRL4,64123,1,1,1,increases^expression
+ADIPOR2,79602,1,1,1,decreases^expression
+ADM2,79924,1,1,1,increases^expression
+ADPRHL2,419626,1,1,1,decreases^expression
+ADRA2B,151,1,1,1,decreases^expression
+ADRB3,155,1,1,1,decreases^expression
+ADSS1,122622,1,1,1,decreases^expression
+AEBP1,165,1,1,1,decreases^expression
+AFAP1,60312,1,1,1,increases^expression
+AFAP1L1,134265,1,1,1,increases^expression
+AFF2,2334,1,1,1,decreases^expression
+AFP,174,1,1,1,decreases^expression
+AGA,175,1,1,1,decreases^expression
+AGMO,392636,1,1,1,decreases^expression
+AGPAT4,56895,1,1,1,decreases^expression
+AGT,183,1,1,1,decreases^expression
+AHI1,54806,1,1,1,decreases^expression
+AHNAK2,113146,1,1,1,increases^expression
+AHSG,197,1,1,1,affects^cotreatment|decreases^expression
+AIFM2,84883,1,1,1,increases^expression
+AIM1L,419544,1,1,1,increases^expression
+AK4,205,1,1,1,increases^expression
+AKAP5,9495,1,1,1,increases^expression
+AKAP6,9472,1,1,1,decreases^expression
+AKR1B10,57016,1,1,1,increases^expression
+AKR1E2,83592,1,1,1,increases^expression
+AKT1S1,84335,1,1,1,decreases^expression
+ALDH1A3,220,1,1,1,increases^expression
+ALDOA,226,1,1,1,increases^expression
+ALKBH5,54890,1,1,1,increases^expression
+ALOX5AP,241,1,1,1,increases^expression
+ALPK2,115701,1,1,1,increases^expression
+ALPL,249,1,1,1,increases^expression
+ALPP,250,1,1,1,decreases^expression
+AMER2,219287,1,1,1,increases^expression
+AMH,268,1,1,1,decreases^expression
+AMHR2,269,1,1,1,decreases^expression
+AMIGO2,347902,1,1,1,increases^expression
+AMOT,154796,1,1,1,increases^expression
+AMOTL1,154810,1,1,1,increases^expression
+ANG,283,1,1,1,decreases^expression
+ANGPT2,285,1,1,1,decreases^expression
+ANGPT4,51378,1,1,1,decreases^expression
+ANGPTL1,9068,1,1,1,decreases^expression
+ANK2,287,1,1,1,increases^expression
+ANKH,56172,1,1,1,decreases^expression
+ANKRD10,55608,1,1,1,affects^expression
+ANKRD13C-DT,11147,1,1,1,decreases^expression
+ANKRD36,375248,1,1,1,decreases^expression
+ANKRD37,353322,1,1,1,decreases^expression
+ANKS1A,23294,1,1,1,increases^expression
+ANO4,121601,1,1,1,increases^expression
+ANP32D,23519,1,1,1,decreases^expression
+ANTXR2,118429,1,1,1,increases^expression
+ANXA1,301,1,1,1,increases^expression
+ANXA2,302,1,1,1,increases^expression
+ANXA3,306,1,1,1,increases^expression
+ANXA5,308,1,1,1,increases^expression
+ANXA8L1,728113,1,1,1,decreases^expression
+ANXA9,8416,1,1,1,decreases^expression
+AP1G2,8906,1,1,1,affects^expression
+AP1M1,8907,1,1,1,decreases^expression
+AP1M2,10053,1,1,1,increases^expression
+APBA2,321,1,1,1,decreases^expression
+APBB2,323,1,1,1,decreases^expression
+APCDD1L,164284,1,1,1,decreases^expression
+APEX1,328,1,1,1,increases^expression
+APLP1,333,1,1,1,decreases^expression
+APOL1,8542,1,1,1,decreases^expression
+AQP4,361,1,1,1,decreases^expression
+AQP7,364,1,1,1,increases^expression
+ARAP2,116984,1,1,1,increases^expression
+ARC,23237,1,1,1,decreases^expression
+ARGLU1,55082,1,1,1,affects^expression
+ARHGAP27,201176,1,1,1,increases^expression
+ARHGAP28,79822,1,1,1,decreases^expression
+ARHGAP29,9411,1,1,1,increases^expression
+ARHGAP31,57514,1,1,1,increases^expression
+ARHGAP42,143872,1,1,1,increases^expression
+ARHGAP45,23526,1,1,1,decreases^expression
+ARHGAP6,395,1,1,1,decreases^expression
+ARHGAP8,23779,1,1,1,decreases^expression
+ARHGDIA,396,1,1,1,increases^expression
+ARHGDIB,397,1,1,1,increases^expression
+ARHGEF25,115557,1,1,1,decreases^expression
+ARHGEF4,50649,1,1,1,decreases^expression
+ARHGEF5,7984,1,1,1,increases^expression
+ARL1,400,1,1,1,decreases^expression
+ARL3,403,1,1,1,decreases^expression
+ARL8B,55207,1,1,1,decreases^expression
+ARMC12,221481,1,1,1,decreases^expression
+ARPC1B,10095,1,1,1,increases^expression
+ARRDC3,57561,1,1,1,increases^expression
+ARSA,410,1,1,1,decreases^expression
+ARSD,414,1,1,1,increases^expression
+ARSG,22901,1,1,1,increases^expression
+ARX,170302,1,1,1,decreases^expression
+ASGR1,432,1,1,1,decreases^expression
+ASIC1,41,1,1,1,decreases^expression
+ASIP,434,1,1,1,decreases^expression
+ASNS,440,1,1,1,increases^expression
+ASPA,443,1,1,1,increases^expression
+ATCAY,85300,1,1,1,decreases^expression
+ATG16L2,89849,1,1,1,decreases^expression
+ATOH8,84913,1,1,1,decreases^expression
+ATOSB,80256,1,1,1,increases^expression
+ATP12A,479,1,1,1,increases^expression
+ATP1A2,477,1,1,1,decreases^expression
+ATP1A4,480,1,1,1,increases^expression
+ATP1B2,482,1,1,1,decreases^expression
+ATP2A1,487,1,1,1,decreases^expression
+ATP5MF-PTCD1,100526740,1,1,1,affects^cotreatment|affects^expression
+ATP6V1B1,525,1,1,1,decreases^expression
+ATP6V1E1,529,1,1,1,decreases^expression
+ATP8,4509,1,1,1,decreases^expression
+ATP8B3,148229,1,1,1,decreases^expression
+ATXN1,6310,1,1,1,increases^expression
+ATXN3,4287,1,1,1,decreases^expression
+ATXN3L,92552,1,1,1,increases^expression
+AUP1,550,1,1,1,decreases^expression
+AURKA,6790,1,1,1,increases^expression
+AVPR1A,552,1,1,1,increases^expression
+B3GALNT1,8706,1,1,1,decreases^expression
+B3GALT2,8707,1,1,1,decreases^expression
+B3GAT1,27087,1,1,1,decreases^expression
+BACE1-AS,100379571,1,1,1,affects^expression
+BACH2,60468,1,1,1,increases^expression
+BAG3,9531,1,1,1,increases^expression
+BAHCC1,57597,1,1,1,decreases^expression
+BAIAP2L2,80115,1,1,1,decreases^expression
+BAMBI,25805,1,1,1,increases^expression
+BARD1,580,1,1,1,decreases^expression
+BBC3,27113,1,1,1,increases^expression
+BCHE,590,1,1,1,decreases^expression
+BCL11A,53335,1,1,1,increases^expression
+BCL2L2-PABPN1,100529063,1,1,1,decreases^expression
+BCL6B,255877,1,1,1,decreases^expression
+BCO1,53630,1,1,1,decreases^expression
+BDP1,55814,1,1,1,increases^expression
+BEND3,57673,1,1,1,increases^expression
+BEND4,389206,1,1,1,decreases^expression
+BHLHE40,8553,1,1,1,increases^expression
+BHMT,635,1,1,1,decreases^expression
+BHMT2,23743,1,1,1,decreases^expression
+BICC1,80114,1,1,1,decreases^expression
+BMAL1,406,1,1,1,increases^expression
+BMERB1,89927,1,1,1,decreases^expression
+BMF,90427,1,1,1,decreases^expression
+BMP1,649,1,1,1,increases^expression
+BMP5,653,1,1,1,decreases^expression
+BMPER,168667,1,1,1,increases^expression
+BNC1,646,1,1,1,increases^expression
+BOLA2B,654483,1,1,1,decreases^expression
+BRAT1,221927,1,1,1,decreases^expression
+BRINP2,57795,1,1,1,decreases^expression
+BRSK2,9024,1,1,1,increases^expression
+BST1,683,1,1,1,increases^expression
+BST2,684,1,1,1,decreases^expression
+BTBD8,284697,1,1,1,decreases^expression
+BTG1,694,1,1,1,decreases^expression
+BTN2A2,10385,1,1,1,decreases^expression
+BTN3A1,11119,1,1,1,decreases^expression
+BTN3A2,11118,1,1,1,decreases^expression
+C12ORF75,387882,1,1,1,increases^expression
+C16ORF78,123970,1,1,1,decreases^expression
+C19ORF33,64073,1,1,1,increases^expression
+C1ORF198,84886,1,1,1,decreases^expression
+C1ORF210,149466,1,1,1,increases^expression
+C1QA,712,1,1,1,decreases^expression
+C1QTNF7,114905,1,1,1,decreases^expression
+C1R,715,1,1,1,decreases^expression
+C1S,716,1,1,1,increases^expression
+C20ORF203,284805,1,1,1,decreases^expression
+C20ORF96,140680,1,1,1,decreases^expression
+C22ORF39,128977,1,1,1,decreases^expression
+C3ORF18,51161,1,1,1,decreases^expression
+C3ORF52,79669,1,1,1,increases^expression
+C3ORF62,375341,1,1,1,decreases^expression
+C4BPA,722,1,1,1,affects^cotreatment|decreases^expression
+C4B_2,100293534,1,1,1,affects^cotreatment|affects^expression
+C5,727,1,1,1,increases^expression
+C8ORF58,541565,1,1,1,increases^expression
+C9ORF153,389766,1,1,1,decreases^expression
+C9ORF84,101747858,1,1,1,decreases^expression
+CA11,770,1,1,1,decreases^expression
+CA12,771,1,1,1,increases^expression
+CA4,762,1,1,1,decreases^expression
+CA9,768,1,1,1,affects^cotreatment|decreases^expression
+CABP4,57010,1,1,1,decreases^expression
+CACHD1,57685,1,1,1,decreases^expression
+CACNA1A,773,1,1,1,decreases^expression
+CACNA1B,774,1,1,1,decreases^expression
+CACNA2D3,55799,1,1,1,increases^expression
+CACNA2D4,93589,1,1,1,decreases^expression
+CACNG4,27092,1,1,1,increases^expression
+CACNG5,27091,1,1,1,decreases^expression
+CACNG6,59285,1,1,1,decreases^expression
+CACNG7,59284,1,1,1,decreases^expression
+CACYBP,27101,1,1,1,increases^expression
+CAD,790,1,1,1,increases^expression
+CADM1,23705,1,1,1,decreases^expression
+CADM3,57863,1,1,1,affects^cotreatment|decreases^expression
+CADPS,8618,1,1,1,decreases^expression
+CALB2,794,1,1,1,increases^expression
+CALN1,83698,1,1,1,decreases^expression
+CAMK1D,57118,1,1,1,decreases^expression
+CAMK2B,816,1,1,1,increases^expression
+CAMKK1,84254,1,1,1,decreases^expression
+CAMKMT,79823,1,1,1,increases^expression
+CAMKV,79012,1,1,1,decreases^expression
+CANX,821,1,1,1,increases^expression
+CAPN1,823,1,1,1,increases^expression
+CAPN14,440854,1,1,1,decreases^expression
+CAPN2,824,1,1,1,increases^expression
+CAPS2,84698,1,1,1,decreases^expression
+CASKIN1,57524,1,1,1,decreases^expression
+CASP10,843,1,1,1,decreases^expression
+CASP14,23581,1,1,1,affects^cotreatment|decreases^expression
+CASZ1,54897,1,1,1,decreases^expression
+CATSPERD,257062,1,1,1,decreases^expression
+CAV1,857,1,1,1,increases^expression
+CAV2,858,1,1,1,increases^expression
+CAV3,859,1,1,1,increases^expression
+CBLN1,869,1,1,1,decreases^expression
+CBR3,874,1,1,1,increases^expression
+CBX2,84733,1,1,1,increases^expression
+CCDC102B,79839,1,1,1,decreases^expression
+CCDC126,90693,1,1,1,decreases^expression
+CCDC136,64753,1,1,1,decreases^expression
+CCDC138,165055,1,1,1,decreases^expression
+CCDC140,151278,1,1,1,decreases^expression
+CCDC146,57639,1,1,1,decreases^expression
+CCDC148,130940,1,1,1,decreases^expression
+CCDC166,100130274,1,1,1,increases^expression
+CCDC171,203238,1,1,1,decreases^expression
+CCDC180,100499483,1,1,1,decreases^expression
+CCDC183,84960,1,1,1,decreases^expression
+CCDC184,387856,1,1,1,decreases^expression
+CCDC40,55036,1,1,1,decreases^expression
+CCDC69,26112,1,1,1,increases^expression
+CCL20,6364,1,1,1,affects^cotreatment|decreases^expression
+CCM2L,140706,1,1,1,decreases^expression
+CCN2,1490,1,1,1,decreases^expression
+CCN4,8840,1,1,1,increases^expression
+CCN5,8839,1,1,1,decreases^expression
+CCNA2,890,1,1,1,decreases^expression
+CCND3,896,1,1,1,increases^expression
+CCNE2,9134,1,1,1,increases^expression
+CCNG2,901,1,1,1,increases^expression
+CCNH,902,1,1,1,decreases^expression
+CCNL1,57018,1,1,1,affects^expression
+CCNY,219771,1,1,1,decreases^expression
+CCR1,1230,1,1,1,increases^expression
+CCR7,1236,1,1,1,affects^cotreatment|increases^expression
+CD109,135228,1,1,1,increases^expression
+CD163,9332,1,1,1,affects^cotreatment|decreases^expression
+CD19,930,1,1,2,decreases^expression
+CD200,4345,1,1,1,decreases^expression
+CD22,933,1,1,1,decreases^expression
+CD248,57124,1,1,1,decreases^expression
+CD28,940,1,1,1,decreases^expression
+CD300LG,146894,1,1,1,decreases^expression
+CD36,948,1,1,1,increases^expression
+CD37,951,1,1,1,decreases^expression
+CD38,952,1,1,1,decreases^expression
+CD47,961,1,1,1,decreases^expression
+CD68,968,1,1,1,decreases^expression
+CD99,4267,1,1,1,increases^expression
+CDC20B,166979,1,1,1,decreases^expression
+CDC26,246184,1,1,1,increases^expression
+CDC42,998,1,1,1,increases^expression
+CDC73,79577,1,1,1,decreases^expression
+CDCP1,64866,1,1,1,increases^expression
+CDH10,1008,1,1,1,increases^expression
+CDH11,1009,1,1,1,decreases^expression
+CDH13,1012,1,1,1,increases^expression
+CDH18,1016,1,1,1,decreases^expression
+CDH20,28316,1,1,1,decreases^expression
+CDH3,1001,1,1,1,increases^expression
+CDH4,1002,1,1,1,increases^expression
+CDH7,1005,1,1,1,decreases^expression
+CDHR1,92211,1,1,1,decreases^expression
+CDK1,983,1,1,1,decreases^expression
+CDK10,8558,1,1,1,decreases^expression
+CDK6,1021,1,1,1,increases^expression
+CDKN1C,1028,1,1,1,increases^expression
+CDKN2B,1030,1,1,1,increases^expression
+CDNF,441549,1,1,1,decreases^expression
+CDO1,1036,1,1,1,decreases^expression
+CDON,50937,1,1,1,decreases^expression
+CDRT4,284040,1,1,1,affects^cotreatment|affects^expression
+CEACAM1,634,1,1,1,increases^expression
+CEACAM3,1084,1,1,1,increases^expression
+CEBPG,1054,1,1,1,decreases^expression
+CECR2,27443,1,1,1,increases^expression
+CELSR2,1952,1,1,1,decreases^activity|decreases^reaction|increases^phosphorylation
+CEMIP,57214,1,1,1,decreases^expression
+CEMP1,752014,1,1,1,affects^expression
+CENPE,1062,1,1,1,decreases^expression
+CENPF,1063,1,1,1,increases^expression
+CENPT,80152,1,1,1,decreases^expression
+CENPX,201254,1,1,1,decreases^expression
+CEP170B,283638,1,1,1,increases^expression
+CEP55,55165,1,1,1,increases^expression
+CER1,9350,1,1,1,increases^expression
+CES1,1066,1,1,1,increases^hydrolysis
+CES2,8824,1,1,1,increases^hydrolysis
+CES4A,283848,1,1,1,decreases^expression
+CFAP100,348807,1,1,1,decreases^expression
+CFAP221,200373,1,1,1,decreases^expression
+CFAP299,255119,1,1,1,decreases^expression
+CFAP43,80217,1,1,1,decreases^expression
+CFAP44,55779,1,1,1,decreases^expression
+CFAP68,64776,1,1,1,decreases^expression
+CFAP74,85452,1,1,1,increases^expression
+CFAP91,89876,1,1,1,decreases^expression
+CFI,3426,1,1,1,decreases^expression
+CGB3,1082,1,1,1,decreases^reaction|increases^abundance
+CHAC1,79094,1,1,1,increases^expression
+CHAF1B,8208,1,1,1,increases^expression
+CHCHD6,84303,1,1,1,decreases^expression
+CHEK1,1111,1,1,1,decreases^reaction|increases^expression
+CHL1,10752,1,1,1,increases^expression
+CHMP4C,92421,1,1,1,increases^expression
+CHP2,63928,1,1,1,decreases^expression
+CHRDL1,91851,1,1,1,decreases^expression
+CHRNB4,1143,1,1,1,decreases^expression
+CHST11,50515,1,1,1,increases^expression
+CHST15,51363,1,1,1,decreases^expression
+CHST2,9435,1,1,1,increases^expression
+CHST3,9469,1,1,1,increases^expression
+CHTOP,26097,1,1,1,decreases^expression
+CIB1,10519,1,1,1,increases^expression
+CIDEC,63924,1,1,1,increases^expression
+CIMAP3,128344,1,1,1,increases^expression
+CIMIP2B,730112,1,1,1,decreases^expression
+CITED1,4435,1,1,1,decreases^expression
+CKB,1152,1,1,1,increases^expression
+CLCF1,23529,1,1,1,increases^expression
+CLDN11,5010,1,1,1,increases^expression
+CLDN7,1366,1,1,1,increases^expression
+CLEC18B,497190,1,1,1,decreases^expression
+CLEC2D,29121,1,1,1,decreases^expression
+CLEC3B,7123,1,1,1,decreases^expression
+CLEC4A,50856,1,1,1,decreases^expression
+CLEC5A,23601,1,1,1,decreases^expression
+CLGN,1047,1,1,1,decreases^expression
+CLIP3,25999,1,1,1,decreases^expression
+CLK1,1195,1,1,1,affects^expression
+CLMN,79789,1,1,1,increases^expression
+CLTB,1212,1,1,1,decreases^expression
+CLUH,23277,1,1,1,increases^expression
+CLUL1,27098,1,1,1,decreases^expression
+CLVS1,157807,1,1,1,decreases^expression
+CLXN,79645,1,1,1,decreases^expression
+CLYBL,171425,1,1,1,decreases^expression
+CMAS,55907,1,1,1,decreases^expression
+CMTM5,116173,1,1,1,decreases^expression
+CMTM7,112616,1,1,1,increases^expression
+CNBP,7555,1,1,1,increases^expression
+CNMD,11061,1,1,1,decreases^expression
+CNN1,1264,1,1,1,increases^expression
+CNN2,1265,1,1,1,decreases^expression
+CNRIP1,25927,1,1,1,decreases^expression
+CNTFR,1271,1,1,1,decreases^expression
+CNTN2,6900,1,1,1,decreases^expression
+CNTN5,53942,1,1,1,decreases^expression
+CNTNAP1,8506,1,1,1,decreases^expression
+CNTNAP3,79937,1,1,1,decreases^expression
+CNTNAP5,129684,1,1,1,decreases^expression
+COL17A1,1308,1,1,1,increases^expression
+COL1A1,1277,1,1,1,increases^expression
+COL22A1,169044,1,1,1,decreases^expression
+COL23A1,91522,1,1,1,decreases^expression
+COL3A1,1281,1,1,1,decreases^expression
+COL4A2,1284,1,1,1,increases^expression
+COL4A6,1288,1,1,1,increases^expression
+COL7A1,1294,1,1,1,decreases^expression
+COL8A1,1295,1,1,1,decreases^expression
+COL9A2,1298,1,1,1,decreases^expression
+COLEC12,81035,1,1,1,decreases^expression
+COMMD3-BMI1,100532731,1,1,1,affects^expression
+COMMD4,54939,1,1,1,decreases^expression
+COMMD7,149951,1,1,1,decreases^expression
+COMP,1311,1,1,1,decreases^expression
+COMT,1312,1,1,1,increases^expression
+COPS4,51138,1,1,1,decreases^expression
+COPS5,10987,1,1,1,increases^expression
+CORO2A,7464,1,1,1,increases^expression
+CORO7-PAM16,100529144,1,1,1,decreases^expression
+COX1,4512,1,1,1,decreases^expression
+COX2,4513,1,1,1,decreases^expression
+COX3,4514,1,1,1,decreases^expression
+COXFA4L3,84419,1,1,1,increases^expression
+CPA1,1357,1,1,1,decreases^expression
+CPA4,51200,1,1,1,decreases^expression
+CPAMD8,27151,1,1,1,decreases^expression
+CPB2,1361,1,1,1,increases^expression
+CPEB2,132864,1,1,1,increases^expression
+CPED1,79974,1,1,1,decreases^expression
+CPQ,10404,1,1,1,decreases^expression
+CPS1,1373,1,1,1,affects^cotreatment|decreases^expression
+CPVL,54504,1,1,1,increases^expression
+CPXM2,119587,1,1,1,increases^expression
+CRABP1,1381,1,1,1,increases^expression
+CRABP2,1382,1,1,1,decreases^expression
+CRB2,286204,1,1,1,decreases^expression
+CRBN,51185,1,1,1,decreases^expression
+CREB3,10488,1,1,1,increases^expression
+CREB3L1,90993,1,1,1,increases^expression
+CREB3L2,64764,1,1,1,decreases^expression
+CREBBP,1387,1,1,1,decreases^expression
+CREG2,200407,1,1,1,increases^expression
+CRELD1,78987,1,1,1,decreases^expression
+CRHBP,1393,1,1,1,decreases^expression
+CRIM1,51232,1,1,1,increases^expression
+CRIP3,401262,1,1,1,decreases^expression
+CRIPTO,6997,1,1,1,decreases^expression
+CRTAC1,55118,1,1,1,decreases^expression
+CRYAA,1409,1,1,1,decreases^expression
+CRYBB3,1417,1,1,1,increases^expression
+CRYBG1,202,1,1,1,increases^expression
+CRYBG2,55057,1,1,1,decreases^expression
+CSAD,51380,1,1,1,increases^expression
+CSDC2,27254,1,1,1,decreases^expression
+CSF2RB,1439,1,1,1,increases^expression
+CSGALNACT1,55790,1,1,1,increases^expression
+CSMD2,114784,1,1,1,decreases^expression
+CSNK1A1,1452,1,1,1,decreases^activity|decreases^reaction|increases^phosphorylation
+CST1,1469,1,1,1,increases^expression
+CST2,1470,1,1,1,increases^expression
+CST5,1473,1,1,1,increases^expression
+CST6,1474,1,1,1,increases^expression
+CTNNA2,1496,1,1,1,decreases^expression
+CTRB1,1504,1,1,1,decreases^expression
+CTRB2,440387,1,1,1,decreases^expression
+CTSF,8722,1,1,1,decreases^expression
+CTSL,1514,1,1,1,increases^expression
+CTSV,1515,1,1,1,increases^expression
+CUX2,23316,1,1,1,decreases^expression
+CXCL1,2919,1,1,1,increases^expression
+CXCL10,3627,1,1,1,affects^cotreatment|increases^expression
+CXCL13,10563,1,1,1,affects^cotreatment|decreases^expression
+CXCL16,58191,1,1,1,increases^expression
+CXCR4,7852,1,1,1,affects^cotreatment|affects^reaction|increases^expression
+CYB5A,1528,1,1,1,decreases^expression
+CYB5R1,51706,1,1,1,increases^expression
+CYB5RL,606495,1,1,1,decreases^expression
+CYBA,1535,1,1,1,affects^reaction|decreases^reaction|increases^expression
+CYCS,54205,1,1,1,increases^expression
+CYP11B1,1584,1,1,1,decreases^expression
+CYP26A1,1592,1,1,1,decreases^expression
+CYP2A6,1548,1,1,1,affects^cotreatment|increases^expression
+CYP2B10,13088,1,1,1,affects^response to substance|increases^expression
+CYP2E1,1571,1,1,1,decreases^expression
+CYP2F1,1572,1,1,1,decreases^expression
+CYP2J2,1573,1,1,1,decreases^expression
+CYP3A43,64816,1,1,1,decreases^expression
+CYP3A5,1577,1,1,1,decreases^expression
+CYP46A1,10858,1,1,1,decreases^expression
+CYP4A10,13117,1,1,1,increases^expression
+CYP4V2,285440,1,1,1,decreases^expression
+CYP4Z1,199974,1,1,1,decreases^expression
+CYRIA,81553,1,1,1,increases^expression
+CYSLTR2,57105,1,1,1,increases^expression
+DACH1,1602,1,1,1,decreases^expression
+DACT1,51339,1,1,1,increases^expression
+DAGLB,221955,1,1,1,increases^expression
+DAPK1,1612,1,1,1,increases^expression
+DAPL1,92196,1,1,1,decreases^expression
+DAPP1,27071,1,1,1,increases^expression
+DAZ2,57055,1,1,1,decreases^expression
+DCHS2,54798,1,1,1,decreases^expression
+DCLK1,9201,1,1,1,increases^expression
+DCT,1638,1,1,1,decreases^expression
+DDHD1,80821,1,1,1,decreases^expression
+DDIT4L,115265,1,1,1,increases^expression
+DDTL,100037417,1,1,1,decreases^expression
+DDX25,29118,1,1,1,decreases^expression
+DDX39A,10212,1,1,1,increases^expression
+DEAF1,10522,1,1,1,increases^expression
+DEF8,54849,1,1,1,increases^expression
+DEFA3,1668,1,1,1,increases^expression
+DENND1A,57706,1,1,1,decreases^expression
+DENND4C,55667,1,1,1,decreases^expression
+DENND6B,414918,1,1,1,decreases^expression
+DGAT1,8694,1,1,1,increases^expression
+DGAT2,84649,1,1,1,decreases^expression
+DGKA,1606,1,1,1,increases^expression
+DGKI,9162,1,1,1,increases^expression
+DHCR24,1718,1,1,1,decreases^expression
+DHRS3,9249,1,1,1,decreases^expression
+DHX40,79665,1,1,1,increases^expression
+DIABLO,56616,1,1,1,increases^expression
+DIAPH1,1729,1,1,1,increases^expression
+DICER1,23405,1,1,1,affects^cotreatment|increases^expression
+DKK1,22943,1,1,1,affects^cotreatment|decreases^expression
+DKK2,27123,1,1,1,increases^expression
+DKK3,27122,1,1,1,increases^expression
+DLC1,10395,1,1,1,increases^expression
+DLEC1,9940,1,1,1,decreases^expression
+DLGAP1,9229,1,1,1,decreases^expression
+DLL1,28514,1,1,1,decreases^expression
+DM1-AS,109729182,1,1,1,decreases^expression
+DMD,1756,1,1,1,decreases^expression
+DMRT3,58524,1,1,1,decreases^expression
+DNAAF19,388389,1,1,1,decreases^expression
+DNAH1,25981,1,1,1,decreases^expression
+DNAH11,8701,1,1,1,decreases^expression
+DNAH12,201625,1,1,1,decreases^expression
+DNAH6,1768,1,1,1,decreases^expression
+DNAH7,56171,1,1,1,decreases^expression
+DNAJB1,3337,1,1,1,increases^expression
+DNER,92737,1,1,1,increases^expression
+DNHD1,144132,1,1,1,decreases^expression
+DNM1,1759,1,1,1,decreases^expression
+DNM1L,10059,1,1,1,affects^cotreatment|affects^phosphorylation
+DNMT3A,1788,1,1,1,increases^expression
+DOC2A,8448,1,1,1,decreases^expression
+DOC2B,8447,1,1,1,decreases^expression
+DOCK10,55619,1,1,1,decreases^expression
+DOCK4,9732,1,1,1,increases^expression
+DOCK5,80005,1,1,1,increases^expression
+DOCK9,23348,1,1,1,increases^expression
+DOCK9-DT,100861541,1,1,1,increases^expression
+DOK3,79930,1,1,1,increases^expression
+DOK4,55715,1,1,1,increases^expression
+DOK6,220164,1,1,1,decreases^expression
+DOPEY2,421842,1,1,1,increases^expression
+DPM3,54344,1,1,1,decreases^expression
+DPPA5,340168,1,1,1,decreases^expression
+DPT,1805,1,1,1,affects^cotreatment|decreases^expression
+DPY19L2,283417,1,1,1,decreases^expression
+DPYSL5,56896,1,1,1,decreases^expression
+DRAM1,55332,1,1,1,increases^expression
+DRC1,92749,1,1,1,decreases^expression
+DRD5,1816,1,1,1,decreases^expression
+DROSHA,29102,1,1,1,affects^cotreatment|increases^expression
+DSCAML1,57453,1,1,1,decreases^expression
+DSG1,1828,1,1,1,increases^expression
+DTWD1,56986,1,1,1,decreases^expression
+DTX1,1840,1,1,1,decreases^expression
+DTX3,196403,1,1,1,decreases^expression
+DTX3L,151636,1,1,1,increases^expression
+DTX4,23220,1,1,1,increases^expression
+DUOX2,50506,1,1,1,affects^reaction|decreases^reaction|increases^expression
+DUSP1,1843,1,1,1,affects^cotreatment|increases^expression|increases^reaction
+DUSP6,1848,1,1,2,increases^expression
+DYNLT2,6991,1,1,1,increases^expression
+DYNLT3,6990,1,1,1,increases^expression
+DYRK3,8444,1,1,1,decreases^expression
+DYSF,8291,1,1,1,increases^expression
+EBF1,1879,1,1,1,decreases^expression
+EBF3,253738,1,1,1,decreases^expression
+EBI3,10148,1,1,1,increases^expression
+ECE2,9718,1,1,1,decreases^expression
+ECEL1,9427,1,1,1,decreases^expression
+ECH1,1891,1,1,1,increases^expression
+ECM1,1893,1,1,1,increases^expression
+ECM2,1842,1,1,1,decreases^expression
+ECT2L,345930,1,1,1,decreases^expression
+EDAR,10913,1,1,1,decreases^expression
+EDEM1,9695,1,1,1,increases^expression
+EDIL3,10085,1,1,1,increases^expression
+EDIL3-DT,105379057,1,1,1,decreases^expression
+EDNRA,1909,1,1,1,decreases^expression
+EDNRB,1910,1,1,1,increases^expression
+EFCC1,79825,1,1,1,decreases^expression
+EFHB,151651,1,1,1,decreases^expression
+EFHC1,114327,1,1,1,decreases^expression
+EFNA1,1942,1,1,1,increases^expression
+EFNA5,1946,1,1,1,decreases^expression
+EFR3B,22979,1,1,1,decreases^expression
+EGFR,1956,1,1,1,increases^expression
+EGFR-AS1,100507500,1,1,1,increases^expression
+EGR1,1958,1,1,1,decreases^expression
+EGR2,1959,1,1,1,decreases^expression
+EGR3,1960,1,1,1,decreases^expression
+EGR4,1961,1,1,1,decreases^expression
+EHD1,10938,1,1,1,increases^expression
+EHD2,30846,1,1,1,increases^expression
+EHD4,30844,1,1,1,increases^expression
+EHF,26298,1,1,1,increases^expression
+EHHADH,1962,1,1,1,affects^response to substance|increases^expression
+EID3,493861,1,1,1,decreases^expression
+EIF3C,8663,1,1,1,decreases^expression
+EIF4EBP3,8637,1,1,1,increases^phosphorylation
+EIF5,1983,1,1,1,decreases^expression
+EIF5A,1984,1,1,1,increases^expression
+ELAVL3,1995,1,1,1,decreases^expression
+ELAVL4,1996,1,1,1,decreases^expression
+ELF1,1997,1,1,1,increases^expression
+ELF4,2000,1,1,1,increases^expression
+ELMO1,9844,1,1,1,increases^expression
+ELOVL1,64834,1,1,1,increases^expression
+ELOVL5,60481,1,1,1,increases^expression
+EMILIN3,90187,1,1,1,decreases^expression
+EML6,400954,1,1,1,decreases^expression
+EMP2,2013,1,1,1,increases^expression
+EMP3,2014,1,1,1,increases^expression
+EMX2,2018,1,1,1,decreases^expression
+ENG,2022,1,1,1,increases^expression
+ENO3,2027,1,1,1,decreases^expression
+ENPEP,2028,1,1,1,decreases^expression
+ENPP2,5168,1,1,1,decreases^expression
+ENTPD4,9583,1,1,1,decreases^expression
+ENTREP1,9413,1,1,1,increases^expression
+EOGT,285203,1,1,1,increases^expression
+EP300,2033,1,1,1,affects^binding|increases^reaction
+EPAS1,2034,1,1,1,increases^expression
+EPB41L3,23136,1,1,1,decreases^expression
+EPCAM,4072,1,1,1,increases^expression
+EPDR1,54749,1,1,1,decreases^expression
+EPHA7,2045,1,1,1,decreases^expression
+EPHB2,2048,1,1,1,decreases^expression
+EPHX2,2053,1,1,1,decreases^expression
+EPN3,55040,1,1,1,increases^expression
+EPO,2056,1,1,1,decreases^expression
+EPS8,2059,1,1,1,decreases^expression
+EPS8L1,54869,1,1,1,increases^methylation
+EPSTI1,94240,1,1,1,increases^expression
+EQTN,54586,1,1,1,decreases^expression
+ERAP1,51752,1,1,1,increases^expression
+ERBB3,2065,1,1,1,decreases^expression
+ERICH5,203111,1,1,1,decreases^expression
+ERP27,121506,1,1,1,increases^expression
+ERP29,10961,1,1,1,decreases^expression
+ERV3-1-ZNF117,109504726,1,1,1,affects^cotreatment|affects^expression
+ERVFRD-1,405754,1,1,1,increases^expression
+ERVW-1,30816,1,1,1,increases^expression
+ESRP1,54845,1,1,1,increases^expression
+ESRRB,2103,1,1,1,decreases^expression
+ETV1,2115,1,1,1,decreases^expression
+ETV3L,440695,1,1,1,decreases^expression
+ETV5,2119,1,1,1,increases^expression
+EXD3,54932,1,1,1,decreases^expression
+EXOSC8,11340,1,1,1,decreases^expression
+EXPH5,23086,1,1,1,increases^expression
+EZH2,2146,1,1,1,decreases^expression
+EZR,7430,1,1,1,increases^expression
+F10,2159,1,1,1,decreases^expression
+F11R,50848,1,1,1,increases^expression
+F2RL2,2151,1,1,1,decreases^expression
+FABP1,2168,1,1,1,decreases^expression|decreases^reaction
+FABP3,2170,1,1,1,increases^expression
+FADS1,3992,1,1,1,increases^expression
+FADS3,3995,1,1,1,increases^expression
+FAH,2184,1,1,1,decreases^expression
+FAM107A,11170,1,1,1,decreases^expression
+FAM107B,83641,1,1,1,increases^expression
+FAM117B,150864,1,1,1,increases^expression
+FAM120A2P,445577,1,1,1,decreases^expression
+FAM120AOS,158293,1,1,1,decreases^expression
+FAM124A,220108,1,1,1,decreases^expression
+FAM163A,148753,1,1,1,decreases^expression
+FAM177A1,283635,1,1,1,decreases^expression
+FAM180A,389558,1,1,1,increases^expression
+FAM187B,148109,1,1,1,decreases^expression
+FAM20A,54757,1,1,1,increases^expression
+FAM216A,29902,1,1,1,decreases^expression
+FAM228A,653140,1,1,1,decreases^expression
+FAM241A,132720,1,1,1,increases^expression
+FAM26F,421744,1,1,1,increases^expression
+FAM27E3,100131997,1,1,1,decreases^expression
+FAM43B,163933,1,1,1,decreases^expression
+FAM65B,421003,1,1,1,increases^expression
+FAM69C,421014,1,1,1,decreases^expression
+FAM98A,25940,1,1,1,decreases^expression
+FANCD2,2177,1,1,1,increases^expression
+FAS,355,1,1,1,increases^expression
+FAT4,79633,1,1,1,decreases^expression
+FBLIM1,54751,1,1,1,increases^expression
+FBLN1,2192,1,1,1,increases^expression
+FBLN5,10516,1,1,1,increases^expression
+FBP2,8789,1,1,1,decreases^expression
+FBXL16,146330,1,1,1,decreases^expression
+FBXL21,213311,1,1,1,increases^expression
+FBXO46,23403,1,1,1,increases^expression
+FCER1G,2207,1,1,1,increases^expression
+FDX1,2230,1,1,1,decreases^expression
+FERMT1,55612,1,1,1,increases^expression
+FEZ1,9638,1,1,1,decreases^expression
+FEZF2,55079,1,1,1,decreases^expression
+FGD4,121512,1,1,1,decreases^expression
+FGF1,2246,1,1,1,increases^expression
+FGF14,2259,1,1,1,decreases^expression
+FGF18,8817,1,1,1,decreases^expression
+FGF19,9965,1,1,1,decreases^expression
+FGF4,2249,1,1,1,decreases^expression
+FGF7,2252,1,1,1,decreases^expression
+FGF8,2253,1,1,1,decreases^expression
+FHL2,2274,1,1,1,increases^expression
+FITM2,128486,1,1,1,decreases^expression
+FKBP14,55033,1,1,1,increases^expression
+FKBP15,23307,1,1,1,decreases^expression
+FKBP4,2288,1,1,1,increases^expression
+FKBP5,2289,1,1,1,increases^expression
+FKBP9,11328,1,1,1,decreases^expression
+FLI1,2313,1,1,1,increases^expression
+FLNB,2317,1,1,1,increases^expression
+FLNC,2318,1,1,1,increases^expression
+FLT1,2321,1,1,1,increases^expression
+FLT4,2324,1,1,1,decreases^expression
+FMN2,56776,1,1,1,decreases^expression
+FNDC1,84624,1,1,1,increases^expression
+FNDC5,252995,1,1,1,decreases^expression
+FOS,2353,1,1,1,decreases^expression
+FOSL1,8061,1,1,1,increases^expression
+FOSL2,2355,1,1,1,increases^expression
+FOXD1,2297,1,1,1,increases^expression
+FOXE3,2301,1,1,1,decreases^expression
+FOXG1,2290,1,1,1,decreases^expression
+FOXH1,8928,1,1,1,decreases^expression
+FOXJ2,55810,1,1,1,increases^expression
+FOXL2,668,1,1,1,increases^expression
+FOXN4,121643,1,1,1,decreases^expression
+FOXO1,2308,1,1,1,decreases^phosphorylation
+FOXP2,93986,1,1,1,decreases^expression
+FOXQ1,94234,1,1,1,increases^expression
+FREM2,341640,1,1,1,decreases^expression
+FRMD3,257019,1,1,1,increases^expression
+FRRS1L,23732,1,1,1,decreases^expression
+FRZB,2487,1,1,1,decreases^expression
+FSBP,100861412,1,1,1,decreases^expression
+FSCB,84075,1,1,1,decreases^expression
+FSHB,2488,1,1,1,decreases^reaction|increases^abundance
+FTHL17,53940,1,1,1,increases^expression
+FTL,2512,1,1,1,decreases^expression
+FURIN,5045,1,1,1,increases^expression
+FXYD5,53827,1,1,1,increases^expression
+FYB2,199920,1,1,1,decreases^expression
+FZD6,8323,1,1,1,decreases^expression
+GAB1,2549,1,1,1,decreases^expression
+GABRB1,2560,1,1,1,decreases^expression
+GABRE,2564,1,1,1,increases^expression
+GABRP,2568,1,1,1,increases^expression
+GAD1,2571,1,1,1,decreases^expression
+GADD45G,10912,1,1,1,increases^expression
+GALNT16,57452,1,1,1,decreases^expression
+GALNT8,26290,1,1,1,decreases^expression
+GALP,85569,1,1,1,decreases^expression
+GAPDH,2597,1,1,1,increases^expression
+GARIN1B,84691,1,1,1,increases^expression
+GARIN5A,112703,1,1,1,decreases^expression
+GAS7,8522,1,1,1,increases^expression
+GATA5,140628,1,1,1,decreases^expression
+GBP2,2634,1,1,1,increases^expression
+GCNT1,2650,1,1,1,decreases^expression
+GCNT4,51301,1,1,1,increases^expression
+GDF10,2662,1,1,1,decreases^expression
+GDF3,9573,1,1,1,decreases^expression
+GDF6,392255,1,1,1,increases^expression
+GDNF,2668,1,1,1,increases^expression
+GDPD2,54857,1,1,1,decreases^expression
+GET1,7485,1,1,1,decreases^expression
+GET1-SH3BGR,106865373,1,1,1,decreases^expression
+GFOD1,54438,1,1,1,increases^expression
+GFOD2,81577,1,1,1,decreases^expression
+GGTLC1,92086,1,1,1,decreases^expression
+GGTLC2,91227,1,1,1,decreases^expression
+GHR,2690,1,1,1,increases^expression
+GIP,2695,1,1,1,increases^expression
+GIPC3,126326,1,1,1,decreases^expression
+GJA4,2701,1,1,1,decreases^expression
+GJA5,2702,1,1,1,increases^expression
+GLB1L3,112937,1,1,1,decreases^expression
+GLI3,2737,1,1,1,affects^expression
+GLIPR2,152007,1,1,1,increases^expression
+GLRA1,2741,1,1,1,decreases^expression
+GLRX,2745,1,1,1,increases^expression
+GLRX2,51022,1,1,1,increases^expression
+GLT8D2,83468,1,1,1,decreases^expression
+GLYATL2,219970,1,1,1,decreases^expression
+GNA14,9630,1,1,1,increases^expression
+GNG11,2791,1,1,1,increases^expression
+GNG2,54331,1,1,1,increases^expression
+GNG7,2788,1,1,1,decreases^expression
+GOLGA6A,342096,1,1,1,decreases^expression
+GOLM1,51280,1,1,1,decreases^expression
+GOLPH3,64083,1,1,1,decreases^expression
+GPAT2,150763,1,1,1,decreases^expression
+GPC3,2719,1,1,1,increases^expression
+GPD1,2819,1,1,1,increases^expression
+GPER1,2852,1,1,1,decreases^expression
+GPM6A,2823,1,1,1,decreases^expression
+GPM6B,2824,1,1,1,increases^expression
+GPR146,115330,1,1,1,decreases^expression
+GPR173,54328,1,1,1,decreases^expression
+GPR174,84636,1,1,1,decreases^expression
+GPR87,53836,1,1,1,increases^expression
+GPRC5B,51704,1,1,1,decreases^expression
+GRAMD1B,57476,1,1,1,decreases^expression
+GRAMD2A,196996,1,1,1,increases^expression
+GRB14,2888,1,1,1,increases^expression
+GRB7,2886,1,1,1,increases^expression
+GREB1,9687,1,1,1,decreases^expression
+GRHL2,79977,1,1,1,increases^expression
+GRIA1,2890,1,1,1,decreases^expression
+GRIA3,2892,1,1,1,decreases^expression
+GRID2,2895,1,1,1,decreases^expression
+GRIK2,2898,1,1,1,decreases^expression
+GRIK3,2899,1,1,1,decreases^expression
+GRIN2A,2903,1,1,1,decreases^expression
+GRM5,2915,1,1,1,decreases^expression
+GRP,2922,1,1,1,decreases^expression
+GRPEL2,134266,1,1,1,increases^expression
+GSAP,54103,1,1,1,decreases^expression
+GSN,2934,1,1,1,increases^expression
+GSTA1,2938,1,1,1,increases^expression
+GSTM3,2947,1,1,1,decreases^expression
+GSTO1,9446,1,1,1,increases^expression
+GSTO2,119391,1,1,1,decreases^expression
+GSTP1,2950,1,1,1,affects^response to substance|increases^abundance
+GUCY1B3,422408,1,1,1,decreases^expression
+GUCY2F,2986,1,1,1,decreases^expression
+GYPB,2994,1,1,1,decreases^expression
+GYS1,2997,1,1,1,increases^phosphorylation
+H1-4,3008,1,1,1,decreases^expression
+H1F0,14958,1,1,1,decreases^expression
+H2AJ,55766,1,1,1,increases^expression
+H3-3A,3020,1,1,1,decreases^expression
+H4C11,8363,1,1,1,decreases^expression
+H4C12,8362,1,1,1,increases^expression
+H4C4,8360,1,1,1,decreases^expression
+H4C7,8369,1,1,1,increases^expression
+H6PD,9563,1,1,1,decreases^expression
+HACD2,201562,1,1,1,decreases^expression
+HADHA,3030,1,1,1,increases^expression
+HADHB,3032,1,1,1,increases^expression
+HAND1,9421,1,1,1,increases^expression
+HAS1,3036,1,1,1,decreases^expression
+HAT1,8520,1,1,1,decreases^expression
+HAUS5,23354,1,1,1,decreases^expression
+HBA2,3040,1,1,1,increases^expression
+HBQ1,3049,1,1,1,decreases^expression
+HBS1L,10767,1,1,1,decreases^expression
+HCAR1,27198,1,1,1,increases^expression
+HCST,10870,1,1,1,increases^expression
+HDAC3,8841,1,1,1,decreases^expression
+HDAC5,10014,1,1,1,decreases^expression
+HDAC9,9734,1,1,1,decreases^expression
+HDDC2,51020,1,1,1,decreases^expression
+HDGF,3068,1,1,1,decreases^expression
+HEATR5A,25938,1,1,1,increases^expression
+HEPH,9843,1,1,1,decreases^expression
+HES1,3280,1,1,1,decreases^expression
+HES2,54626,1,1,1,increases^expression
+HES5,388585,1,1,1,decreases^expression
+HEY1,23462,1,1,1,decreases^expression
+HEYL,26508,1,1,1,decreases^expression
+HFM1,164045,1,1,1,decreases^expression
+HGFAC,3083,1,1,1,decreases^expression
+HHIP,64399,1,1,2,increases^expression
+HHIPL2,79802,1,1,1,decreases^expression
+HIF3A,64344,1,1,1,decreases^expression
+HIGD1A,25994,1,1,1,increases^expression
+HILPDA,29923,1,1,1,increases^expression
+HIP1,3092,1,1,1,decreases^expression
+HK2,3099,1,1,1,decreases^expression
+HLA-DMB,3109,1,1,1,decreases^expression
+HLA-DQB1,3119,1,1,1,increases^expression
+HLA-E,3133,1,1,1,increases^expression
+HMCN1,83872,1,1,2,decreases^expression
+HMGA2,8091,1,1,1,increases^expression
+HMGCLL1,54511,1,1,1,decreases^expression
+HMGCR,3156,1,1,1,increases^expression
+HMGCS2,3158,1,1,1,decreases^expression
+HMOX2,3163,1,1,1,increases^expression
+HNMT,3176,1,1,1,increases^expression
+HNRNPH1,3187,1,1,1,increases^expression
+HOPX,84525,1,1,1,increases^expression
+HOXA-AS3,100133311,1,1,1,decreases^expression
+HOXA13,3209,1,1,1,decreases^expression
+HOXA3,3200,1,1,1,decreases^expression
+HOXA5,3202,1,1,1,decreases^expression
+HOXB1,3211,1,1,1,decreases^expression
+HOXB7,3217,1,1,1,increases^expression
+HOXB9,3219,1,1,1,increases^expression
+HPCAL1,3241,1,1,1,increases^expression
+HPDL,84842,1,1,1,decreases^expression
+HPSE2,60495,1,1,1,decreases^expression
+HRCT1,646962,1,1,1,decreases^expression
+HS3ST1,9957,1,1,1,increases^expression
+HS3ST3A1,9955,1,1,1,increases^expression
+HSD11B1,3290,1,1,1,increases^expression
+HSD11B2,3291,1,1,1,decreases^activity
+HSD17B1,3292,1,1,1,increases^expression
+HSD17B2,3294,1,1,1,decreases^expression
+HSD17B4,3295,1,1,1,increases^expression
+HSD17B6,8630,1,1,1,decreases^expression
+HSD17B7,51478,1,1,1,increases^expression
+HSD17B8,7923,1,1,1,decreases^expression
+HSF2BP,11077,1,1,1,decreases^expression
+HSFX2,100130086,1,1,1,decreases^expression
+HSPA1B,3304,1,1,1,increases^expression
+HSPA2,3306,1,1,1,increases^expression
+HSPA4L,22824,1,1,1,increases^expression
+HSPB1,3315,1,1,1,decreases^expression
+HSPB8,26353,1,1,1,increases^expression
+HSPB9,94086,1,1,1,decreases^expression
+HSPD1,3329,1,1,1,affects^cotreatment|decreases^expression
+HSPE1-MOB4,100529241,1,1,1,increases^expression
+HSPH1,10808,1,1,1,increases^expression
+HTR1E,3354,1,1,1,increases^expression
+HTR7,3363,1,1,1,increases^expression
+HTRA3,94031,1,1,1,decreases^expression
+HTRA4,203100,1,1,1,increases^expression
+HVCN1,84329,1,1,1,decreases^expression
+HYAL4,23553,1,1,1,decreases^expression
+HYDIN,54768,1,1,1,decreases^expression
+IDO1,3620,1,1,1,decreases^expression
+IER3,8870,1,1,1,increases^expression
+IFFO2,126917,1,1,1,increases^expression
+IFIT1,3434,1,1,1,decreases^expression
+IFITM1,8519,1,1,1,decreases^expression
+IFT57,55081,1,1,1,decreases^expression
+IGF1,3479,1,1,1,increases^expression
+IGF2BP2,10644,1,1,1,decreases^expression
+IGF2R,3482,1,1,1,decreases^methylation
+IGFBP1,3484,1,1,1,affects^cotreatment|decreases^expression
+IGFBP4,3487,1,1,1,increases^expression
+IGLL1,3543,1,1,1,decreases^expression
+IGSF10,285313,1,1,1,increases^expression
+IGSF21,84966,1,1,1,decreases^expression
+IGSF22,283284,1,1,1,decreases^expression
+IKBKG,8517,1,1,1,decreases^expression
+IKZF1,10320,1,1,1,decreases^expression
+IKZF3,22806,1,1,1,decreases^expression
+IKZF4,64375,1,1,1,decreases^expression
+IL10RA,3587,1,1,1,decreases^expression
+IL17RD,54756,1,1,1,decreases^expression
+IL1RL2,8808,1,1,1,decreases^expression
+IL23R,149233,1,1,1,decreases^expression
+IL2RB,3560,1,1,1,increases^expression
+IL32,9235,1,1,1,increases^expression
+IL3RA,3563,1,1,1,decreases^expression
+IL4I1,259307,1,1,1,decreases^expression
+IL4R,3566,1,1,1,increases^expression
+INF2,64423,1,1,1,increases^expression
+ING4,51147,1,1,1,decreases^expression
+INHA,3623,1,1,1,increases^expression
+INHBA,3624,1,1,1,increases^expression
+INHBE,83729,1,1,1,increases^expression
+INPP5F,22876,1,1,1,decreases^expression
+INS1,16333,1,1,1,affects^cotreatment|increases^expression|increases^reaction
+INSIG1,3638,1,1,1,increases^expression
+INSM1,3642,1,1,1,decreases^expression
+INSR,3643,1,1,1,decreases^expression
+INSYN2B,100131897,1,1,1,increases^expression
+IRAG1,10335,1,1,1,decreases^expression
+IRAK3,11213,1,1,1,decreases^expression
+IRF3,3661,1,1,1,increases^expression
+IRF6,3664,1,1,1,increases^expression
+IRS4,8471,1,1,1,decreases^expression
+IRX4,50805,1,1,1,increases^expression
+ISG15,9636,1,1,1,increases^expression
+ISL1,3670,1,1,1,increases^expression
+ISYNA1,51477,1,1,1,increases^expression
+ITGA10,8515,1,1,1,decreases^expression
+ITGA11,22801,1,1,1,increases^expression
+ITGA3,3675,1,1,1,increases^expression
+ITGA6,3655,1,1,1,increases^expression
+ITGA7,3679,1,1,1,decreases^expression
+ITGB3,3690,1,1,1,increases^expression
+ITIH5,80760,1,1,1,increases^expression
+ITM2A,9452,1,1,2,increases^expression
+ITPKC,80271,1,1,1,increases^expression
+ITPR3,3710,1,1,1,increases^expression
+IZUMO4,113177,1,1,1,decreases^expression
+JAG1,182,1,1,1,increases^expression
+JARID2,3720,1,1,1,increases^expression
+JCAD,57608,1,1,1,increases^expression
+JMJD6,23210,1,1,1,increases^expression
+JMJD7-PLA2G4B,8681,1,1,2,decreases^expression
+JUP,3728,1,1,1,increases^expression
+KATNAL2,83473,1,1,1,decreases^expression
+KCNA1,3736,1,1,1,decreases^expression
+KCNA4,3739,1,1,1,decreases^expression
+KCNA5,3741,1,1,1,decreases^expression
+KCNAB3,9196,1,1,1,decreases^expression
+KCNC1,3746,1,1,1,decreases^expression
+KCND1,3750,1,1,1,decreases^expression
+KCND3,3752,1,1,1,decreases^expression
+KCNE1,3753,1,1,1,increases^expression
+KCNG1,3755,1,1,1,increases^expression
+KCNG2,26251,1,1,1,increases^expression
+KCNG3,170850,1,1,1,decreases^expression
+KCNIP1,30820,1,1,1,decreases^expression
+KCNJ12,3768,1,1,1,decreases^expression
+KCNJ2,3759,1,1,1,increases^expression
+KCNJ4,3761,1,1,1,decreases^expression
+KCNK10,54207,1,1,1,decreases^expression
+KCNK2,3776,1,1,1,decreases^expression
+KCNK6,9424,1,1,1,increases^expression
+KCNMA1,3778,1,1,1,increases^expression
+KCNN1,3780,1,1,1,decreases^expression
+KCNN2,3781,1,1,1,decreases^expression
+KCNN3,3782,1,1,1,decreases^expression
+KCNQ5,56479,1,1,1,increases^expression
+KCNT2,343450,1,1,1,decreases^expression
+KCP,375616,1,1,1,decreases^expression
+KCTD11,147040,1,1,1,increases^expression
+KCTD12,115207,1,1,1,decreases^expression
+KDELR2,11014,1,1,1,increases^expression
+KDELR3,11015,1,1,1,increases^expression
+KDM5C,8242,1,1,1,decreases^expression
+KDM6B,23135,1,1,1,decreases^expression
+KDM7A,80853,1,1,1,increases^expression
+KEL,3792,1,1,1,decreases^expression
+KHDC1,80759,1,1,1,decreases^expression
+KHDRBS2,202559,1,1,1,decreases^expression
+KIAA0040,9674,1,1,1,increases^expression
+KIF12,113220,1,1,1,decreases^expression
+KIF21A,55605,1,1,1,increases^expression
+KIF5A,3798,1,1,1,decreases^expression
+KIF7,374654,1,1,1,increases^expression
+KIRREL2,84063,1,1,1,decreases^expression
+KIRREL3,84623,1,1,1,decreases^expression
+KISS1,3814,1,1,1,increases^expression
+KISS1R,84634,1,1,1,decreases^expression
+KLF11,8462,1,1,1,increases^expression
+KLF15,28999,1,1,1,decreases^expression
+KLF17,128209,1,1,1,increases^expression
+KLF5,688,1,1,1,increases^expression
+KLHL10,317719,1,1,1,decreases^expression
+KLHL14,57565,1,1,1,decreases^expression
+KLHL23,151230,1,1,1,increases^expression
+KLHL4,56062,1,1,1,decreases^expression
+KLK12,43849,1,1,1,decreases^expression
+KLK4,9622,1,1,1,decreases^expression
+KLK7,5650,1,1,1,decreases^expression
+KLRG1,10219,1,1,1,decreases^expression
+KNDC1,85442,1,1,1,decreases^expression
+KNOP1,400506,1,1,1,increases^expression
+KPNA3,3839,1,1,1,decreases^expression
+KRIT1,889,1,1,1,decreases^expression
+KRT17,3872,1,1,1,increases^expression
+KRT18,3875,1,1,1,increases^expression
+KRT19,3880,1,1,1,increases^expression
+KRT23,25984,1,1,1,increases^expression
+KRT31,3881,1,1,1,decreases^expression
+KRT33B,3884,1,1,1,decreases^expression
+KRT34,3885,1,1,1,increases^expression
+KRT35,3886,1,1,1,decreases^expression
+KRT8,3856,1,1,1,increases^expression
+KRT83,3889,1,1,1,increases^expression
+KRTAP13-1,140258,1,1,1,decreases^expression
+KRTAP2-3,730755,1,1,1,increases^expression
+KRTCAP3,200634,1,1,1,increases^expression
+KRTDAP,388533,1,1,1,decreases^expression
+KSR2,283455,1,1,1,decreases^expression
+L1CAM,3897,1,1,1,increases^expression
+L3MBTL4,91133,1,1,1,decreases^expression
+LAG3,3902,1,1,1,decreases^expression
+LAGE3,8270,1,1,1,decreases^expression
+LAMA4,3910,1,1,1,increases^expression
+LAMP3,27074,1,1,1,decreases^expression
+LAMP5,24141,1,1,1,decreases^expression
+LAMTOR2,28956,1,1,1,decreases^expression
+LASP1,3927,1,1,1,increases^expression
+LATS1,9113,1,1,1,decreases^reaction|increases^stability
+LBR,3930,1,1,1,increases^expression
+LCN15,389812,1,1,1,decreases^expression
+LDB3,11155,1,1,1,decreases^expression
+LDH,45880,1,1,1,increases^secretion
+LDLR,3949,1,1,1,increases^expression
+LECT2,3950,1,1,1,increases^expression
+LENG8,114823,1,1,1,affects^expression
+LEP,3952,1,1,1,decreases^secretion
+LEPROTL1,23484,1,1,1,decreases^expression
+LETM2,137994,1,1,1,decreases^expression
+LGALS1,3956,1,1,1,increases^expression
+LGALS12,85329,1,1,1,increases^expression
+LGALS14,56891,1,1,1,increases^expression
+LGALS16,148003,1,1,1,increases^expression
+LGALS2,3957,1,1,1,increases^expression
+LGR5,8549,1,1,1,decreases^expression
+LHCGR,3973,1,1,1,decreases^expression
+LHFPL1,340596,1,1,1,decreases^expression
+LHFPL4,375323,1,1,1,decreases^expression
+LHFPL6,10186,1,1,1,increases^expression
+LHPP,64077,1,1,1,decreases^expression
+LHX2,9355,1,1,1,decreases^expression
+LHX5,64211,1,1,1,decreases^expression
+LHX9,56956,1,1,1,decreases^expression
+LIF,3976,1,1,2,increases^expression
+LIFR,3977,1,1,1,increases^expression
+LIG3,3980,1,1,1,increases^expression
+LIMA1,51474,1,1,1,increases^expression
+LIMS1,3987,1,1,1,increases^expression
+LIMS3,96626,1,1,1,increases^expression
+LIN37,55957,1,1,1,increases^expression
+LIN7A,8825,1,1,1,decreases^expression
+LINC00511,400619,1,1,1,increases^expression
+LINC01159,102682016,1,1,1,affects^expression
+LINC01588,283551,1,1,1,increases^expression
+LINC01638,105372978,1,1,1,decreases^expression
+LINC02593,100130417,1,1,1,decreases^expression
+LINC02656,399716,1,1,1,decreases^expression
+LIPE,3991,1,1,1,increases^expression
+LIX1,167410,1,1,1,decreases^expression
+LIX1L,128077,1,1,1,decreases^expression
+LMNA,4000,1,1,1,increases^expression
+LMO3,55885,1,1,1,decreases^expression
+LNP1,348801,1,1,1,increases^expression
+LOXL2,4017,1,1,1,increases^expression
+LOXL3,84695,1,1,1,affects^methylation|increases^abundance
+LPAR4,2846,1,1,1,decreases^expression
+LPAR5,57121,1,1,1,increases^expression
+LPCAT3,10162,1,1,1,increases^expression
+LRATD2,157638,1,1,1,decreases^expression
+LRCH1,23143,1,1,1,increases^expression
+LRIG1,26018,1,1,1,decreases^expression
+LRP10,26020,1,1,1,increases^expression
+LRP4,4038,1,1,1,decreases^expression
+LRRC10B,390205,1,1,1,decreases^expression
+LRRC3B,116135,1,1,1,increases^expression
+LRRC49,54839,1,1,1,decreases^expression
+LRRC70,100130733,1,1,1,decreases^expression
+LRRC71,149499,1,1,1,decreases^expression
+LRRN4,164312,1,1,1,increases^expression
+LRRTM4,80059,1,1,1,decreases^expression
+LSAMP,4045,1,1,1,decreases^expression
+LSM14B,149986,1,1,1,increases^expression
+LTBP2,4053,1,1,1,decreases^expression
+LUC7L3,51747,1,1,1,affects^expression
+LUZP2,338645,1,1,1,decreases^expression
+LY6D,8581,1,1,1,increases^expression
+LY6E,4061,1,1,1,increases^expression
+LYN,4067,1,1,1,increases^expression
+LYPD1,116372,1,1,1,increases^expression
+MAB21L1,4081,1,1,1,decreases^expression
+MACF1,23499,1,1,1,decreases^expression
+MACIR,90355,1,1,1,increases^expression
+MAFA,389692,1,1,1,affects^expression
+MAFF,23764,1,1,1,increases^expression
+MAGEA8,4107,1,1,1,decreases^expression
+MAGED4,728239,1,1,1,decreases^expression
+MAGEE2,139599,1,1,1,decreases^expression
+MAGOHB,55110,1,1,1,decreases^expression
+MAL,4118,1,1,1,decreases^expression
+MALAT1,378938,1,1,1,decreases^expression
+MALL,7851,1,1,1,decreases^expression
+MAMDC2,256691,1,1,1,decreases^expression
+MAMDC4,158056,1,1,1,decreases^expression
+MAMLD1,10046,1,1,1,increases^expression
+MAN2A2,4122,1,1,1,decreases^expression
+MAOB,4129,1,1,1,decreases^expression
+MAP4K5,11183,1,1,1,decreases^expression
+MAP6,4135,1,1,1,decreases^expression
+MAPK10,5602,1,1,1,decreases^expression
+MAPK15,225689,1,1,1,decreases^expression
+MARCHF4,57574,1,1,1,increases^expression
+MARS1,4141,1,1,1,increases^expression
+MARVELD3,91862,1,1,1,increases^expression
+MASP1,5648,1,1,1,decreases^expression
+MATN2,4147,1,1,1,decreases^expression
+MAZ,4150,1,1,1,increases^expression
+MBOAT1,154141,1,1,1,increases^expression
+MBOAT2,129642,1,1,1,decreases^expression
+MBP,4155,1,1,1,increases^expression
+MCF2L,23263,1,1,1,decreases^expression
+MCHR1,2847,1,1,1,increases^expression
+MCM2,4171,1,1,1,increases^expression
+MCM4,4173,1,1,1,increases^expression
+MCM5,4174,1,1,1,increases^expression
+MCM6,4175,1,1,1,increases^expression
+MCTP1,79772,1,1,1,increases^expression
+MCTP2,55784,1,1,1,increases^expression
+ME1,4199,1,1,1,increases^expression
+MECOM,2122,1,1,1,decreases^expression
+MED1,5469,1,1,1,affects^binding|increases^reaction
+MED18,54797,1,1,1,increases^expression
+MED19,219541,1,1,1,decreases^expression
+MED23,9439,1,1,1,decreases^expression
+MED4,29079,1,1,1,decreases^expression
+MEOX1,4222,1,1,1,increases^expression
+MESP2,145873,1,1,1,decreases^expression
+MEST,4232,1,1,1,decreases^expression
+MET,4233,1,1,1,increases^expression
+MEX3B,84206,1,1,1,decreases^expression
+MFNG,4242,1,1,1,decreases^expression
+MGA,23269,1,1,1,increases^expression
+MGARP,84709,1,1,1,decreases^expression
+MGST2,4258,1,1,1,increases^expression
+MGST3,4259,1,1,1,increases^expression
+MIB1,57534,1,1,1,decreases^expression
+MICAL2,9645,1,1,1,increases^expression
+MID1,4281,1,1,1,decreases^expression
+MINAR2,100127206,1,1,1,decreases^expression
+MIR101,100187678,1,1,1,increases^expression
+MIR10B,406903,1,1,1,increases^expression
+MIR125A,406910,1,1,1,decreases^expression
+MIR125B,102466056,1,1,1,increases^expression
+MIR126,406913,1,1,1,increases^expression
+MIR127,406914,1,1,1,decreases^expression
+MIR1307,100302174,1,1,1,decreases^expression
+MIR141,406933,1,1,1,affects^cotreatment|increases^expression
+MIR142,406934,1,1,1,affects^secretion|increases^abundance
+MIR143,406935,1,1,1,increases^expression
+MIR145,406937,1,1,1,increases^expression
+MIR148A,406940,1,1,1,increases^expression
+MIR149,406941,1,1,1,decreases^expression
+MIR15A,406948,1,1,1,affects^secretion|increases^abundance
+MIR181D,574457,1,1,1,decreases^expression
+MIR184,406960,1,1,1,affects^cotreatment|affects^expression
+MIR186,406962,1,1,1,decreases^expression
+MIR191,406966,1,1,1,decreases^expression
+MIR193B,574455,1,1,1,decreases^expression
+MIR199A,102466858,1,1,1,increases^expression
+MIR22,407004,1,1,1,decreases^expression
+MIR221,407006,1,1,1,decreases^expression
+MIR222,407007,1,1,1,decreases^expression
+MIR224,407009,1,1,1,decreases^expression
+MIR26B,407017,1,1,1,affects^secretion|increases^abundance
+MIR28,407020,1,1,1,decreases^expression
+MIR29C,407026,1,1,1,affects^secretion|increases^abundance
+MIR30B,407030,1,1,1,decreases^expression
+MIR30C,791063,1,1,1,decreases^expression
+MIR31,407035,1,1,1,decreases^expression
+MIR3184,100423003,1,1,1,decreases^expression
+MIR320A,407037,1,1,1,decreases^expression
+MIR345,442910,1,1,1,affects^secretion|increases^abundance
+MIR34AHG,106614088,1,1,1,increases^expression
+MIR370,442915,1,1,1,decreases^expression
+MIR378A,494327,1,1,1,decreases^expression
+MIR423,494335,1,1,1,decreases^expression
+MIR451A,574411,1,1,1,affects^secretion|increases^abundance
+MIR532,693124,1,1,1,increases^expression
+MIR572,693157,1,1,1,affects^secretion|increases^abundance
+MIR638,693223,1,1,1,affects^secretion|increases^abundance
+MIR675,100033819,1,1,1,affects^cotreatment|decreases^expression
+MIR744,100126313,1,1,1,decreases^expression
+MIR769,768217,1,1,1,decreases^expression
+MIR942,100126331,1,1,1,affects^secretion|increases^abundance
+MIR99A,407055,1,1,1,increases^expression
+MITF,4286,1,1,1,decreases^expression
+MLNR,2862,1,1,1,decreases^expression
+MLXIPL,51085,1,1,1,affects^expression
+MMD,23531,1,1,1,increases^expression
+MME,4311,1,1,1,decreases^expression
+MMP16,4325,1,1,1,decreases^expression
+MMP23B,8510,1,1,1,decreases^expression
+MMP28,79148,1,1,1,increases^expression
+MNAT1,4331,1,1,1,increases^expression
+MNT,4335,1,1,1,increases^expression
+MOGAT1,116255,1,1,1,decreases^expression
+MORC1,27136,1,1,1,decreases^expression
+MOS,4342,1,1,1,increases^expression
+MPC1,51660,1,1,1,increases^expression
+MPL,4352,1,1,1,decreases^expression
+MPP1,4354,1,1,1,increases^expression
+MPP5,423281,1,1,1,decreases^expression
+MPZL1,9019,1,1,1,increases^expression
+MPZL3,196264,1,1,1,increases^expression
+MRC1,4360,1,1,1,affects^cotreatment|decreases^expression
+MRGBP,55257,1,1,1,increases^expression
+MRM1,79922,1,1,1,decreases^expression
+MROH8,140699,1,1,1,decreases^expression
+MRPL32,64983,1,1,1,decreases^expression
+MRPL35,51318,1,1,1,increases^expression
+MRPL47,57129,1,1,1,decreases^expression
+MRPL54,116541,1,1,1,decreases^expression
+MRTO4,51154,1,1,1,increases^expression
+MSANTD3,91283,1,1,1,decreases^expression
+MSI2,124540,1,1,1,decreases^expression
+MSLN,10232,1,1,1,decreases^expression
+MSMO1,6307,1,1,1,decreases^expression
+MSRA,4482,1,1,1,decreases^expression
+MT-RNR2,17725,1,1,1,decreases^expression
+MT1G,4495,1,1,1,increases^expression
+MT1H,4496,1,1,1,increases^expression
+MT1HL1,645745,1,1,1,increases^expression
+MT1M,4499,1,1,1,increases^expression
+MTRNR2L10,100463488,1,1,1,decreases^expression
+MTRNR2L8,100463486,1,1,1,decreases^expression
+MTUS1,57509,1,1,1,increases^expression
+MTUS2,23281,1,1,1,decreases^expression
+MUC15,143662,1,1,1,increases^expression
+MUC16,94025,1,1,1,decreases^expression
+MUC20-OT1,111753249,1,1,1,affects^expression
+MUSTN1,389125,1,1,1,decreases^expression
+MXRA7,439921,1,1,1,decreases^expression
+MYADM,91663,1,1,1,decreases^expression
+MYB,4602,1,1,1,decreases^expression
+MYCN,4613,1,1,1,decreases^expression
+MYF6,4618,1,1,1,decreases^expression
+MYH10,4628,1,1,1,decreases^expression
+MYH11,4629,1,1,1,decreases^expression
+MYH3,4621,1,1,1,increases^methylation
+MYH9,4627,1,1,1,increases^expression
+MYL12B,103910,1,1,1,increases^expression
+MYL2,4633,1,1,1,increases^expression
+MYL4,4635,1,1,1,decreases^expression
+MYL5,4636,1,1,1,increases^expression
+MYLK,4638,1,1,1,decreases^expression
+MYO15A,51168,1,1,1,decreases^expression
+MYO15B,80022,1,1,1,decreases^expression
+MYO1D,4642,1,1,1,increases^expression
+MYO3A,53904,1,1,1,decreases^expression
+MYO3B,140469,1,1,1,decreases^expression
+MYO6,4646,1,1,2,decreases^expression
+MYOF,26509,1,1,1,increases^expression
+MYOM1,8736,1,1,1,decreases^expression
+MZB1,51237,1,1,1,decreases^expression
+MZT1,440145,1,1,1,decreases^expression
+NAA11,84779,1,1,1,increases^expression
+NAAA,27163,1,1,1,decreases^expression
+NAALAD2,10003,1,1,1,decreases^expression
+NABP1,64859,1,1,1,increases^expression
+NACC2,138151,1,1,1,increases^expression
+NALF1,728215,1,1,1,decreases^expression
+NANOG,79923,1,1,1,decreases^expression
+NAP1L2,4674,1,1,1,decreases^expression
+NAV1,89796,1,1,1,decreases^expression
+NCAM1,4684,1,1,1,decreases^expression
+NCBP2AS2,152217,1,1,1,affects^expression
+NCCRP1,342897,1,1,1,increases^expression
+NCF2,4688,1,1,1,decreases^expression
+NCOR1,9611,1,1,1,affects^binding|decreases^reaction
+NDNF,79625,1,1,1,increases^expression
+NDRG1,10397,1,1,1,increases^expression
+NDRG2,57447,1,1,1,increases^expression
+NDST4,64579,1,1,1,decreases^expression
+NDUFA3,4696,1,1,1,decreases^expression
+NDUFA7,4701,1,1,2,decreases^expression
+NDUFAF1,51103,1,1,1,decreases^expression
+NDUFAF6,137682,1,1,1,increases^expression
+NDUFB4,4710,1,1,1,decreases^expression
+NDUFB7,4713,1,1,1,increases^expression
+NECAB2,54550,1,1,1,decreases^expression
+NELL2,4753,1,1,1,decreases^expression
+NEMP1,23306,1,1,1,increases^expression
+NFATC2,4773,1,1,1,increases^expression
+NFE2L3,9603,1,1,1,increases^expression
+NFKB1,4790,1,1,1,increases^expression
+NFKBIE,4794,1,1,1,increases^expression
+NGF,4803,1,1,1,increases^expression
+NHLH1,4807,1,1,1,decreases^expression
+NIBAN3,199786,1,1,1,decreases^expression
+NIPSNAP3B,55335,1,1,1,decreases^expression
+NKD1,85407,1,1,1,decreases^expression
+NKX3-1,4824,1,1,1,decreases^expression
+NLGN1,22871,1,1,1,decreases^expression
+NLGN3,54413,1,1,1,decreases^expression
+NLGN4Y,22829,1,1,1,increases^expression
+NLRC3,197358,1,1,1,decreases^expression
+NLRP2,55655,1,1,1,increases^expression
+NMI,9111,1,1,1,increases^expression
+NNMT,4837,1,1,1,increases^expression
+NOAZFP,27309,1,1,1,decreases^expression
+NOCT,25819,1,1,1,increases^expression
+NOMO3,408050,1,1,1,increases^expression
+NOP16,51491,1,1,1,increases^expression
+NOPCHAP1,121053,1,1,1,increases^expression
+NOS1,4842,1,1,1,decreases^expression
+NOS2,4843,1,1,1,decreases^expression
+NOTCH4,4855,1,1,1,increases^expression
+NOVA1,4857,1,1,1,decreases^expression
+NOX1,27035,1,1,1,increases^expression
+NPAS2,4862,1,1,1,increases^expression
+NPAS3,64067,1,1,1,decreases^expression
+NPAS4,266743,1,1,1,decreases^expression
+NPIPA1,9284,1,1,1,decreases^expression
+NPIPB4,440345,1,1,1,affects^expression
+NPNT,255743,1,1,1,increases^expression
+NPTX1,4884,1,1,1,decreases^expression
+NPTX2,4885,1,1,1,decreases^expression
+NPY1R,4886,1,1,1,decreases^expression
+NPY2R,4887,1,1,1,decreases^expression
+NQO1,1728,1,1,1,increases^expression
+NR1H2,7376,1,1,1,affects^binding|increases^activity|increases^reaction
+NR4A3,8013,1,1,1,increases^expression
+NR6A1,2649,1,1,1,increases^expression
+NRCAM,4897,1,1,1,decreases^expression
+NRG2,9542,1,1,1,decreases^expression
+NRIP3,56675,1,1,1,decreases^expression
+NRXN1,9378,1,1,1,decreases^expression
+NRXN2,9379,1,1,1,decreases^expression
+NSL1,25936,1,1,1,decreases^expression
+NT5E,4907,1,1,1,increases^expression
+NTM,50863,1,1,1,increases^expression
+NTMT1,28989,1,1,1,decreases^expression
+NTN1,9423,1,1,1,increases^expression
+NTN5,126147,1,1,1,decreases^expression
+NTRK3,4916,1,1,1,decreases^expression
+NTS,4922,1,1,1,increases^expression
+NUCKS1,64710,1,1,1,increases^expression
+NUDT10,170685,1,1,1,decreases^expression
+NUPR1,26471,1,1,2,increases^expression
+OAF,220323,1,1,1,decreases^expression
+OAZ3,51686,1,1,1,decreases^expression
+OBSCN,84033,1,1,1,decreases^expression
+OBSCN-AS1,574407,1,1,1,decreases^expression
+OCLN,100506658,1,1,1,increases^expression
+ODAD2,55130,1,1,1,decreases^expression
+ODAD4,83538,1,1,1,decreases^expression
+ODAPH,152816,1,1,1,increases^expression
+ODC1,4953,1,1,1,increases^expression
+OFD1,8481,1,1,1,increases^expression
+OGG1,4968,1,1,1,increases^expression
+OGN,4969,1,1,1,increases^expression
+OIP5-AS1,729082,1,1,1,affects^expression
+OLFM1,10439,1,1,1,decreases^expression
+OLFM2,93145,1,1,1,increases^methylation
+OLFML2A,169611,1,1,1,increases^expression
+OLFML2B,25903,1,1,1,decreases^expression
+OLFML3,56944,1,1,1,increases^expression
+OLIG3,167826,1,1,1,decreases^expression
+OLR1,4973,1,1,1,decreases^expression
+ONECUT2,9480,1,1,1,decreases^expression
+OOEP,441161,1,1,1,decreases^expression
+OPTC,26254,1,1,1,decreases^expression
+OR10A2,341276,1,1,1,decreases^expression
+OR13D1,286365,1,1,1,decreases^expression
+OR14K1,343170,1,1,1,decreases^expression
+OR2A7,401427,1,1,1,increases^expression
+OR2T12,127064,1,1,1,increases^expression
+OR51B2,79345,1,1,1,decreases^expression
+OR51B5,282763,1,1,1,decreases^expression
+OR7G3,390883,1,1,1,decreases^expression
+OSBPL10,114884,1,1,1,increases^expression
+OSR2,116039,1,1,1,decreases^expression
+OSTF1,26578,1,1,1,increases^expression
+OTOP3,347741,1,1,1,decreases^expression
+OTUD6B,51633,1,1,1,increases^expression
+OTX1,5013,1,1,1,decreases^expression
+OTX2,5015,1,1,1,affects^cotreatment|increases^expression|increases^reaction
+OVOL1,5017,1,1,1,increases^expression
+OVOS2P,144203,1,1,1,decreases^expression
+P2RX3,5024,1,1,1,decreases^expression
+P2RY12,64805,1,1,1,decreases^expression
+P2RY6,5031,1,1,1,increases^expression
+P3H1,64175,1,1,1,decreases^expression
+P3H4,10609,1,1,1,decreases^expression
+P4HA1,5033,1,1,1,decreases^expression
+PABPC1L2B,645974,1,1,1,decreases^expression
+PADI2,11240,1,1,1,decreases^expression
+PADI3,51702,1,1,1,decreases^expression
+PAFAH1B1,5048,1,1,1,decreases^expression
+PAG1,55824,1,1,1,decreases^expression
+PAGE4,9506,1,1,1,increases^expression
+PAIP2B,400961,1,1,1,decreases^expression
+PALD1,27143,1,1,1,decreases^expression
+PALM2AKAP2,445815,1,1,1,increases^expression
+PAN2,9924,1,1,1,decreases^expression
+PAPLN,89932,1,1,1,decreases^expression
+PAPPA2,60676,1,1,1,increases^expression
+PAPSS1,9061,1,1,1,decreases^expression
+PAPSS2,9060,1,1,1,decreases^expression
+PAQR9,344838,1,1,1,decreases^expression
+PARVA,55742,1,1,1,increases^expression
+PAX7,5081,1,1,1,decreases^expression
+PCBP1-AS1,400960,1,1,1,increases^expression
+PCDH12,51294,1,1,1,decreases^expression
+PCDH7,5099,1,1,1,increases^expression
+PCDH9,5101,1,1,1,decreases^expression
+PCDHB14,56122,1,1,1,decreases^expression
+PCED1B,91523,1,1,1,increases^expression
+PCGF5,84333,1,1,1,increases^expression
+PCNX3,399909,1,1,1,decreases^expression
+PCOLCE-AS1,100129845,1,1,1,decreases^expression
+PCSK1N,27344,1,1,1,decreases^expression
+PCSK9,255738,1,1,1,decreases^expression
+PDCD1LG2,80380,1,1,1,increases^expression
+PDE11A,50940,1,1,1,decreases^expression
+PDE1C,5137,1,1,1,increases^expression
+PDE2A,5138,1,1,1,decreases^expression
+PDE3B,5140,1,1,1,increases^expression
+PDE6B,5158,1,1,1,decreases^expression
+PDGFD,80310,1,1,1,decreases^expression
+PDIA2,64714,1,1,1,decreases^expression
+PDIA5,10954,1,1,1,increases^expression
+PDK4,5166,1,1,1,increases^expression
+PDLIM1,9124,1,1,1,increases^expression
+PDLIM2,64236,1,1,1,decreases^expression
+PDP1,54704,1,1,1,decreases^expression
+PDX1,3651,1,1,1,increases^expression
+PDZD4,57595,1,1,1,decreases^expression
+PDZK1,5174,1,1,1,decreases^expression
+PDZRN4,29951,1,1,1,decreases^expression
+PEAR1,375033,1,1,1,increases^expression
+PEDS1-UBE2V1,387522,1,1,1,increases^expression
+PEG10,23089,1,1,1,increases^expression
+PEMT,10400,1,1,1,increases^expression
+PER3,8863,1,1,1,decreases^expression
+PERP,64065,1,1,1,increases^expression
+PEX39,441150,1,1,1,decreases^expression
+PEX5L,51555,1,1,1,decreases^expression
+PFKL,5211,1,1,1,decreases^expression
+PFKP,5214,1,1,1,increases^expression
+PGAM1,5223,1,1,1,decreases^expression
+PGCKA1,55286,1,1,1,increases^expression
+PGD,5226,1,1,1,increases^expression
+PGGHG,80162,1,1,1,decreases^expression
+PGK1,5230,1,1,1,increases^expression
+PGLS,25796,1,1,1,decreases^expression
+PGM3,5238,1,1,1,increases^expression
+PHACTR1,221692,1,1,1,decreases^expression
+PHF20L1,51105,1,1,1,increases^expression
+PHGDH,26227,1,1,1,decreases^expression
+PHLDA1,22822,1,1,1,increases^expression
+PHLDA2,7262,1,1,1,increases^expression
+PHTF2,57157,1,1,1,decreases^expression
+PHYHIP,9796,1,1,1,decreases^expression
+PIANP,196500,1,1,1,decreases^expression
+PIERCE1,138162,1,1,1,decreases^expression
+PIEZO2,63895,1,1,1,decreases^expression
+PIM2,11040,1,1,1,decreases^expression
+PIP,5304,1,1,1,decreases^expression
+PITX2,5308,1,1,1,increases^expression
+PKM,5315,1,1,1,increases^expression
+PLA2G15,23659,1,1,1,decreases^expression
+PLA2G2E,30814,1,1,1,decreases^expression
+PLA2G4A,5321,1,1,1,affects^cotreatment|affects^reaction|decreases^expression
+PLA2R1,22925,1,1,1,decreases^expression
+PLAAT3,11145,1,1,1,increases^expression
+PLAC8L1,153770,1,1,1,increases^expression
+PLAT,5327,1,1,1,decreases^expression
+PLBD1,79887,1,1,1,decreases^expression
+PLCH1,23007,1,1,1,decreases^expression
+PLCXD2,257068,1,1,1,decreases^expression
+PLD1,5337,1,1,1,decreases^expression
+PLD5,200150,1,1,1,increases^expression
+PLD6,201164,1,1,1,decreases^expression
+PLEKHA7,144100,1,1,1,decreases^expression
+PLEKHG4,25894,1,1,1,decreases^expression
+PLEKHH2,130271,1,1,1,decreases^expression
+PLG,5340,1,1,1,decreases^expression
+PLGLB1,5343,1,1,1,decreases^expression
+PLIN4,729359,1,1,1,increases^expression
+PLIN5,440503,1,1,1,decreases^expression
+PLK2,10769,1,1,1,decreases^expression
+PLN,5350,1,1,1,increases^expression
+PLOD1,5351,1,1,1,decreases^expression
+PLOD3,8985,1,1,1,decreases^expression
+PLP2,5355,1,1,1,increases^expression
+PLPP7,84814,1,1,1,decreases^expression
+PLPPR4,9890,1,1,1,decreases^expression
+PLSCR1,5359,1,1,1,increases^expression
+PLXDC2,84898,1,1,1,decreases^expression
+PLXNA2,5362,1,1,1,increases^expression
+PLXNC1,10154,1,1,1,decreases^expression
+PMEL,6490,1,1,1,increases^expression
+PMEPA1,56937,1,1,1,increases^expression
+PMP22,5376,1,1,1,increases^expression
+PNCK,139728,1,1,1,decreases^expression
+POFUT4,170384,1,1,1,increases^expression
+POLD3,10714,1,1,1,increases^expression
+POLDIP2,26073,1,1,1,decreases^expression
+POLE3,54107,1,1,1,increases^expression
+POLR1C,9533,1,1,1,decreases^expression
+POLR1E,64425,1,1,1,increases^expression
+POLR2K,5440,1,1,1,increases^expression
+POPDC2,64091,1,1,1,increases^expression
+POR,5447,1,1,1,increases^expression
+POTEB3,102724631,1,1,1,decreases^expression
+POTED,317754,1,1,1,decreases^expression
+POTEE,445582,1,1,1,decreases^expression
+POU4F1,5457,1,1,1,decreases^expression
+POU4F3,5459,1,1,1,decreases^expression
+POU5F2,134187,1,1,1,decreases^expression
+POU6F2,11281,1,1,1,decreases^expression
+PPFIBP1,8496,1,1,1,increases^expression
+PPIL4,85313,1,1,1,decreases^expression
+PPIL6,285755,1,1,1,decreases^expression
+PPP1CB,5500,1,1,1,increases^expression
+PPP1R14B,26472,1,1,1,decreases^expression
+PPP1R17,10842,1,1,1,decreases^expression
+PPP1R1B,84152,1,1,1,decreases^expression
+PPP1R2,5504,1,1,1,decreases^expression
+PPP1R3C,5507,1,1,1,decreases^expression
+PPP2R2B,5521,1,1,1,decreases^expression
+PPP2R2D,55844,1,1,1,decreases^expression
+PPP3CC,5533,1,1,1,increases^expression
+PPY,5539,1,1,1,increases^expression
+PR,19066,1,1,1,decreases^expression
+PRADC1,84279,1,1,1,increases^expression
+PRDM12,59335,1,1,1,increases^expression
+PRDM14,63978,1,1,1,decreases^expression
+PRDM16,63976,1,1,1,decreases^expression
+PRDM6,93166,1,1,1,decreases^expression
+PRDM8,56978,1,1,1,increases^abundance|increases^methylation
+PRELID2,153768,1,1,1,decreases^expression
+PRELID3A,10650,1,1,1,decreases^expression
+PRELP,5549,1,1,1,decreases^expression
+PRICKLE2,166336,1,1,1,increases^expression
+PRIMA1,145270,1,1,1,decreases^expression
+PRKAG2,51422,1,1,1,decreases^expression
+PRKAR2B,5577,1,1,1,increases^expression
+PRKCA,5578,1,1,1,affects^reaction|decreases^reaction|increases^expression
+PRKCB,5579,1,1,1,affects^reaction|decreases^reaction|increases^expression
+PRKCD,5580,1,1,1,affects^reaction|decreases^reaction|increases^expression
+PRKCDBP,424047,1,1,1,increases^expression
+PRKCH,5583,1,1,1,increases^expression
+PRLR,5618,1,1,1,increases^expression
+PRNP,5621,1,1,1,increases^expression
+PROSER2,254427,1,1,1,increases^expression
+PRPF4B,19134,1,1,1,decreases^expression
+PRPH,5630,1,1,1,decreases^expression
+PRRG1,5638,1,1,1,increases^expression
+PRRT2,112476,1,1,1,decreases^expression
+PRRX2,51450,1,1,1,decreases^expression
+PRSS1,5644,1,1,1,decreases^expression
+PRSS12,8492,1,1,1,increases^expression
+PRSS22,64063,1,1,1,increases^expression
+PRSS37,136242,1,1,1,decreases^expression
+PRXL2A,84293,1,1,1,increases^expression
+PSAT1,29968,1,1,1,increases^expression
+PSD2,84249,1,1,1,decreases^expression
+PSD3,23362,1,1,1,decreases^expression
+PSG1,5669,1,1,1,decreases^expression
+PSG8,440533,1,1,1,increases^expression
+PSIP1,11168,1,1,1,increases^expression
+PSMA3-AS1,379025,1,1,1,affects^expression
+PSMA7,5688,1,1,1,decreases^expression
+PSMB4,5692,1,1,1,increases^expression
+PSMD13,5719,1,1,1,decreases^expression
+PSMD6,9861,1,1,1,decreases^expression
+PSTPIP2,9050,1,1,1,increases^expression
+PTGDR,5729,1,1,1,decreases^expression
+PTGER4,5734,1,1,1,affects^cotreatment|decreases^expression|decreases^reaction
+PTGES3,10728,1,1,1,affects^cotreatment|affects^reaction|decreases^expression
+PTHLH,5744,1,1,1,increases^expression
+PTP4A1,7803,1,1,1,decreases^expression
+PTP4A3,11156,1,1,1,decreases^expression
+PTPN3,5774,1,1,1,increases^expression
+PTPN5,84867,1,1,1,decreases^expression
+PTPRCAP,5790,1,1,1,increases^expression
+PTPRD,5789,1,1,1,increases^expression
+PTPRJ,5795,1,1,1,affects^methylation|increases^abundance
+PTPRQ,374462,1,1,1,decreases^expression
+PTPRT,11122,1,1,1,decreases^expression
+PTPRZ1,5803,1,1,1,decreases^expression
+PTRF,396006,1,1,1,increases^expression
+PTS,5805,1,1,1,increases^expression
+PURG,29942,1,1,1,decreases^expression
+PWWP2A,114825,1,1,1,increases^expression
+PWWP2B,170394,1,1,1,increases^expression
+PXN,5829,1,1,1,increases^expression
+PYGL,5836,1,1,1,increases^expression
+PYGM,5837,1,1,1,decreases^expression
+PYHIN1,149628,1,1,1,increases^expression
+PYY,5697,1,1,1,affects^methylation|increases^abundance
+PZP,5858,1,1,1,decreases^expression
+QARS1,5859,1,1,1,decreases^expression
+QKI,9444,1,1,1,decreases^expression
+QRSL1,55278,1,1,1,decreases^expression
+RAB11B,9230,1,1,1,decreases^expression
+RAB11FIP5,26056,1,1,1,increases^expression
+RAB20,55647,1,1,1,increases^expression
+RAB25,57111,1,1,1,increases^expression
+RAB27B,5874,1,1,1,increases^expression
+RAB2A,5862,1,1,1,decreases^expression
+RAB32,10981,1,1,1,decreases^expression
+RAB33B,83452,1,1,1,decreases^expression
+RAB43,339122,1,1,1,increases^expression
+RAB4A,5867,1,1,1,decreases^expression
+RAB8B,51762,1,1,1,decreases^expression
+RAC2,5880,1,1,1,increases^expression
+RAD51B,5890,1,1,1,decreases^expression
+RAD54L2,23132,1,1,1,decreases^expression
+RAMP1,10267,1,1,1,increases^expression
+RAMP2,10266,1,1,1,decreases^expression
+RAP1GAP2,23108,1,1,1,increases^expression
+RAPGEF3,10411,1,1,1,decreases^expression
+RAPGEFL1,51195,1,1,1,decreases^expression
+RARRES2,5919,1,1,1,increases^expression
+RASAL1,8437,1,1,1,decreases^expression
+RASGRF2,5924,1,1,1,increases^expression
+RASL12,51285,1,1,1,decreases^expression
+RBBP4,5928,1,1,1,increases^expression
+RBFOX1,54715,1,1,1,decreases^expression
+RBM3,5935,1,1,1,increases^expression
+RBM4B,83759,1,1,1,decreases^expression
+RBM6,10180,1,1,1,affects^expression
+RBMXL3,139804,1,1,1,decreases^expression
+RBP7,116362,1,1,1,decreases^expression
+RCAN1,1827,1,1,1,increases^expression
+RCAN3,11123,1,1,1,increases^expression
+RCBTB2,1102,1,1,1,decreases^expression
+RCC2,55920,1,1,1,increases^expression
+RCN1,5954,1,1,1,decreases^expression
+RDH12,145226,1,1,1,decreases^expression
+REEP5,7905,1,1,1,decreases^expression
+RENBP,5973,1,1,1,decreases^expression
+REP15,387849,1,1,1,increases^expression
+RER1,11079,1,1,1,increases^expression
+RET,5979,1,1,1,decreases^expression
+REXO2,25996,1,1,1,increases^expression
+RFPL1,5988,1,1,1,decreases^expression
+RFTN2,130132,1,1,1,decreases^expression
+RFWD3,55159,1,1,1,decreases^expression
+RFX4,5992,1,1,1,decreases^expression
+RGMA,56963,1,1,1,decreases^expression
+RGN,9104,1,1,1,decreases^expression
+RGPD2,729857,1,1,1,decreases^expression
+RGS16,6004,1,1,1,increases^expression
+RGS2,5997,1,1,1,affects^cotreatment|decreases^reaction|increases^expression
+RGS3,5998,1,1,1,increases^expression
+RGS8,85397,1,1,1,decreases^expression
+RGS9BP,388531,1,1,1,decreases^expression
+RHBDF2,79651,1,1,1,increases^expression
+RHOJ,57381,1,1,1,increases^expression
+RHOU,58480,1,1,1,increases^expression
+RIBC1,158787,1,1,1,decreases^expression
+RIGI,23586,1,1,1,decreases^expression
+RIMBP2,23504,1,1,1,decreases^expression
+RIMS2,9699,1,1,1,increases^expression
+RIN3,79890,1,1,1,increases^expression
+RLBP1,6017,1,1,1,decreases^expression
+RNASET2,8635,1,1,1,decreases^expression
+RNF112,7732,1,1,1,decreases^expression
+RNF144B,255488,1,1,1,increases^expression
+RNF148,378925,1,1,1,decreases^expression
+RNF152,220441,1,1,1,increases^expression
+RNF175,285533,1,1,1,decreases^expression
+RNF183,138065,1,1,1,decreases^expression
+RNF212,285498,1,1,1,decreases^expression
+RNF39,80352,1,1,1,decreases^methylation|increases^abundance
+ROCK2,9475,1,1,1,increases^expression
+RP2,6102,1,1,1,increases^expression
+RPH3A,22895,1,1,1,decreases^expression
+RPH3AL,9501,1,1,1,decreases^expression
+RPL23,9349,1,1,1,increases^expression
+RPL29,6159,1,1,1,decreases^expression
+RPL34,6164,1,1,1,decreases^expression
+RPL36A-HNRNPH2,100529097,1,1,1,affects^cotreatment|affects^expression
+RPL37,6167,1,1,1,decreases^expression
+RPL37A,6168,1,1,1,decreases^expression
+RPL7L1,285855,1,1,1,increases^expression
+RPS11,6205,1,1,1,increases^expression
+RPS15,6209,1,1,1,decreases^expression
+RPS19,6223,1,1,1,decreases^expression
+RPS2,6187,1,1,1,affects^cotreatment|increases^expression
+RPS27,6232,1,1,1,decreases^expression
+RPS27L,51065,1,1,1,increases^expression
+RPS28,6234,1,1,1,decreases^expression
+RPS6KA4,8986,1,1,1,increases^expression
+RRBP1,6238,1,1,1,increases^expression
+RSL24D1,51187,1,1,1,increases^expression
+RSPH1,89765,1,1,1,decreases^expression
+RSPH9,221421,1,1,1,decreases^expression
+RTN1,6252,1,1,1,decreases^expression
+RTN4RL1,146760,1,1,1,decreases^expression
+RUFY1,80230,1,1,1,decreases^expression
+RUNX1,861,1,1,1,increases^expression
+RUNX1T1,862,1,1,1,increases^expression
+RUNX2,860,1,1,1,increases^expression
+RXFP2,122042,1,1,1,increases^activity
+RXFP4,339403,1,1,1,decreases^expression
+RYR2,6262,1,1,1,increases^expression
+S100A11,6282,1,1,1,increases^expression
+S100A14,57402,1,1,1,increases^expression
+S100A16,140576,1,1,1,increases^expression
+S100A3,6274,1,1,1,increases^expression
+S100A4,6275,1,1,1,decreases^expression
+S100A9,6280,1,1,1,increases^expression
+S100B,6285,1,1,1,decreases^expression
+S100P,6286,1,1,1,increases^expression
+S1PR1,1901,1,1,1,increases^expression
+S1PR5,53637,1,1,1,decreases^expression
+SACK1C,128876,1,1,1,decreases^expression
+SALL1,6299,1,1,1,decreases^expression
+SALL2,6297,1,1,1,increases^expression
+SALL3,27164,1,1,1,increases^expression
+SALL4,57167,1,1,1,increases^expression
+SAMD15,161394,1,1,1,decreases^expression
+SAMD3,154075,1,1,1,increases^expression
+SAMD4A,23034,1,1,1,increases^expression
+SAPCD1,401251,1,1,1,decreases^expression
+SARDH,1757,1,1,1,decreases^expression
+SAT1,6303,1,1,1,increases^expression
+SAT2,112483,1,1,1,decreases^expression
+SAXO4,220004,1,1,1,decreases^expression
+SAXO6,56890,1,1,1,decreases^expression
+SCARA3,51435,1,1,1,decreases^expression
+SCARB1,949,1,1,1,increases^abundance|increases^expression
+SCARB2,950,1,1,1,decreases^expression
+SCD5,79966,1,1,1,decreases^expression
+SCFD1,23256,1,1,1,decreases^expression
+SCGB2B2,284402,1,1,1,decreases^expression
+SCGB3A2,117156,1,1,1,increases^expression
+SCGN,10590,1,1,1,affects^cotreatment|increases^expression
+SCIMP,388325,1,1,1,decreases^expression
+SCIN,85477,1,1,1,decreases^expression
+SCN10A,6336,1,1,1,decreases^expression
+SCN1A,6323,1,1,1,increases^expression
+SCN4A,6329,1,1,1,decreases^expression
+SCN4B,6330,1,1,1,decreases^expression
+SCUBE3,222663,1,1,1,decreases^expression
+SDC4,6385,1,1,1,increases^expression
+SDCBP,6386,1,1,1,decreases^expression
+SDK2,54549,1,1,1,decreases^expression
+SDR42E1,93517,1,1,1,decreases^expression
+SEC16B,89866,1,1,1,decreases^expression
+SEC24D,9871,1,1,1,increases^expression
+SEC31B,25956,1,1,1,decreases^expression
+SEC61G,23480,1,1,1,increases^expression
+SELENBP1,8991,1,1,1,decreases^expression
+SEMA6A,57556,1,1,1,increases^expression
+SEPTIN4,5414,1,1,1,decreases^expression
+SEPTIN9,10801,1,1,1,decreases^expression
+SERPINA10,51156,1,1,1,increases^expression
+SERPINA11,256394,1,1,1,increases^expression
+SERPINA5,5104,1,1,1,decreases^expression
+SERPINB2,5055,1,1,1,decreases^expression
+SERPINB7,8710,1,1,1,decreases^expression
+SERPINB9,5272,1,1,1,increases^expression
+SERPINF1,5176,1,1,1,decreases^expression
+SERPING1,710,1,1,1,decreases^expression
+SERPINI1,5274,1,1,1,increases^expression
+SERTAD2,9792,1,1,1,increases^expression
+SERTAD4,56256,1,1,1,increases^expression
+SESN2,83667,1,1,1,increases^expression
+SEZ6,124925,1,1,1,decreases^expression
+SF1,7536,1,1,1,decreases^expression
+SFN,2810,1,1,1,decreases^expression
+SGIP1,84251,1,1,1,decreases^expression
+SGK2,10110,1,1,1,decreases^expression
+SGMS2,166929,1,1,1,increases^expression
+SGPP1,81537,1,1,1,increases^expression
+SGPP2,130367,1,1,1,decreases^expression
+SH2D4A,63898,1,1,1,increases^expression
+SH3BGRL3,83442,1,1,1,increases^expression
+SH3KBP1,30011,1,1,1,increases^expression
+SHISA2,387914,1,1,1,decreases^expression
+SHOX,6473,1,1,1,decreases^expression
+SIGLEC6,946,1,1,1,increases^expression
+SIRPB1,10326,1,1,1,decreases^expression
+SIVA1,10572,1,1,1,decreases^expression
+SIX2,10736,1,1,1,increases^expression
+SIX3,6496,1,1,1,decreases^expression
+SIX6,4990,1,1,1,decreases^expression
+SLC13A4,26266,1,1,1,increases^expression
+SLC16A14,151473,1,1,1,decreases^expression
+SLC16A2,6567,1,1,1,increases^expression
+SLC16A3,9123,1,1,1,increases^expression
+SLC16A9,220963,1,1,1,increases^expression
+SLC17A7,57030,1,1,1,decreases^expression
+SLC19A3,80704,1,1,1,increases^expression
+SLC1A1,6505,1,1,1,increases^expression
+SLC1A2,6506,1,1,1,decreases^expression
+SLC1A6,6511,1,1,1,increases^expression
+SLC22A5,6584,1,1,1,increases^expression
+SLC25A12,8604,1,1,1,decreases^expression
+SLC25A20,788,1,1,1,increases^expression
+SLC25A27,9481,1,1,1,decreases^expression
+SLC25A35,399512,1,1,1,decreases^expression
+SLC25A41,284427,1,1,1,decreases^expression
+SLC26A10P,65012,1,1,1,decreases^expression
+SLC27A3,11000,1,1,1,increases^expression
+SLC29A4,222962,1,1,1,decreases^expression
+SLC2A10,81031,1,1,1,increases^expression
+SLC2A12,154091,1,1,1,decreases^expression
+SLC2A3,6515,1,1,1,increases^expression
+SLC30A3,7781,1,1,1,decreases^expression
+SLC35E1,79939,1,1,1,decreases^expression
+SLC44A2,57153,1,1,1,increases^expression
+SLC44A3,126969,1,1,1,increases^expression
+SLC44A3-AS1,101928079,1,1,1,affects^expression
+SLC46A3,283537,1,1,1,increases^expression
+SLC47A1,55244,1,1,1,decreases^expression
+SLC47A2,146802,1,1,1,decreases^expression
+SLC4A1,6521,1,1,1,increases^expression
+SLC4A1AP,22950,1,1,1,increases^expression
+SLC50A1,55974,1,1,1,increases^expression
+SLC5A10,125206,1,1,1,decreases^expression
+SLC5A12,159963,1,1,1,decreases^expression
+SLC5A4,6527,1,1,1,decreases^expression
+SLC5A5,6528,1,1,1,decreases^expression
+SLC5A6,8884,1,1,1,decreases^reaction|increases^expression
+SLC6A16,28968,1,1,1,decreases^expression
+SLC6A3,6531,1,1,1,decreases^expression
+SLC6A9,6536,1,1,1,increases^expression
+SLC7A11-AS1,641364,1,1,1,increases^expression
+SLC7A14,57709,1,1,1,decreases^expression
+SLC7A5,8140,1,1,1,increases^expression
+SLC7A7,9056,1,1,1,increases^expression
+SLCO1A2,6579,1,1,1,decreases^expression
+SLCO1B1,10599,1,1,1,decreases^expression
+SLCO3A1,28232,1,1,1,increases^expression
+SLFN11,91607,1,1,1,increases^expression
+SLFN5,162394,1,1,1,decreases^expression
+SLIT3,6586,1,1,1,increases^expression
+SLITRK5,26050,1,1,1,decreases^expression
+SLN,6588,1,1,1,increases^expression
+SLX1A,548593,1,1,1,increases^expression
+SMAD6,4091,1,1,1,decreases^expression
+SMAD9,4093,1,1,1,decreases^expression
+SMARCA2,6595,1,1,1,increases^expression
+SMARCAD1,56916,1,1,1,decreases^expression
+SMC1A,8243,1,1,1,decreases^expression
+SMC6,79677,1,1,1,decreases^expression
+SMIM2,79024,1,1,1,decreases^expression
+SMIM24,284422,1,1,1,decreases^expression
+SMOC1,64093,1,1,1,decreases^expression
+SMPD1,6609,1,1,1,decreases^expression
+SMPDL3A,10924,1,1,1,increases^expression
+SMPDL3B,27293,1,1,1,increases^expression
+SMS,6611,1,1,1,increases^expression
+SMTN,6525,1,1,1,increases^expression
+SMYD2,56950,1,1,1,increases^expression
+SNAI1,6615,1,1,1,increases^expression
+SNHG25,105376843,1,1,1,affects^cotreatment|increases^expression
+SNORA13,654322,1,1,1,affects^cotreatment|increases^expression
+SNORA50C,677842,1,1,1,affects^cotreatment|increases^expression
+SNORA64,26784,1,1,1,affects^cotreatment|increases^expression
+SNORA65,26783,1,1,1,affects^cotreatment|increases^expression
+SNORA72,26775,1,1,1,affects^cotreatment|increases^expression
+SNRPB2,6629,1,1,1,decreases^expression
+SNW1,22938,1,1,1,decreases^expression
+SOAT2,8435,1,1,1,decreases^expression
+SOBP,55084,1,1,1,decreases^expression
+SOCS5,9655,1,1,1,decreases^expression
+SON,6651,1,1,1,affects^expression
+SORBS2,8470,1,1,1,decreases^expression
+SORCS1,114815,1,1,1,decreases^expression
+SOST,50964,1,1,1,decreases^expression
+SOWAHC,65124,1,1,1,decreases^expression
+SOWAHD,347454,1,1,1,decreases^expression
+SOX10,6663,1,1,1,decreases^expression
+SOX15,6665,1,1,1,increases^expression
+SOX2,6657,1,1,1,decreases^expression
+SOX21,11166,1,1,1,decreases^expression
+SOX6,55553,1,1,1,decreases^expression
+SOX7,83595,1,1,1,increases^expression
+SOX8,30812,1,1,1,decreases^expression
+SP110,3431,1,1,1,increases^expression
+SP140,11262,1,1,1,increases^expression
+SP140L,93349,1,1,1,increases^expression
+SP5,389058,1,1,1,decreases^expression
+SP8,221833,1,1,1,decreases^expression
+SPACA5,389852,1,1,1,decreases^expression
+SPAG17,200162,1,1,1,decreases^expression
+SPAG4,6676,1,1,1,decreases^expression
+SPAG6,9576,1,1,1,decreases^expression
+SPATA13,221178,1,1,1,decreases^expression
+SPATA33,124045,1,1,1,decreases^expression
+SPATA8,145946,1,1,1,decreases^expression
+SPATS1,221409,1,1,1,decreases^expression
+SPC25,57405,1,1,1,decreases^expression
+SPDYA,245711,1,1,1,increases^expression
+SPECC1,92521,1,1,1,increases^expression
+SPHKAP,80309,1,1,1,decreases^expression
+SPIN4,139886,1,1,1,increases^expression
+SPINK5,11005,1,1,1,decreases^expression
+SPINT1,6692,1,1,1,increases^expression
+SPINT2,10653,1,1,1,increases^expression
+SPMIP3,200159,1,1,1,decreases^expression
+SPNS2,124976,1,1,1,increases^expression
+SPNS3,201305,1,1,1,increases^expression
+SPOCK1,6695,1,1,1,decreases^expression
+SPP1,6696,1,1,2,increases^expression
+SPP2,6694,1,1,1,affects^cotreatment|decreases^expression
+SPTLC3,55304,1,1,1,increases^expression
+SQLE,6713,1,1,1,increases^expression
+SQOR,58472,1,1,1,increases^expression
+SRC,6714,1,1,1,decreases^expression
+SRCIN1,80725,1,1,1,decreases^expression
+SREBF2,6721,1,1,1,increases^expression
+SRPK3,26576,1,1,1,decreases^expression
+SRPX,8406,1,1,1,increases^expression
+SRRM3,222183,1,1,1,decreases^expression
+SRSF11,9295,1,1,1,affects^expression
+SRSF4,6429,1,1,1,decreases^expression
+SSFA2,424118,1,1,1,increases^expression
+SSH1,54434,1,1,1,increases^expression
+SSRP1,6749,1,1,1,decreases^expression
+SSTR1,6751,1,1,1,increases^expression
+SSUH2,51066,1,1,1,decreases^expression
+SSX4B,548313,1,1,1,increases^expression
+SSX5,6758,1,1,1,increases^expression
+ST14,6768,1,1,1,increases^expression
+ST3GAL3,6487,1,1,1,decreases^expression
+ST3GAL4,6484,1,1,1,increases^expression
+ST6GAL2,84620,1,1,1,decreases^expression
+ST8SIA1,6489,1,1,1,decreases^expression
+STAMBPL1,57559,1,1,1,decreases^expression
+STAP2,55620,1,1,1,increases^expression
+STARD10,10809,1,1,1,increases^expression
+STEAP1B,256227,1,1,1,increases^expression
+STEAP4,79689,1,1,1,decreases^expression
+STK32A,202374,1,1,1,decreases^expression
+STK32C,282974,1,1,1,decreases^expression
+STK33,65975,1,1,1,decreases^expression
+STMN2,11075,1,1,1,increases^expression
+STOML1,9399,1,1,1,increases^expression
+STON1-GTF2A1L,286749,1,1,1,decreases^expression
+STOX1,219736,1,1,1,decreases^expression
+STRIP2,57464,1,1,1,decreases^expression
+STS,412,1,1,1,increases^expression
+STUM,375057,1,1,1,decreases^expression
+STYK1,55359,1,1,1,increases^expression
+SULF1,23213,1,1,1,decreases^expression
+SUOX,6821,1,1,1,decreases^expression
+SUSD5,26032,1,1,1,decreases^expression
+SVEP1,79987,1,1,1,increases^expression
+SYCE2,256126,1,1,1,decreases^expression
+SYN3,8224,1,1,1,decreases^expression
+SYNE3,161176,1,1,1,increases^expression
+SYNGAP1,8831,1,1,1,decreases^expression
+SYNGR2,9144,1,1,1,increases^expression
+SYNJ2,8871,1,1,1,increases^expression
+SYT11,23208,1,1,1,decreases^expression
+SYT14,255928,1,1,1,decreases^expression
+SYT16,83851,1,1,1,increases^expression
+SYT3,84258,1,1,1,decreases^expression
+SYT7,9066,1,1,1,decreases^expression
+SYTL2,54843,1,1,1,increases^expression
+SYTL4,94121,1,1,1,increases^expression
+SYTL5,94122,1,1,1,increases^expression
+TACC1,6867,1,1,1,increases^expression
+TACSTD2,4070,1,1,1,increases^expression
+TAFA2,338811,1,1,1,increases^expression
+TAFA4,151647,1,1,1,increases^expression
+TAGLN,6876,1,1,1,increases^expression
+TAGLN3,29114,1,1,1,decreases^expression
+TAL2,6887,1,1,1,decreases^expression
+TANC1,85461,1,1,1,increases^expression
+TANC2,26115,1,1,1,increases^expression
+TAP1,6890,1,1,1,increases^expression
+TAX1BP3,30851,1,1,1,increases^expression
+TBC1D10A,83874,1,1,1,increases^expression
+TBC1D3H,729877,1,1,1,increases^expression
+TBX18,9096,1,1,1,increases^expression
+TBX2,6909,1,1,1,decreases^expression
+TBX22,50945,1,1,1,decreases^expression
+TBX5,6910,1,1,1,decreases^expression
+TCAF2,285966,1,1,1,increases^expression
+TCAP,8557,1,1,1,decreases^expression
+TCEA1,6917,1,1,1,increases^expression
+TCERG1L,256536,1,1,1,decreases^expression
+TCF21,6943,1,1,1,increases^methylation
+TCIM,56892,1,1,1,increases^expression
+TCP10L3,6953,1,1,1,decreases^expression
+TCP11,6954,1,1,1,decreases^expression
+TES,26136,1,1,1,increases^expression
+TESMIN,9633,1,1,1,decreases^expression
+TEX101,83639,1,1,1,decreases^expression
+TEX15,56154,1,1,1,decreases^expression
+TEX2,55852,1,1,1,increases^expression
+TEX44,165100,1,1,1,decreases^expression
+TF,7018,1,1,1,decreases^expression
+TGFB1,7040,1,1,1,increases^expression
+TGFB1I1,7041,1,1,1,decreases^expression
+TGFB2,7042,1,1,1,decreases^expression
+TGFBR2,7048,1,1,1,increases^expression
+TGIF2-RAB5IF,100527943,1,1,1,decreases^expression
+TGM1,7051,1,1,1,increases^expression
+THBS1,7057,1,1,1,increases^expression
+THBS4,7060,1,1,1,decreases^expression
+THSD7A,221981,1,1,1,increases^expression
+TIAM2,26230,1,1,1,increases^methylation
+TICAM1,148022,1,1,1,increases^expression
+TIGD4,201798,1,1,1,decreases^expression
+TIMELESS,8914,1,1,1,increases^expression
+TINAGL1,64129,1,1,1,decreases^expression
+TJP1,7082,1,1,1,decreases^expression
+TJP2,9414,1,1,1,increases^expression
+TK1,7083,1,1,1,decreases^expression
+TLCD4,148534,1,1,1,decreases^expression
+TLE3,7090,1,1,1,increases^expression
+TLN1,7094,1,1,1,increases^expression
+TLN2,83660,1,1,1,increases^expression
+TLR5,7100,1,1,1,affects^cotreatment|decreases^expression
+TLX2,3196,1,1,1,decreases^expression
+TM4SF1,4071,1,1,1,increases^expression
+TMBIM6,7009,1,1,1,decreases^expression
+TMED5,50999,1,1,1,increases^expression
+TMEM117,84216,1,1,1,increases^expression
+TMEM130,222865,1,1,1,decreases^expression
+TMEM132B,114795,1,1,1,decreases^expression
+TMEM132C,92293,1,1,1,decreases^expression
+TMEM132D,121256,1,1,1,decreases^expression
+TMEM135,65084,1,1,1,increases^expression
+TMEM140,55281,1,1,1,increases^expression
+TMEM150C,441027,1,1,1,decreases^expression
+TMEM151A,256472,1,1,1,decreases^expression
+TMEM163,81615,1,1,1,decreases^expression
+TMEM169,92691,1,1,1,decreases^expression
+TMEM176B,28959,1,1,1,decreases^expression
+TMEM191B,728229,1,1,1,increases^expression
+TMEM200A,114801,1,1,1,increases^expression
+TMEM252,169693,1,1,1,decreases^expression
+TMEM258,746,1,1,1,decreases^expression
+TMEM263,90488,1,1,1,decreases^expression
+TMEM45B,120224,1,1,1,decreases^expression
+TMEM74,157753,1,1,1,decreases^expression
+TMEM86A,144110,1,1,1,decreases^expression
+TMEM87A,25963,1,1,1,decreases^expression
+TMEM92,162461,1,1,1,increases^expression
+TMPO,7112,1,1,1,decreases^expression
+TMPRSS11E,28983,1,1,1,increases^expression
+TMPRSS5,80975,1,1,1,increases^expression
+TMSB10,9168,1,1,1,increases^expression
+TMSB4X,7114,1,1,1,increases^expression
+TMT1A,25840,1,1,1,decreases^expression
+TMT1B,196410,1,1,1,decreases^expression
+TNFRSF10A,8797,1,1,1,increases^expression
+TNFRSF10C,8794,1,1,1,increases^expression
+TNFRSF11B,4982,1,1,1,affects^cotreatment|decreases^secretion|increases^reaction
+TNFRSF12A,51330,1,1,1,increases^expression
+TNFSF15,9966,1,1,1,increases^expression
+TNNI2,7136,1,1,1,decreases^expression
+TNNI3,7137,1,1,1,decreases^expression
+TOMM34,10953,1,1,1,decreases^expression
+TOMM6,100188893,1,1,1,decreases^expression
+TOP2A,7153,1,1,1,increases^expression
+TOX3,27324,1,1,1,decreases^expression
+TP53I3,9540,1,1,1,increases^expression
+TP53TG3,24150,1,1,1,decreases^expression
+TP63,8626,1,1,1,decreases^expression
+TPBG,7162,1,1,1,decreases^expression
+TPM2,7169,1,1,1,increases^expression
+TPM3,7170,1,1,1,increases^expression
+TPO,7173,1,1,1,decreases^expression
+TPPP2,122664,1,1,1,decreases^expression
+TPTEP2-CSNK1E,102800317,1,1,1,affects^cotreatment|affects^expression
+TPX2,22974,1,1,1,increases^expression
+TRABD2A,129293,1,1,1,increases^expression
+TRABD2B,388630,1,1,1,decreases^expression
+TRADD,8717,1,1,1,increases^expression
+TRAF1,7185,1,1,1,decreases^expression
+TRAF6,7189,1,1,1,decreases^expression
+TRAPPC4,51399,1,1,1,decreases^expression
+TRDMT1,1787,1,1,1,decreases^expression
+TRERF1,55809,1,1,1,decreases^expression
+TRHDE,29953,1,1,1,increases^expression
+TRIM21,6737,1,1,1,increases^expression
+TRIM50,135892,1,1,1,decreases^expression
+TRIM55,84675,1,1,1,increases^expression
+TRIM6,117854,1,1,1,increases^expression
+TRIML2,205860,1,1,1,increases^expression
+TRIT1,54802,1,1,1,decreases^expression
+TRMT6,51605,1,1,1,decreases^expression
+TRMT9B,57604,1,1,1,decreases^expression
+TRPC5,7224,1,1,1,decreases^expression
+TRPM3,80036,1,1,1,decreases^expression
+TRPM8,79054,1,1,1,decreases^expression
+TRPV2,51393,1,1,1,increases^expression
+TSBP1,10665,1,1,1,decreases^expression
+TSGA10IP,254187,1,1,1,decreases^expression
+TSHZ2,128553,1,1,1,decreases^expression
+TSPAN14,81619,1,1,1,increases^expression
+TSPAN6,7105,1,1,1,affects^response to substance
+TSPAN7,7102,1,1,2,decreases^expression
+TSPEAR,54084,1,1,1,decreases^expression
+TSPYL2,64061,1,1,1,decreases^expression
+TSPYL6,388951,1,1,1,decreases^expression
+TTC17,55761,1,1,1,decreases^expression
+TTC29,83894,1,1,1,decreases^expression
+TTLL10,254173,1,1,1,decreases^expression
+TTLL6,284076,1,1,1,decreases^expression
+TTPA,7274,1,1,1,decreases^expression
+TTYH1,57348,1,1,1,decreases^expression
+TUBB2A,7280,1,1,1,decreases^expression
+TUBGCP6,85378,1,1,1,affects^expression
+TUFT1,7286,1,1,1,increases^expression
+TXNDC16,57544,1,1,1,decreases^expression
+TXNRD1,7296,1,1,1,increases^expression
+TYMSOS,494514,1,1,1,decreases^expression
+TYRP1,7306,1,1,1,decreases^expression
+U2AF1L4,199746,1,1,1,increases^expression
+U2SURP,23350,1,1,1,increases^expression
+UAP1,6675,1,1,1,decreases^expression
+UBA52,7311,1,1,1,increases^expression
+UBASH3B,84959,1,1,1,increases^expression
+UBE2J1,51465,1,1,1,decreases^expression
+UBE2QL1,134111,1,1,1,decreases^expression
+UBL3,5412,1,1,1,increases^expression
+UBL4B,164153,1,1,1,increases^expression
+UBQLN3,50613,1,1,1,decreases^expression
+UBQLNL,143630,1,1,1,decreases^expression
+UBXN10,127733,1,1,1,decreases^expression
+UCP1,7350,1,1,1,decreases^expression
+UGT1A10,54575,1,1,1,increases^glucuronidation
+UGT1A3,54659,1,1,1,increases^glucuronidation
+UGT1A7,54577,1,1,1,increases^glucuronidation
+UGT1A8,54576,1,1,1,increases^glucuronidation
+UGT1A9,54600,1,1,1,increases^glucuronidation
+UGT2B11,10720,1,1,1,increases^expression
+UGT2B4,7363,1,1,1,increases^glucuronidation
+UGT2B7,7364,1,1,1,increases^glucuronidation
+UGT3A1,133688,1,1,1,decreases^expression
+ULBP2,80328,1,1,1,increases^expression
+ULK2,9706,1,1,1,decreases^expression
+UNC13A,23025,1,1,1,decreases^expression
+UNC5C,8633,1,1,1,increases^expression
+UNC5D,137970,1,1,1,decreases^expression
+UNC80,285175,1,1,1,decreases^expression
+UPK2,7379,1,1,1,increases^expression
+UPP1,7378,1,1,1,increases^expression
+USP12,219333,1,1,1,increases^expression
+USP17L15,100288520,1,1,1,increases^expression
+USP18,11274,1,1,1,increases^expression
+USP31,57478,1,1,1,increases^expression
+USP34,9736,1,1,1,decreases^expression
+USP4,7375,1,1,1,decreases^expression
+USP41P,373856,1,1,1,increases^expression
+USP43,124739,1,1,1,increases^expression
+USP44,84101,1,1,1,decreases^expression
+UTRN,7402,1,1,1,increases^expression
+VAMP8,8673,1,1,1,increases^expression
+VASN,114990,1,1,1,increases^expression
+VASP,7408,1,1,1,increases^expression
+VEGFD,2277,1,1,1,decreases^expression
+VENTX,27287,1,1,1,decreases^expression
+VGF,7425,1,1,1,increases^expression
+VGLL1,51442,1,1,1,increases^expression
+VGLL2,245806,1,1,1,increases^expression
+VGLL3,389136,1,1,1,increases^expression
+VIT,5212,1,1,1,increases^expression
+VLDLR,7436,1,1,2,increases^expression
+VPS36,51028,1,1,1,decreases^expression
+VPS4A,27183,1,1,1,decreases^expression
+VRTN,55237,1,1,1,increases^expression
+VSNL1,7447,1,1,1,decreases^expression
+VSTM2L,128434,1,1,1,decreases^expression
+VSTM4,196740,1,1,1,decreases^expression
+VSX2,338917,1,1,1,decreases^expression
+VTN,7448,1,1,1,decreases^expression
+VTRNA2-1,100126299,1,1,1,decreases^methylation|increases^abundance
+WAC-AS1,220906,1,1,1,decreases^expression
+WBP2,23558,1,1,1,increases^expression
+WBSCR27,770708,1,1,1,decreases^expression
+WDHD1,11169,1,1,1,increases^expression
+WDR12,55759,1,1,1,increases^expression
+WDR47,22911,1,1,1,decreases^expression
+WEE1,7465,1,1,1,decreases^expression
+WFDC2,10406,1,1,1,increases^expression
+WFS1,7466,1,1,1,increases^expression
+WNK3,65267,1,1,1,decreases^expression
+WNK4,65266,1,1,1,increases^expression
+WNT1,7471,1,1,1,decreases^expression
+WNT11,7481,1,1,1,increases^expression
+WNT2B,7482,1,1,1,decreases^expression
+WNT6,7475,1,1,1,increases^expression
+WNT7B,7477,1,1,1,decreases^expression
+WNT8B,7479,1,1,1,decreases^expression
+WSCD1,23302,1,1,1,decreases^expression
+WWTR1,25937,1,1,1,increases^expression
+XRCC1,7515,1,1,1,increases^expression
+XYLT1,64131,1,1,1,increases^expression
+YDJC,150223,1,1,1,decreases^expression
+YWHAE,7531,1,1,1,increases^expression
+ZBTB1,22890,1,1,1,decreases^expression
+ZBTB7B,51043,1,1,1,decreases^expression
+ZEB2,9839,1,1,1,increases^expression
+ZFAND1,79752,1,1,1,increases^expression
+ZFHX4,79776,1,1,1,decreases^expression
+ZFTRAF1,50626,1,1,1,decreases^expression
+ZMAT2,153527,1,1,1,increases^expression
+ZMYM1,79830,1,1,1,decreases^expression
+ZMYM3,9203,1,1,1,increases^expression
+ZMYND10,51364,1,1,1,decreases^expression
+ZMYND15,84225,1,1,1,decreases^expression
+ZNF22-AS1,220979,1,1,1,decreases^expression
+ZNF354A,6940,1,1,1,increases^expression
+ZNF385C,201181,1,1,1,decreases^expression
+ZNF461,92283,1,1,1,increases^expression
+ZNF532,55205,1,1,1,increases^expression
+ZNF541,84215,1,1,1,decreases^expression
+ZNF559-ZNF177,100529215,1,1,1,increases^expression
+ZNF639,51193,1,1,1,increases^expression
+ZNF81,347344,1,1,1,decreases^expression
+ZNG1C,445571,1,1,1,increases^expression
+ZNRD2-DT,254100,1,1,1,affects^expression
+ZSCAN16,80345,1,1,1,decreases^methylation

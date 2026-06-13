@@ -1,0 +1,16 @@
+{
+  "generated": "2026-06-11T15:47:43",
+  "out_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\next_stage_high_tier_optimization_2026-06-11",
+  "mirror_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\next_stage_high_tier_optimization_2026-06-11",
+  "source_hardening_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\evidence_chain_hardening_2026-06-11",
+  "central_next_step": "Do not add more weak modules; harden raw exposure replication, human food-matrix truth, CGM functional phenotypes, mechanism concordance, and same-participant pilot.",
+  "files": [
+    "00_next_stage_high_tier_optimization_report.md",
+    "01_literature_and_method_update.csv",
+    "02_current_evidence_gap_reviewer_matrix.csv",
+    "03_priority_next_analyses.csv",
+    "04_claim_ladder_and_journal_positioning.csv",
+    "05_same_participant_pilot_design_v2.csv",
+    "06_journal_target_decision_matrix.csv"
+  ]
+}

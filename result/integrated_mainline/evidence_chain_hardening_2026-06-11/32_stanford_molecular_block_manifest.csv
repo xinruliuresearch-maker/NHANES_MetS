@@ -1,0 +1,4 @@
+﻿block,n_subjects,n_features_after_missingness_filter,source_file
+lipids,38,652,C:\Users\liu12\OneDrive\Desktop\ShiYiSiNan_CGMacros\data\external\Stanford_CGMDB\data_lipids.csv
+metabolomics,38,702,C:\Users\liu12\OneDrive\Desktop\ShiYiSiNan_CGMacros\data\external\Stanford_CGMDB\data_metabolomics.csv
+olink,20,1461,C:\Users\liu12\OneDrive\Desktop\ShiYiSiNan_CGMacros\data\external\Stanford_CGMDB\data_olink.csv

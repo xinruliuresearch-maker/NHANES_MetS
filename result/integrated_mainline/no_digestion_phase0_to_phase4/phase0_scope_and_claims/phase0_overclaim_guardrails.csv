@@ -1,0 +1,6 @@
+﻿risk,do_not_write,preferred_language,severity
+Cross-dataset causal overclaim,DEHP causes higher PPGR in CGMacros.,DEHP oxidative profile is associated with MSI in NHANES; MSI is expressed as PPGR vulnerability in CGMacros.,high
+Mediator overclaim,MSI mediates the causal effect of DEHP on PPGR.,MSI is a bridge phenotype linking population exposure signals with dynamic CGM phenotypes.,high
+Food matrix overclaim,Digestibility-risk is experimentally validated digestion kinetics.,Digestibility-risk is a dry-lab food matrix proxy requiring expert/photo/database validation.,high
+Prediction overclaim,The model precisely predicts individual glucose excursions for clinical use.,The MSI-enhanced model improves high-response meal risk stratification and calibration.,medium
+External validation overclaim,Stanford/T1D-UOM externally validate the CGMacros MSI model.,External datasets provide transportability boundaries and directional macro-response support.,medium

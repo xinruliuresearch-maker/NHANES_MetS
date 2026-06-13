@@ -1,0 +1,7 @@
+﻿target_pathway,n_edges,n_genes,higher_confidence_edges
+PPAR_signaling,25,5,10
+insulin_signaling,25,5,5
+oxidative_stress,25,5,5
+beta_cell_function,20,4,0
+inflammation,20,4,0
+mitochondrial_function,20,4,0

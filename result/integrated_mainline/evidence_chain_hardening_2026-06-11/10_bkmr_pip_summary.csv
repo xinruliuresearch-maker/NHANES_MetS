@@ -1,0 +1,9 @@
+variable,PIP,exposure,component,mixture_set,outcome
+ln_URXMHP,0.88,ln_URXMHP,MEHP,dehp_raw_four_monomers,response_vulnerability_index
+ln_URXMHH,0.83,ln_URXMHH,MEHHP,dehp_raw_four_monomers,response_vulnerability_index
+ln_URXMOH,0.822,ln_URXMOH,MEOHP,dehp_raw_four_monomers,response_vulnerability_index
+ln_URXECP,0.848,ln_URXECP,MECPP,dehp_raw_four_monomers,response_vulnerability_index
+ln_URXMHP,0.718,ln_URXMHP,MEHP,dehp_raw_four_monomers,ln_HOMA_IR
+ln_URXMHH,0.62,ln_URXMHH,MEHHP,dehp_raw_four_monomers,ln_HOMA_IR
+ln_URXMOH,0.324,ln_URXMOH,MEOHP,dehp_raw_four_monomers,ln_HOMA_IR
+ln_URXECP,0.298,ln_URXECP,MECPP,dehp_raw_four_monomers,ln_HOMA_IR

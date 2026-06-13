@@ -1,0 +1,12 @@
+﻿section,content
+Target design,N=60 feasibility or N=120 definitive same-participant CGM-exposome bridge study.
+Participants,"Adults 20-65 y, enriched across BMI and insulin-resistance spectrum; exclude pregnancy, insulin therapy unless separate stratum."
+Exposure,"First-morning urine on 3 nonconsecutive days for MEHP, MEHHP, MEOHP, MECPP and broader phthalates; creatinine and specific gravity."
+CGM,10-14 days blinded CGM with standardized meal challenges repeated twice and free-living meal photo logging.
+Standardized meals,"Four matrix contrasts: liquid sugar, refined starch, whole/fiber matrix, mixed macronutrient buffered matrix; equal available carbohydrate where feasible."
+Mitigator tests,"Protein/fat preload, fiber/acid matrix, walking post-meal, and meal-order challenge in randomized crossover subset."
+Metabolic phenotype,"BMI/waist, fasting glucose, insulin, HbA1c, TG, HDL, hsCRP; optional metabolomics/Olink subset."
+Primary endpoints,Within-person standardized-meal iAUC2h and peak delta; exposure mixture primary predictor is raw urinary monomer mixture.
+Causal structure,Primary estimand: association of repeated urinary phthalate mixture with PPGR vulnerability mediated/modified by metabolic susceptibility and food matrix.
+Analysis,"Bayesian/hierarchical mixed models with participant random intercepts, food-matrix interactions, repeated exposure measurement error correction, and negative-control outcomes."
+Power logic,Feasibility N=60 estimates variance and compliance; N=120 provides stable interaction estimates for 4 matrix challenges with repeated meals.

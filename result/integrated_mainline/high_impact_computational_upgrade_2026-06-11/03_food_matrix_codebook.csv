@@ -1,0 +1,9 @@
+﻿variable,definition,rationale
+carb_density_g_per_100kcal,Effective carbohydrate grams per 100 kcal.,Higher density can indicate rapidly available carbohydrate load.
+fiber_per_50g_carb,Fiber grams normalized to 50 g carbohydrate.,Fiber can slow starch/glucose availability.
+protein_fat_buffer_per_50g_carb,Protein plus fat grams normalized to 50 g carbohydrate.,Mixed macronutrient matrix can slow gastric emptying and glucose appearance.
+liquid_sugar_proxy,"Low energy, carbohydrate-containing, minimal protein/fat/fiber meal.",Approximates liquid or simple sugar exposure when food text is unavailable.
+refined_starch_proxy,"High carbohydrate, low fiber, low protein/fat buffering.",Approximates refined starch / low matrix protection.
+mixed_matrix_proxy,Meal containing carbohydrate plus substantial protein and fat.,Represents matrix buffering compared with isolated carbohydrate.
+rapid_digestibility_score,Composite z-score: carb density + liquid/refined proxies - fiber/protein-fat buffering.,Dry-lab digestibility availability score for CGM modeling.
+fdc_proxy_query,Representative USDA FoodData Central search string derived from matrix category.,Transparent proxy linkage; not item-level manual FDC matching.

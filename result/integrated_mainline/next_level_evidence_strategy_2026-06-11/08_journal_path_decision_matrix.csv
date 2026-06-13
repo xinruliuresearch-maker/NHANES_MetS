@@ -1,0 +1,4 @@
+﻿target_level,minimum_package,probability_after_minimum
+AJCN / Clinical Nutrition / Environment International / EHP,Raw monomer NHANES mixture; subject-disjoint CGMacros RVI model; manual food annotation; Stanford molecular validation; CTD+GEO+CompTox mechanism.,Moderate if claims are restrained.
+Nature Food / Cell Metabolism / Nature Medicine style,All above plus same-participant CGM-exposome pilot with standardized meal replicates and mitigator response.,"Still competitive, but scientifically plausible."
+Current package without further fixes,Present derived-metric NHANES + CGMacros + proxy food matrix + boundary validation.,"Useful for a computational/interdisciplinary manuscript, but not enough for top-tier claims."

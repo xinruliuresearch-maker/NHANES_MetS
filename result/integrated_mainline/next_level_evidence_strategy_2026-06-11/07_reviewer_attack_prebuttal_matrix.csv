@@ -1,0 +1,7 @@
+﻿reviewer_attack,answer,status
+Your mixture variables are derived from each other and cannot be interpreted as a true environmental mixture.,Rebuild raw monomer metabolite mixture and move derived indices to secondary metabolic-transformation analyses.,Must fix before high-impact submission.
+The PPGR model may be circular because RVI contains glycemic biomarkers.,"Keep RVI primary as a susceptibility phenotype, show non-glycemic and leave-one-domain-out sensitivity, and avoid calling it independent causal prediction.",Partly fixed; needs better framing.
+Food matrix annotation is subjective.,"Use blinded dual human annotation, adjudication, kappa/ICC, FDC item matches, and optional in vitro digestion validation.",Not yet fixed.
+External validation is weak or contradictory.,Label D1NAMO/Jaeb as boundary tests; emphasize Stanford standardized/molecular validation; do not overclaim replication.,Needs manuscript reframing.
+Mechanism is just database overlap.,Add GEO differential expression and ToxCast assay endpoints; require direction concordance with CTD/Reactome/KEGG.,Pending.
+The study is too broad and stitched together.,Narrow to one sentence: phthalate-related metabolic susceptibility shapes food-matrix-dependent PPGR vulnerability.,Ready to implement in manuscript.

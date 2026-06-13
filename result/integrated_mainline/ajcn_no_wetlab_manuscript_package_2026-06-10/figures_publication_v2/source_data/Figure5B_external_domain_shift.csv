@@ -1,0 +1,9 @@
+dataset,delta_median_iauc_vs_CGMacros,ratio_median_iauc_vs_CGMacros,delta_median_peak_vs_CGMacros,ratio_median_peak_vs_CGMacros,feature_response_corr_iauc,feature_response_corr_peak
+CGMacros,0.0,1.0,0.0,1.0,,
+Stanford_CGMDB,295.0183795356379,1.1374544003800204,7.1574361879713,1.1680149339899366,,
+T1D_UOM,-819.8601766666675,0.61801231110904,-0.257230000000014,0.9939617370892015,,
+Jaeb_CGMND_HealthyAdults,,,,,,
+T1D_UOM_carbs_g_direction,,,,,0.0886008758709404,0.1432577729421758
+T1D_UOM_protein_g_direction,,,,,0.0190807256441745,0.0315779600538419
+T1D_UOM_fat_g_direction,,,,,0.0224125449126256,0.052296507125305
+T1D_UOM_fiber_g_direction,,,,,-0.0443866849675186,-0.030004361317444

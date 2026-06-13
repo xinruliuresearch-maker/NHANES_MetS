@@ -1,0 +1,8 @@
+﻿category,definition,examples,expected_ppgr
+sweetened_beverage_or_liquid_carb,Liquid or near-liquid carbohydrate with little fiber/protein/fat buffering.,"sweetened beverage, juice-like carb drink",rapid early rise
+refined_starch_or_rapidly_digestible_matrix,Refined starch/grain dominant solid meal with low fiber and limited buffering.,"white rice, refined bread, pasta-like dish",high iAUC/peak if susceptible
+fiber_rich_or_whole_food_matrix,Whole-food or fiber-rich carbohydrate matrix.,"beans, whole grains, vegetables",attenuated/slow rise
+mixed_macronutrient_buffered_matrix,Carbohydrate embedded with protein/fat or mixed entree structure.,mixed entree,delayed and buffered
+low_carb_protein_fat_matrix,"Low carbohydrate, protein/fat-dominant item.","meat, egg, cheese",minimal direct glycemic excursion
+small_or_low_energy_item,Small low-energy item where PPGR interpretability is limited.,small snack,low or variable
+ambiguous_mixed_or_unclassified,Insufficient information; requires image review.,unclear meal image,do not use as primary category without adjudication

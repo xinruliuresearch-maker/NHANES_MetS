@@ -1,0 +1,7 @@
+﻿query,rank,error
+meat egg cheese low carbohydrate,1,429 Client Error: Too Many Requests for url: https://api.nal.usda.gov/fdc/v1/foods/search?api_key=DEMO_KEY&query=meat+egg+cheese+low+carbohydrate&pageSize=15
+mixed entree protein fat carbohydrate,1,429 Client Error: Too Many Requests for url: https://api.nal.usda.gov/fdc/v1/foods/search?api_key=DEMO_KEY&query=mixed+entree+protein+fat+carbohydrate&pageSize=15
+mixed meal,1,429 Client Error: Too Many Requests for url: https://api.nal.usda.gov/fdc/v1/foods/search?api_key=DEMO_KEY&query=mixed+meal&pageSize=15
+sweetened beverage,1,429 Client Error: Too Many Requests for url: https://api.nal.usda.gov/fdc/v1/foods/search?api_key=DEMO_KEY&query=sweetened+beverage&pageSize=15
+white rice bread pasta refined grain,1,429 Client Error: Too Many Requests for url: https://api.nal.usda.gov/fdc/v1/foods/search?api_key=DEMO_KEY&query=white+rice+bread+pasta+refined+grain&pageSize=15
+whole grain beans vegetable mixed dish,1,429 Client Error: Too Many Requests for url: https://api.nal.usda.gov/fdc/v1/foods/search?api_key=DEMO_KEY&query=whole+grain+beans+vegetable+mixed+dish&pageSize=15

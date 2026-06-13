@@ -1,0 +1,39 @@
+{
+  "generated": "2026-06-11T15:28:29",
+  "out_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\evidence_chain_hardening_2026-06-11",
+  "mirror_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\evidence_chain_hardening_2026-06-11",
+  "modules": {
+    "food_matrix_fdc": {
+      "agreement": 0.37783711615487314,
+      "kappa": 0.21778218028140292,
+      "manual_review": 932,
+      "fdc_matched": 1498,
+      "fdc_total": 1498,
+      "fdc_low": 113
+    },
+    "stanford_molecular_validation": {
+      "stanford_subjects": 74,
+      "stanford_challenges": 588,
+      "omics_blocks": 3,
+      "best_prediction": {
+        "outcome": "stanford_mean_peak_delta_2h",
+        "model": "clinical_meta",
+        "n": 38,
+        "rmse": 20.502175899416695,
+        "mae": 14.8600535050238,
+        "pearson_r": 0.227248203796361,
+        "r2": 0.017110092775279417
+      }
+    },
+    "comptox_toxcast_status": {
+      "comptox_chemicals_checked": 3,
+      "api_parseable": 0
+    },
+    "same_participant_pilot": "60_same_participant_CGM_exposome_pilot_protocol.csv"
+  },
+  "notes": [
+    "Human dual annotation cannot be truthfully marked complete until two independent human raters fill the template.",
+    "FDC IDs are official offline proxy matches because CGMacros lacks textual item descriptions.",
+    "CompTox/ToxCast assay endpoint API was checked but not directly parseable in this run."
+  ]
+}

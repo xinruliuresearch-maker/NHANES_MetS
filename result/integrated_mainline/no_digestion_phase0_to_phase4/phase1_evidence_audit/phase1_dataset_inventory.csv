@@ -1,0 +1,6 @@
+﻿dataset,role,n_subjects,n_events,key_output
+NHANES_2013_2018,population exposure-metabolic susceptibility,5267,,phase2_R_survey_key_results.csv
+CGMacros,development CGM free-living meal cohort,40,1498.0,stage3_cgmacros_msi_ppgr_key_results.csv
+Stanford_CGMDB,standardized food challenge boundary,38,588.0,phase5_stanford_food_challenge_metrics.csv
+T1D_UOM,T1D free-living meal boundary,15,3820.0,phase5_t1d_uom_macro_ppgr_models.csv
+Jaeb_CGMND_HealthyAdults,healthy CGM reference boundary,169,383117.0,phase5_jaeb_healthy_adults_cgm_summary.csv

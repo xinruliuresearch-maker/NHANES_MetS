@@ -1,0 +1,11 @@
+Analysis block,Outcome,Term,Estimate (95% CI),Q,N meals
+food matrix ppgr,2h iAUC /1000,"MSI, centered","1.288 (0.654, 1.923)",2.14e-04,1497
+food matrix ppgr,2h iAUC /1000,"Digestibility-risk score, centered","0.388 (0.239, 0.537)",2.88e-06,1497
+food matrix ppgr,2h iAUC /1000,MSI x digestibility-risk score,"0.410 (0.216, 0.605)",1.18e-04,1497
+food matrix ppgr,2h peak delta,"MSI, centered","20.290 (11.919, 28.662)",1.16e-05,1497
+food matrix ppgr,2h peak delta,"Digestibility-risk score, centered","4.113 (2.168, 6.057)",1.18e-04,1497
+food matrix ppgr,2h peak delta,MSI x digestibility-risk score,"4.988 (2.664, 7.313)",1.04e-04,1497
+curve phenotype,early_slope_proxy_0_to_peak,MSI x digestibility-risk score,"0.058 (0.013, 0.103)",0.042,1417
+curve phenotype,delayed_peak_flag,MSI x digestibility-risk score,"0.039 (0.018, 0.060)",0.002,1498
+curve phenotype,prolonged_elevation_flag,MSI x digestibility-risk score,"0.034 (0.019, 0.049)",9.17e-05,1498
+curve phenotype,low_stable_response_flag,MSI x digestibility-risk score,"-0.003 (-0.021, 0.014)",0.858,1498

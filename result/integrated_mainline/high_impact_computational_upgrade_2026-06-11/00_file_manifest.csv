@@ -1,0 +1,45 @@
+﻿module,file,description
+MSI,01_msi_component_reference_parameters.csv,Reference means/SDs for dual MSI components.
+MSI,01_nhanes_dual_msi_dataset.csv,NHANES analysis dataset with exposure-facing MSI and response-vulnerability index.
+MSI,01_cgmacros_dual_msi_meal_dataset.csv,CGMacros meal dataset with dual MSI indices.
+MSI,01_dual_msi_construct_correlations.csv,Construct validity correlations among dual MSI and previous MSI versions.
+NHANES mixture,02_nhanes_survey_weighted_standardized_models.csv,nhanes survey weighted standardized models
+NHANES mixture,02_nhanes_e_values.csv,nhanes e values
+NHANES mixture,02_nhanes_qgcomp_summary.csv,nhanes qgcomp summary
+NHANES mixture,02_nhanes_qgcomp_component_weights.csv,nhanes qgcomp component weights
+NHANES mixture,02_nhanes_wqs_repeated_holdout_results.csv,nhanes wqs repeated holdout results
+NHANES mixture,02_nhanes_wqs_summary.csv,nhanes wqs summary
+NHANES mixture,02_nhanes_wqs_component_weights.csv,nhanes wqs component weights
+NHANES mixture,02_nhanes_rcs_tests.csv,nhanes rcs tests
+NHANES mixture,02_nhanes_rcs_marginal_grid.csv,nhanes rcs marginal grid
+NHANES mixture,02_nhanes_bkmr_kernel_summary.csv,nhanes bkmr kernel summary
+NHANES mixture,02_nhanes_bkmr_kernel_importance.csv,nhanes bkmr kernel importance
+NHANES mixture,02_nhanes_bkmr_kernel_joint_response_curve.csv,nhanes bkmr kernel joint response curve
+Food matrix,03_food_matrix_codebook.csv,Food-matrix variable definitions and rationale.
+Food matrix,03_cgmacros_food_matrix_scored_meals.csv,CGMacros meals with food-matrix scores and dual-rule categories.
+Food matrix,03_food_matrix_fdc_proxy_matches.csv,Proxy USDA FoodData Central query links derived from food-matrix categories.
+Food matrix,03_food_matrix_reliability.csv,Algorithmic dual-rule kappa/ICC reliability stress test.
+CGMacros,04_cgmacros_cluster_hierarchical_coefficients.csv,cgmacros cluster hierarchical coefficients
+CGMacros,04_cgmacros_random_intercept_variance_components.csv,cgmacros random intercept variance components
+CGMacros,04_cgmacros_subject_disjoint_prediction_records.csv,cgmacros subject disjoint prediction records
+CGMacros,04_cgmacros_subject_disjoint_performance.csv,cgmacros subject disjoint performance
+Stanford CGM,05_stanford_challenge_level_ppgr.csv,stanford challenge level ppgr
+Stanford CGM,05_stanford_boundary_coefficients.csv,stanford boundary coefficients
+Stanford CGM,05_stanford_subject_disjoint_prediction_records.csv,stanford subject disjoint prediction records
+Stanford CGM,05_stanford_subject_disjoint_performance.csv,stanford subject disjoint performance
+Stanford CGM,05_stanford_distribution_summary.csv,stanford distribution summary
+Mechanism,06_mechanism_ctd_target_chemicals.csv,mechanism ctd target chemicals
+Mechanism,06_mechanism_ctd_chemical_gene_edges.csv,mechanism ctd chemical gene edges
+Mechanism,06_mechanism_ctd_chemical_disease_edges.csv,mechanism ctd chemical disease edges
+Mechanism,06_mechanism_ctd_gene_summary.csv,mechanism ctd gene summary
+Mechanism,06_mechanism_kegg_download_status.csv,mechanism kegg download status
+Mechanism,06_mechanism_kegg_pathway_overlap.csv,mechanism kegg pathway overlap
+Mechanism,06_mechanism_kegg_gene_pathway_edges.csv,mechanism kegg gene pathway edges
+Mechanism,06_mechanism_reactome_download_status.csv,mechanism reactome download status
+Mechanism,06_mechanism_reactome_relevant_edges.csv,mechanism reactome relevant edges
+Mechanism,06_mechanism_reactome_pathway_summary.csv,mechanism reactome pathway summary
+Mechanism,06_mechanism_comptox_query_manifest.csv,mechanism comptox query manifest
+Reporting checklist,07_TRIPOD_AI_checklist.csv,TRIPOD AI checklist
+Reporting checklist,07_PROBAST_AI_checklist.csv,PROBAST AI checklist
+Reporting checklist,07_STROBE_checklist.csv,STROBE checklist
+Reporting checklist,07_PRISMA_checklist.csv,PRISMA checklist

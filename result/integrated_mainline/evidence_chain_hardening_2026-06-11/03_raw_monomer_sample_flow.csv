@@ -1,0 +1,6 @@
+step,n
+NHANES 2013-2018 adult analysis master rows,5267
+Rows with valid phthalate subsample design weight,5267
+Rows with response_vulnerability_index,5261
+Rows with all four DEHP raw monomers,5147
+Rows with all four DEHP raw monomers and response_vulnerability_index,5142

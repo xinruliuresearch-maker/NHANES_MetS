@@ -1,0 +1,27 @@
+﻿column,reason,dtype,missing_rate
+#1 Contour Fingerstick GLU,explicitly_forbidden,int64,0.0
+#2 Contour Fingerstick GLU,explicitly_forbidden,int64,0.0
+#3 Contour Fingerstick GLU,explicitly_forbidden,int64,0.0
+Collection time PDL (Lab),explicitly_forbidden,str,0.0
+Time (t),explicitly_forbidden,str,0.0
+Time (t).1,explicitly_forbidden,str,0.0
+Time (t).2,explicitly_forbidden,str,0.0
+amount_consumed,explicitly_forbidden,float64,0.0200267022696929
+amount_factor,explicitly_forbidden,float64,0.0193591455273698
+auc_2h,explicitly_forbidden,float64,0.0
+auc_3h,explicitly_forbidden,float64,0.0
+calories,explicitly_forbidden,float64,0.0
+carbs,explicitly_forbidden,float64,0.0
+fat,explicitly_forbidden,float64,0.0
+fiber,explicitly_forbidden,float64,0.000667556742323
+glucose_source,explicitly_forbidden,str,0.0
+iauc_2h,explicitly_forbidden,float64,0.0
+iauc_3h,explicitly_forbidden,float64,0.0
+image_path,explicitly_forbidden,str,0.0313751668891855
+n_post2h_points,explicitly_forbidden,int64,0.0
+n_pre_points,explicitly_forbidden,int64,0.0
+peak_delta_2h,explicitly_forbidden,float64,0.0
+peak_glucose_2h,explicitly_forbidden,float64,0.0
+protein,explicitly_forbidden,float64,0.0
+recovery_time_2h,explicitly_forbidden,float64,0.5200267022696929
+time_to_peak_2h,explicitly_forbidden,float64,0.0

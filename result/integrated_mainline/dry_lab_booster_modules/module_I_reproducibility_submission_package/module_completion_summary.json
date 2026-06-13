@@ -1,0 +1,42 @@
+[
+  {
+    "module": "A",
+    "records": 20,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_A_literature_evidence_map"
+  },
+  {
+    "module": "B",
+    "n": 5267,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_B_nhanes_advanced_epidemiology"
+  },
+  {
+    "module": "C",
+    "n_meals": 1498,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_C_cgmacros_food_matrix"
+  },
+  {
+    "module": "D",
+    "n_meals": 1498,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_D_cgm_curve_phenotypes"
+  },
+  {
+    "module": "E",
+    "n_edges": 141,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_E_mechanism_knowledge_graph"
+  },
+  {
+    "module": "F",
+    "n_datasets": 5,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_F_external_transportability"
+  },
+  {
+    "module": "G",
+    "n_scenarios": 16,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_G_counterfactual_meal_redesign"
+  },
+  {
+    "module": "H",
+    "n_perf_rows": 8,
+    "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\dry_lab_booster_modules\\module_H_prediction_TRIPOD_PROBAST_AI"
+  }
+]

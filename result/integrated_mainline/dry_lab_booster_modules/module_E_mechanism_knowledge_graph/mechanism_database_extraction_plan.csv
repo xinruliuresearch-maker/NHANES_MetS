@@ -1,0 +1,7 @@
+﻿resource,use,url
+EPA CompTox Dashboard,"chemical identifiers, bioactivity/toxicity assay linkage",https://www.epa.gov/comptox-tools/comptox-chemicals-dashboard
+PubChem,stable CID and synonym normalization,https://pubchem.ncbi.nlm.nih.gov/compound/8343
+CTD,chemical-gene-disease interaction extraction,https://ctdbase.org/
+Reactome,"pathway hierarchy for insulin signaling, metabolism and stress response",https://reactome.org/
+Gene Ontology,biological process harmonization,http://geneontology.org/
+KEGG,pathway cross-checking,https://www.genome.jp/kegg/

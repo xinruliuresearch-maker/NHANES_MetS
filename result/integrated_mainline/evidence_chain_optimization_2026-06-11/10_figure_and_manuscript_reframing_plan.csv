@@ -1,0 +1,8 @@
+﻿figure,title,panels,main_message
+Figure 1,"Study design, DAG, and claim ladder",A multi-dataset map; B DAG; C claim hierarchy from association to bridge phenotype to PPGR vulnerability.,研究是三角互证桥接表型设计，不是直接中介。
+Figure 2,NHANES DEHP-related mixture and metabolic susceptibility,qgcomp/WQS effect forest; component weights; RCS dose-response; E-value/sensitivity strip.,DEHP相关混合暴露与代谢易感性稳健相关。
+Figure 3,Dual MSI construct validation,component diagram; correlation matrix; leave-one-component-out stability; NHANES-CGMacros bridge comparability.,MSI是桥接表型，但不同版本承担不同推断任务。
+Figure 4,Food matrix-dependent PPGR vulnerability in CGMacros,subject-disjoint performance; observed vs predicted; RVI x digestibility interaction; food matrix categories.,代谢易感性和食物结构共同解释PPGR。
+Figure 5,External CGM transportability,Stanford and additional dataset validation metrics; dataset difference map; calibration by challenge/meal type.,框架有可迁移信号，但边界清晰。
+Figure 6,Mechanistic plausibility network,DEHP/metabolites -> genes -> pathways; CTD/CompTox/GEO evidence layers; KEGG/Reactome convergence.,PPAR/AMPK/PI3K-Akt/insulin resistance/inflammation/oxidative stress形成机制汇聚。
+Figure 7,Next validation experiment,same-participant CGM-exposome pilot or bionic digestion validation workflow.,明确下一步如何补上当前证据链最大断点。

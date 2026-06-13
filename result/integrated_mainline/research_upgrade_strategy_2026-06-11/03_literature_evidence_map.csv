@@ -1,0 +1,25 @@
+﻿domain,source,key_message,how_to_use,url
+PPGR精准营养,"Zeevi et al., Cell 2015, Personalized Nutrition by Prediction of Glycemic Responses","800人真实生活CGM与46898餐显示相同食物的PPGR高度个体化, 模型整合饮食、人体测量、血液、活动和微生物组后可预测个体反应。","作为本研究CGMacros个体化PPGR建模的理论锚点, 但需强调本项目样本量更小, 目标是外部证据三角互证而非复制大队列。",https://pubmed.ncbi.nlm.nih.gov/26590418/
+PPGR精准营养,"Berry et al., Nature Medicine 2020, PREDICT 1","1002名参与者的餐后甘油三酯、葡萄糖和胰岛素反应存在显著个体差异, 机器学习可预测餐后反应。","支持将PPGR作为动态代谢表型, 并提示应将血脂、胰岛素和生活方式作为后续扩展方向。",https://pubmed.ncbi.nlm.nih.gov/32528151/
+PPGR外部验证,"Mendes-Soares et al., JAMA Network Open 2019","在无糖尿病个体中验证个体化PPGR预测框架, 讨论模型相对热量/碳水规则的增益。",作为外部验证、模型泛化和临床可解释性的参照。,https://pubmed.ncbi.nlm.nih.gov/30735238/
+CGMacros数据,"CGMacros, PhysioNet 2025; Scientific Data manuscript noted as under review on PhysioNet page","45名参与者, 包含双CGM、餐食宏量营养、餐食照片、活动、血液指标和肠道微生物组, 连续10天自由生活场景。",当前研究的动态生理核心数据源; 需使用受试者层面分割和层级模型控制小样本风险。,https://physionet.org/content/cgmacros/
+CGM外部数据,Stanford Continuous Glucose Monitoring Database,"提供CGM、表型、脂质、代谢组和蛋白组等下载数据, 可用于CGM表型和跨数据集泛化边界分析。","作为外部边界验证数据, 不强求与CGMacros同构, 重点验证MSI/CGM曲线表型的可迁移性。",https://cgmdb.stanford.edu/data/
+环境暴露与代谢,"Trasande et al., Pediatrics 2013, Urinary Phthalates and Insulin Resistance in Adolescents","NHANES青少年中尿DEHP代谢物与胰岛素抵抗呈正相关, 横断面限制明确。","支持DEHP-胰岛素抵抗方向的既有流行病学背景, 同时提醒避免过度因果表述。",https://pubmed.ncbi.nlm.nih.gov/23958772/
+环境暴露与代谢,"James-Todd et al., Environmental Health Perspectives 2012",NHANES女性中多种邻苯二甲酸酯代谢物与糖尿病及血糖/胰岛素抵抗指标相关。,"为成人人群暴露-糖代谢关联提供基础证据, 后续应按性别和年龄分层。",https://pubmed.ncbi.nlm.nih.gov/22796563/
+环境暴露与代谢,"Shoshtari-Yeganeh et al., Systematic review/meta-analysis 2019",系统综述和Meta分析提示邻苯二甲酸酯暴露与HOMA-IR升高相关。,"作为环境暴露与胰岛素抵抗关系的证据等级补强, 用于引言和讨论的证据基座。",https://pubmed.ncbi.nlm.nih.gov/30734259/
+环境混合物方法,"Yi et al., Frontiers in Public Health 2025, NHANES Circadian Syndrome",使用加权回归、RCS、BKMR和qgcomp研究NHANES中邻苯二甲酸酯混合暴露与Circadian Syndrome。,"提示本项目NHANES模块应采用混合物模型、非线性和敏感性分析, 不只做单暴露回归。",https://pmc.ncbi.nlm.nih.gov/articles/PMC12245799/
+食物基质与淀粉消化,"INFOGEST 2.0, Nature Protocols 2019","标准化静态体外胃肠消化协议, 涵盖口腔、胃和小肠阶段。","作为后续少量仿生体外消化验证的标准参照, 也可用于干实验消化可得性评分构建。",https://pubmed.ncbi.nlm.nih.gov/30886367/
+食物基质与淀粉消化,"Food Matrix Effects for Modulating Starch Bioavailability, Annual Review 2021",食物基质、结构、加工、纤维、蛋白脂质相互作用可调节淀粉生物可利用性。,支撑将宏量营养之外的食物结构/加工信息纳入PPGR解释模型。,https://pubmed.ncbi.nlm.nih.gov/33395539/
+食物结构证据,"The impact of starchy food structure on postprandial glycemic response, systematic review/meta-analysis",淀粉类食物微结构改变可影响餐后血糖和胰岛素反应。,"支持建立食物基质编码体系, 并为后续少量体外消化验证选择样本。",https://pubmed.ncbi.nlm.nih.gov/34049391/
+报告规范,"TRIPOD+AI Statement, BMJ 2024","更新临床预测模型报告规范, 覆盖回归和机器学习模型。",用于PPGR预测模块的报告清单、训练/验证分割、校准、缺失处理和模型透明度。,https://www.bmj.com/content/385/bmj-2023-078378
+偏倚评估,"PROBAST+AI, BMJ 2025",更新预测模型风险偏倚与适用性评估工具。,"用于在论文中主动评估模型偏倚风险, 对抗'模型过拟合/不可推广'质疑。",https://www.bmj.com/content/388/bmj-2024-082505
+证据综述规范,"PRISMA 2020 Statement, BMJ 2021",系统综述和Meta分析27项报告规范及流程图。,"用于Module A的系统化证据图谱, 使文献调研达到可审稿级别。",https://www.bmj.com/content/372/bmj.n71
+观察性研究规范,STROBE Statement,队列、病例对照和横断面观察性研究报告规范。,用于NHANES横断面模块和CGMacros观察性模块的报告清单。,https://www.strobe-statement.org/checklists/
+因果推断,"Lawlor et al., IJE 2016/2017, Triangulation in aetiological epidemiology",通过整合偏倚结构不同的多种方法增强病因学推断可信度。,"作为本研究总设计的核心方法论: 不把跨数据桥接伪装为直接因果, 而是主动构建三角互证。",https://pubmed.ncbi.nlm.nih.gov/28108528/
+因果推断,"Hernan and Robins, AJE 2016, Target trial emulation",观察性数据分析应显式模拟目标试验以减少设计偏倚。,用于定义可检验问题: 在高MSI人群中降低高消化可得性餐食是否可降低PPGR。,https://pubmed.ncbi.nlm.nih.gov/26994063/
+敏感性分析,"VanderWeele and Ding, Annals of Internal Medicine 2017, E-value",E-value用于量化未测混杂需要多强才能解释掉观察性关联。,用于NHANES和CGMacros关键关联的稳健性解释。,https://pubmed.ncbi.nlm.nih.gov/28693043/
+负对照,"Shi et al., Selective Review of Negative Control Methods in Epidemiology","负对照可用于检测/校正残余混杂, 但需清楚假设和局限。","用于NHANES暴露模块设计负对照结局/暴露, 避免把相关性过度解释为因果。",https://pmc.ncbi.nlm.nih.gov/articles/PMC8118596/
+数据库,CDC NHANES laboratory data,提供邻苯二甲酸酯、血糖、胰岛素、血脂等周期性实验室数据和XPT下载。,用于扩展暴露周期、统一权重、补充协变量和开展混合物模型。,https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Laboratory
+数据库,USDA FoodData Central,提供可下载CSV/JSON和REST API的食物营养数据库。,用于餐食重编码、营养密度、纤维/淀粉/糖/加工类别补充。,https://fdc.nal.usda.gov/download-datasets
+数据库,EPA CompTox Chemicals Dashboard,提供化学物质、毒性、暴露信息和批量检索。,用于DEHP/MEHP及替代增塑剂的化学-毒理证据扩展。,https://www.epa.gov/comptox-tools/comptox-chemicals-dashboard
+数据库,Comparative Toxicogenomics Database (CTD),汇总化学-基因、化学-疾病和基因-疾病关系。,"用于机制网络和通路富集, 构建DEHP-胰岛素信号/氧化应激/炎症证据图。",https://pmc.ncbi.nlm.nih.gov/articles/PMC2686584/

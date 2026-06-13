@@ -1,0 +1,11 @@
+﻿domain,source,url,high_tier_message,action_for_project
+PPGR benchmark,Nature Medicine 2025 standardized carbohydrate meal PPGR study,https://www.nature.com/articles/s41591-025-03719-2,等量碳水餐可诱发不同PPGR类型，顶级PPGR论文正在强调标准餐重复挑战、多组学、mitigator response和个体反应类型。,当前CGMacros/Stanford应从单点iAUC/peak升级为标准餐反应类型、重复性、曲线形态和mitigator反应。
+Precision nutrition precedent,PREDICT 1 Nature Medicine 2020,https://pubmed.ncbi.nlm.nih.gov/32528151/,高水平precision nutrition研究需要标准化餐食、自由生活数据、外部验证和高维表型共同支撑。,不能只依赖CGMacros机器学习预测；要把NHANES暴露锚点、Stanford分子层和同受试者pilot组织成三角证据。
+CGM modeling,Functional data analysis for postprandial glucose trajectories,https://pmc.ncbi.nlm.nih.gov/articles/PMC10568141/,PPGR不仅是iAUC/peak，完整餐后曲线、恢复斜率和形态聚类更能捕捉生理差异。,下一轮对CGMacros和Stanford都应加入0-180 min曲线特征、functional PCA、curve clustering和recovery metrics。
+Environmental mixture methods,qgcomp / WQS / BKMR environmental mixture methodology,https://pmc.ncbi.nlm.nih.gov/articles/PMC7228100/,环境混合物模型要求真实组分可解释，派生比例不能替代原始暴露单体。,原始MEHP/MEHHP/MEOHP/MECPP作为主模型是正确方向；派生氧化比例只能作为代谢转化二级机制指标。
+NHANES exposure source,CDC NHANES phthalates/plasticizers laboratory documentation,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/PHTHTE_H.htm,NHANES提供原始单体、LOD标记和化学物子样本权重。,主文需要完整报告LOD处理、尿稀释校正、周期权重、单体相关结构和替代权重敏感性。
+GEO toxicogenomics,GSE212641 and GSE293605 MEHP/DEHP toxicogenomics resources,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212641 ; https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE293605,机制层可从数据库交集升级为MEHP/DEHP暴露后的方向性转录组和通路证据。,需要把GEO panel结果与NHANES outcome和Stanford molecular signatures做同向性矩阵，而不是孤立报告。
+Exposome infrastructure,NIEHS HHEAR,https://hhearprogram.org/,高水平环境健康研究越来越强调可复用exposome分析平台、标准化实验室测量和多层数据协调。,下一步应申请/利用HHEAR风格测量框架，至少在pilot中预注册尿邻苯单体、代谢组和CGM同步采集。
+Prediction reporting,TRIPOD+AI and PROBAST+AI,https://www.tripod-statement.org/ ; https://www.bmj.com/content/388/bmj-2024-082505,AI/prediction模型必须报告数据源、分割、泄漏控制、校准、缺失、适用性和偏倚。,CGMacros/Stanford预测结果要降调为机制桥接或探索性预测，严格按TRIPOD+AI/PROBAST+AI补充清单报告。
+Food composition infrastructure,USDA FoodData Central,https://fdc.nal.usda.gov/download-datasets,正式FDC离线库可避免DEMO_KEY限流，但图像餐食仍需人工item确认。,FDC proxy ID不等于人工确认的食物项；必须完成双人图片标注和adjudication。
+Reporting nutrition exposures,STROBE-nut,https://www.strobe-nut.org/,营养暴露研究需要透明报告饮食评估、误差、处理和解释边界。,食物基质模块应按STROBE-nut扩展报告图像来源、标注流程、FDC映射、误差和复核。

@@ -1,0 +1,30 @@
+﻿domain,source,year,url,evidence_type,project_use,design_implication
+环境暴露-代谢,"Stahlhut et al., Environmental Health Perspectives, 2007",2007,https://pubmed.ncbi.nlm.nih.gov/17805419/,NHANES横断面,作为成人尿邻苯二甲酸酯代谢物与腰围/胰岛素抵抗关联的早期人群证据。,强调尿样横断面证据应定位为关联锚点，不能单独承担因果主张。
+环境暴露-代谢,"James-Todd et al., Environmental Health Perspectives, 2012",2012,https://pubmed.ncbi.nlm.nih.gov/22796563/,NHANES女性糖尿病关联,支持邻苯二甲酸酯与糖代谢异常/糖尿病风险的人群背景。,在论文引言中说明DEHP/邻苯二甲酸酯与代谢疾病已有流行病学线索。
+环境暴露-代谢,"Trasande et al., Pediatrics, 2013",2013,https://pubmed.ncbi.nlm.nih.gov/23958772/,NHANES青少年胰岛素抵抗,支持邻苯二甲酸酯代谢物与胰岛素抵抗的人群相关性。,提示研究不应局限成人，未来可做年龄分层或易感人群分析。
+环境暴露-代谢,"Shoshtari-Yeganeh et al., systematic review/meta-analysis, 2019",2019,https://pubmed.ncbi.nlm.nih.gov/30734259/,系统综述/Meta分析,为邻苯二甲酸酯-胰岛素抵抗/代谢异常关联提供综合文献背景。,论文讨论应承认既有证据异质性，并用三角互证而非单一相关来增强论证。
+混合暴露方法,"Carrico et al., Environmental Health Perspectives, 2015",2015,https://pubmed.ncbi.nlm.nih.gov/25863182/,Weighted quantile sum regression方法,支撑WQS用于高度相关环境混合物分析。,正式投稿前保留WQS重复holdout与权重稳定性图。
+混合暴露方法,"Bobb et al., Biostatistics, 2015",2015,https://pubmed.ncbi.nlm.nih.gov/25532525/,BKMR方法,支撑非线性和交互混合物建模。,R bkmr版本应作为敏感性/非线性证据，不宜作为唯一主模型。
+混合暴露方法,"Keil et al., Environmental Health, 2020",2020,https://ehjournal.biomedcentral.com/articles/10.1186/s12940-020-00600-z,Quantile g-computation方法,支撑qgcomp总混合效应估计和正负权重分解。,NHANES主结果建议以survey-weighted qgcomp/WQS/BKMR一致性呈现。
+精准营养/PPGR,"Zeevi et al., Cell, 2015",2015,https://pubmed.ncbi.nlm.nih.gov/26590418/,个体化PPGR预测开创性研究,说明PPGR高度个体化，食物与宿主状态共同决定餐后反应。,引言中把本研究定位为在精准营养框架中加入环境-代谢易感性维度。
+精准营养/PPGR,"Berry et al., Nature Medicine, 2020 (PREDICT 1)",2020,https://pubmed.ncbi.nlm.nih.gov/32528151/,大规模多组学餐后反应研究,支持餐后血糖/脂质/炎症反应存在显著个体差异。,若冲击顶刊，需要更接近PREDICT式的多层表型或同人群桥接。
+公开CGM数据,"CGMacros, PhysioNet",2024,https://physionet.org/content/cgmacros/,CGM与标准餐/宏量营养公开数据,本研究PPGR动态表型和受试者留出建模主数据。,必须严格报告数据结构、受试者数限制和subject-disjoint验证。
+公开CGM数据,Stanford CGM Database,2024,https://cgmdb.stanford.edu/data/,挑战食物CGM数据库,用于外部边界验证。,只能称为boundary validation，因为挑战食物结构与CGMacros自由餐不同。
+公开CGM数据,D1NAMO dataset,2018,https://zenodo.org/records/1421616,可穿戴/CGM生活方式数据,候选外部验证/敏感性数据源。,可用于验证PPGR特征工程和跨设备数据处理流程。
+食物基质/消化,"Minekus et al., Food & Function, 2014",2014,https://pubmed.ncbi.nlm.nih.gov/24803111/,INFOGEST标准静态体外消化方法,为可选体外消化验证提供方法学标准。,若开展仿生/体外消化，需报告酶活、pH、时间点、重复、葡萄糖释放曲线。
+食物基质/消化,"Brodkorb et al., Nature Protocols, 2019",2019,https://pubmed.ncbi.nlm.nih.gov/30886367/,INFOGEST 2.0共识方案,为食物基质-消化可得性验证提供国际可复核规范。,少量体外消化应作为验证食物基质评分的机制桥，而非另起一条研究线。
+食物加工/基质,"Hall et al., Cell Metabolism, 2019",2019,https://pubmed.ncbi.nlm.nih.gov/31105044/,随机交叉饮食干预,支持食物加工和基质结构对代谢表型有独立意义。,食物基质评分可纳入加工度、结构完整性、纤维/蛋白/脂肪保护矩阵。
+因果推断,"Lawlor et al., International Journal of Epidemiology, 2016",2016,https://pubmed.ncbi.nlm.nih.gov/28108528/,Triangulation框架,为跨数据、不同偏倚结构证据整合提供理论基础。,本文主框架应写成triangulated bridge-phenotype study。
+因果推断,"Hernan and Robins, American Journal of Epidemiology, 2016",2016,https://pubmed.ncbi.nlm.nih.gov/26994063/,Target trial emulation,帮助把营养替换/暴露情境转化为更清晰的可检验问题。,后续分析可构建高MSI人群中食物基质替换的target trial模拟。
+因果推断,"VanderWeele and Ding, Annals of Internal Medicine, 2017",2017,https://pubmed.ncbi.nlm.nih.gov/28693043/,E-value,量化未测混杂需达到多强才能解释观察性关联。,现有E-value温和，应作为防守性敏感性结果而非因果证明。
+预测模型报告,"TRIPOD+AI, BMJ, 2024",2024,https://www.bmj.com/content/385/bmj-2023-078378,AI/预测模型报告指南,规范CGMacros和外部验证模型报告。,补充材料必须给出数据划分、缺失、模型、调参、校准、外部验证和可复现信息。
+预测模型偏倚评估,"PROBAST+AI, BMJ, 2025",2025,https://www.bmj.com/content/388/bmj-2024-082505,AI预测模型风险评估工具,用于审稿前自查预测模型偏倚和适用性。,要主动标明CGMacros样本量、外部验证和数据泄漏控制。
+观察性报告,STROBE Statement checklists,2007,https://www.strobe-statement.org/checklists/,观察性研究报告规范,规范NHANES观察性分析和横断面限制表述。,主文/补充材料需完整交代样本流程、权重、变量定义、敏感性分析。
+综述/机制报告,"PRISMA 2020, BMJ, 2021",2021,https://www.bmj.com/content/372/bmj.n71,系统综述报告规范,规范机制文献/数据库检索流程。,机制部分不能写成散文综述，应有检索式、筛选流程和数据库版本。
+机制数据库,Comparative Toxicogenomics Database,2026,https://ctdbase.org/,化学-基因-疾病数据库,支撑DEHP/MEHP相关基因、疾病、通路可复核网络。,报告下载日期、化学同义词、筛选规则和边类型。
+机制数据库,EPA CompTox Chemicals Dashboard / ToxCast,2026,https://www.epa.gov/comptox-tools/comptox-chemicals-dashboard,化学结构、暴露、体外高通量生物活性,补强DEHP/代谢物的靶点、assay endpoint和毒理活性证据。,下一步提取PPAR、ER、氧化应激、线粒体、胰岛素相关assay证据。
+机制数据库,Reactome pathway database,2026,https://reactome.org/,人工策展通路数据库,解释PPAR/AKT/炎症/应激等通路汇聚。,与KEGG互证，避免单一数据库偏倚。
+机制数据库,KEGG pathway database,2026,https://www.kegg.jp/kegg/pathway.html,通路数据库,用于胰岛素抵抗、AMPK、PPAR、PI3K-Akt等通路重叠分析。,保留基因列表、通路背景集和多重校正。
+食物成分数据库,USDA FoodData Central,2026,https://fdc.nal.usda.gov/,食物成分数据库,用于CGMacros食物基质逐项FDC匹配和营养补充变量。,proxy query必须升级为item-level匹配、匹配置信度和人工审核。
+公共健康数据库,NHANES Laboratory and Questionnaire Data,2026,https://wwwn.cdc.gov/nchs/nhanes/,复杂抽样人群数据,DEHP/邻苯二甲酸酯暴露与代谢易感性主数据。,必须使用CDC权重、分层、PSU和周期合并规则。
+毒理组学,NCBI GEO,2026,https://www.ncbi.nlm.nih.gov/geo/,公开转录组数据库,用于寻找DEHP/MEHP暴露细胞或动物模型转录组，做方向性机制验证。,这是干实验补强机制证据的最高性价比模块之一。

@@ -1,0 +1,113 @@
+"model","mixture_set","mixture_components","outcome","n","psi","se","statistic","p","error","q"
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","exposure_facing_msi",2733,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","exposure_facing_msi",2733,0.106099111873161,0.0271924178340474,3.90179029024464,9.54838639408383e-05,NA,0.000127311818587784
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","exposure_facing_msi",2733,0.106099111873161,0.0271924178340474,3.90179029024464,9.54838639408383e-05,NA,0.000127311818587784
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","exposure_facing_msi",2733,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","response_vulnerability_index",2741,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","response_vulnerability_index",2741,0.15241460533076,0.0255359279656441,5.96863390027643,2.39248258837226e-09,NA,1.08209620936779e-08
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","response_vulnerability_index",2741,0.15241460533076,0.0255359279656441,5.96863390027643,2.39248258837226e-09,NA,1.08209620936779e-08
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","response_vulnerability_index",2741,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","msi_core_partial",1313,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","msi_core_partial",1313,0.202507733356283,0.0350263027691331,5.78159032916095,7.39977303209418e-09,NA,1.97327280855845e-08
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","msi_core_partial",1313,0.202507733356283,0.0350263027691331,5.78159032916095,7.39977303209418e-09,NA,1.97327280855845e-08
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","msi_core_partial",1313,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","msi_no_bmi",1306,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","msi_no_bmi",1306,0.191271020174585,0.0340020310083843,5.62528221115441,1.85204938046935e-08,NA,3.70409876093869e-08
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","msi_no_bmi",1306,0.191271020174585,0.0340020310083843,5.62528221115441,1.85204938046935e-08,NA,3.70409876093869e-08
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","msi_no_bmi",1306,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","ln_HOMA_IR",1292,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","ln_HOMA_IR",1292,0.218932645837139,0.0368043560665108,5.9485525420278,2.70524052341947e-09,NA,1.08209620936779e-08
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","ln_HOMA_IR",1292,0.218932645837139,0.0368043560665108,5.9485525420278,2.70524052341947e-09,NA,1.08209620936779e-08
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","ln_HOMA_IR",1292,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","HbA1c",2671,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","HbA1c",2671,0.114707985656129,0.0220919325771267,5.19230199782947,2.0770972045156e-07,NA,3.32335552722496e-07
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","HbA1c",2671,0.114707985656129,0.0220919325771267,5.19230199782947,2.0770972045156e-07,NA,3.32335552722496e-07
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","HbA1c",2671,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","TyG",1279,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","TyG",1279,0.078756893425633,0.0375448245116419,2.09767642944268,0.0359337384101566,NA,0.0410671296116075
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","TyG",1279,0.078756893425633,0.0375448245116419,2.09767642944268,0.0359337384101566,NA,0.0410671296116075
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","TyG",1279,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_three_derived_metrics","ln_Sigma_DEHP|pct_oxidative_10|ln_oxidative_to_MEHP","ln_TG_HDL",1279,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_fraction","ln_Sigma_DEHP|pct_oxidative_10","ln_TG_HDL",1279,0.0572812562850347,0.0390223743162549,1.46790802171087,0.142129208933156,NA,0.142129208933156
+"R_qgcomp_glm_noboot_weighted","dehp_load_plus_oxidative_ratio","ln_Sigma_DEHP|ln_oxidative_to_MEHP","ln_TG_HDL",1279,0.0572812562850347,0.0390223743162549,1.46790802171087,0.142129208933156,NA,0.142129208933156
+"R_qgcomp_glm_noboot_weighted","oxidative_fraction_plus_ratio","pct_oxidative_10|ln_oxidative_to_MEHP","ln_TG_HDL",1279,NA,NA,NA,NA,"Model aliasing occurred, likely due to perfectly correlated quantized exposures.
+           Try one of the following:
+             1) set 'bayes' to TRUE in the qgcomp function (recommended)
+             2) set 'q' to a higher value in the qgcomp function (recommended)
+             3) check correlation matrix of exposures, and drop all but one variable in each highly correlated set  (not recommended)
+           ",NA

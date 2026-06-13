@@ -1,0 +1,127 @@
+﻿source_table,column,reason,dtype,missing_rate,feature_set,feature,type,description
+leakage,#1 Contour Fingerstick GLU,explicitly_forbidden,int64,0.0,,,,
+leakage,#2 Contour Fingerstick GLU,explicitly_forbidden,int64,0.0,,,,
+leakage,#3 Contour Fingerstick GLU,explicitly_forbidden,int64,0.0,,,,
+leakage,Collection time PDL (Lab),explicitly_forbidden,str,0.0,,,,
+leakage,Time (t),explicitly_forbidden,str,0.0,,,,
+leakage,Time (t).1,explicitly_forbidden,str,0.0,,,,
+leakage,Time (t).2,explicitly_forbidden,str,0.0,,,,
+leakage,amount_consumed,explicitly_forbidden,float64,0.0200267022696929,,,,
+leakage,amount_factor,explicitly_forbidden,float64,0.0193591455273698,,,,
+leakage,auc_2h,explicitly_forbidden,float64,0.0,,,,
+leakage,auc_3h,explicitly_forbidden,float64,0.0,,,,
+leakage,calories,explicitly_forbidden,float64,0.0,,,,
+leakage,carbs,explicitly_forbidden,float64,0.0,,,,
+leakage,fat,explicitly_forbidden,float64,0.0,,,,
+leakage,fiber,explicitly_forbidden,float64,0.000667556742323,,,,
+leakage,glucose_source,explicitly_forbidden,str,0.0,,,,
+leakage,iauc_2h,explicitly_forbidden,float64,0.0,,,,
+leakage,iauc_3h,explicitly_forbidden,float64,0.0,,,,
+leakage,image_path,explicitly_forbidden,str,0.0313751668891855,,,,
+leakage,n_post2h_points,explicitly_forbidden,int64,0.0,,,,
+leakage,n_pre_points,explicitly_forbidden,int64,0.0,,,,
+leakage,peak_delta_2h,explicitly_forbidden,float64,0.0,,,,
+leakage,peak_glucose_2h,explicitly_forbidden,float64,0.0,,,,
+leakage,protein,explicitly_forbidden,float64,0.0,,,,
+leakage,recovery_time_2h,explicitly_forbidden,float64,0.5200267022696929,,,,
+leakage,time_to_peak_2h,explicitly_forbidden,float64,0.0,,,,
+predictors,,,,,M2_deployable_core,eff_calories,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,eff_carbs,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,eff_protein,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,eff_fat,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,eff_fiber,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,baseline_glucose,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,pre_glucose_mean_30,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,pre_glucose_sd_30,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,pre_glucose_slope_60,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,hr_mean_pre30,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,activity_calories_pre30,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,mets_mean_pre30,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,meal_hour_sin,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,meal_hour_cos,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,prev_meal_gap_min,numeric,meal + preprandial CGM + wearable/time
+predictors,,,,,M2_deployable_core,meal_type,categorical,meal + preprandial CGM + wearable/time
+predictors,,,,,M3_clinical_enhanced,eff_calories,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,eff_carbs,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,eff_protein,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,eff_fat,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,eff_fiber,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,baseline_glucose,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,pre_glucose_mean_30,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,pre_glucose_sd_30,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,pre_glucose_slope_60,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,hr_mean_pre30,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,activity_calories_pre30,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,mets_mean_pre30,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,meal_hour_sin,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,meal_hour_cos,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,prev_meal_gap_min,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Age,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,BMI,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Body weight,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Height,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,A1c PDL (Lab),numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Fasting GLU - PDL (Lab),numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Insulin,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Triglycerides,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Cholesterol,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,HDL,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Non HDL,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,LDL (Cal),numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,VLDL (Cal),numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Cho/HDL Ratio,numeric,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,meal_type,categorical,M2 + clinical baseline
+predictors,,,,,M3_clinical_enhanced,Gender,categorical,M2 + clinical baseline
+predictors,,,,,M4_gut_exploratory,eff_calories,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,eff_carbs,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,eff_protein,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,eff_fat,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,eff_fiber,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,baseline_glucose,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,pre_glucose_mean_30,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,pre_glucose_sd_30,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,pre_glucose_slope_60,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,hr_mean_pre30,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,activity_calories_pre30,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,mets_mean_pre30,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,meal_hour_sin,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,meal_hour_cos,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,prev_meal_gap_min,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Age,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,BMI,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Body weight,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Height,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,A1c PDL (Lab),numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Fasting GLU - PDL (Lab),numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Insulin,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Triglycerides,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Cholesterol,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,HDL,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Non HDL,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,LDL (Cal),numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,VLDL (Cal),numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Cho/HDL Ratio,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Gut Lining Health,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,LPS Biosynthesis Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,"Biofilm, Chemotaxis, and Virulence Pathways",numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,TMA Production Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Ammonia Production Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Metabolic Fitness,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Active Microbial Diversity,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Butyrate Production Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Flagellar Assembly Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Putrescine Production Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Uric Acid Production Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Bile Acid Metabolism Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Inflammatory Activity,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Gut Microbiome Health,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Digestive Efficiency,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Protein Fermentation,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Gas Production,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Methane Gas Production Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Sulfide Gas Production Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Oxalate Metabolism Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Salt Stress Pathways,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Microbiome-Induced Stress,numeric,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,meal_type,categorical,"M3 + gut health features, exploratory"
+predictors,,,,,M4_gut_exploratory,Gender,categorical,"M3 + gut health features, exploratory"

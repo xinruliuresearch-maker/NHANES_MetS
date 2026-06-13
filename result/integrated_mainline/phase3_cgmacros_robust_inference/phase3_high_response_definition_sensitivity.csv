@@ -1,0 +1,13 @@
+﻿definition,msi_tertile,n_meals,n_subjects,high_rate
+high_iauc_population,high,447,13,0.31543624161073824
+high_iauc_population,low,570,14,0.18421052631578946
+high_iauc_population,middle,481,13,0.2681912681912682
+high_iauc_subject_specific,high,447,13,0.2639821029082774
+high_iauc_subject_specific,low,570,14,0.2614035087719298
+high_iauc_subject_specific,middle,481,13,0.2598752598752599
+high_peak_population,high,447,13,0.33557046979865773
+high_peak_population,low,570,14,0.1736842105263158
+high_peak_population,middle,481,13,0.26195426195426197
+high_peak_absolute40,high,447,13,0.5995525727069351
+high_peak_absolute40,low,570,14,0.43859649122807015
+high_peak_absolute40,middle,481,13,0.5925155925155925

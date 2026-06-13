@@ -1,0 +1,10 @@
+﻿resource,url,priority,what_to_get,use,status_next
+NHANES,https://wwwn.cdc.gov/nchs/nhanes/,必须,"phthalate metabolites, creatinine/specific gravity if available, fasting glucose/insulin/HbA1c/lipids, demographics, diet covariates, survey design variables.",DEHP-related exposure mixture and metabolic susceptibility anchor.,继续使用当前数据；R正式复核与敏感性扩展。
+CGMacros PhysioNet,https://physionet.org/content/cgmacros/,必须,"raw CGM traces, meal timing, nutrients, food images/metadata.","PPGR dynamic phenotype, subject-disjoint prediction, food matrix annotation.",升级人工标注/FDC item-level matching。
+Stanford CGM Database,https://cgmdb.stanford.edu/data/,必须,"challenge foods, CGM responses, subject-level available descriptors.",boundary validation of PPGR feature extraction and transportability.,已完成初版；加入更详细异质性表。
+D1NAMO,https://zenodo.org/records/1421616,高,"CGM, meal/activity metadata if accessible.",second external CGM validation and harmonized PPGR extraction.,下载并评估餐食时间标注可用性。
+USDA FoodData Central,https://fdc.nal.usda.gov/,高,branded/foundation/survey food item nutrient composition and FDC IDs.,food matrix item-level matching and nutrient detail enrichment.,用API或离线数据建立FDC match manifest。
+CTD,https://ctdbase.org/,高,DEHP/MEHP/MEHHP/MEOHP chemical-gene and chemical-disease edges.,mechanism plausibility network.,保留版本、下载日期、同义词、过滤规则。
+EPA CompTox/ToxCast,https://www.epa.gov/comptox-tools/comptox-chemicals-dashboard,高,"chemical identifiers, assay endpoints, bioactivity calls for DEHP and metabolites.",toxicological endpoint support for PPAR/ER/oxidative stress/mitochondrial/insulin-related pathways.,从query links升级为assay-level table。
+GEO / ArrayExpress,https://www.ncbi.nlm.nih.gov/geo/,高,DEHP/MEHP exposure transcriptomics in liver/adipocyte/beta-cell/intestinal or animal metabolic tissues.,directional toxicogenomics mechanism validation.,检索并筛选至少1-3个可用数据集。
+Reactome / KEGG,https://reactome.org/ ; https://www.kegg.jp/kegg/pathway.html,中高,pathway membership and enrichment background.,mechanism enrichment and pathway map.,固定背景集并加入FDR校正。

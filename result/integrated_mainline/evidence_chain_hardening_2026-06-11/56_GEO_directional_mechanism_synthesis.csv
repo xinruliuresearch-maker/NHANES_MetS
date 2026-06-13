@@ -1,0 +1,11 @@
+dataset,comparison,panel,n_panel_genes_available,n_fdr_0_05,n_up,n_down,median_logFC,leading_genes,direction_interpretation
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,insulin_resistance,11,0,0,0,-0.09364983534241245,IRS1|SOCS3|JUN|PIK3R1|GSK3B|IRS2|FOXO1|INSR|AKT2|AKT1,panel_detected_but_not_FDR_significant
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,lipid_ppar,12,3,1,2,-0.16885360030663665,CPT1A|CD36|FABP4|RXRA|SREBF1|APOE|PPARG|ACOX1|SCD|FASN,mostly_downregulated
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,oxidative_stress,10,0,0,0,0.02371123269439435,NQO1|GPX1|HMOX1|NFE2L2|KEAP1|TXNIP|GCLC|SOD1|SOD2|CAT,panel_detected_but_not_FDR_significant
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,inflammation_tnf,6,1,0,1,-0.1042363971608234,CCL2|PTGS2|ICAM1|NFKB1|RELA|CXCL8,mostly_downregulated
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,mitochondrial_stress,8,0,0,0,-0.09669751965726192,PPARGC1A|PINK1|TFAM|DNM1L|NDUFA1|COX4I1|UQCRC1|MFN2,panel_detected_but_not_FDR_significant
+GSE293605_human_liver_organoid_supplied_DEG,MEHP_vs_DMSO_author_supplied,insulin_resistance,11,6,3,3,0.127626376240188,INSR|IRS2|GSK3B|IRS1|JUN|PIK3CA|AKT2|SOCS3|AKT1|PIK3R1,mixed_direction
+GSE293605_human_liver_organoid_supplied_DEG,MEHP_vs_DMSO_author_supplied,lipid_ppar,11,10,7,3,0.86444538165561,CPT1A|PPARA|ACOX1|FASN|PPARG|SREBF1|APOE|PPARD|RXRA|SCD,mostly_upregulated
+GSE293605_human_liver_organoid_supplied_DEG,MEHP_vs_DMSO_author_supplied,oxidative_stress,11,5,4,1,0.133133133876983,TXNIP|NQO1|SOD2|HMOX1|SOD1|GPX1|GCLC|CAT|NFE2L2|KEAP1,mostly_upregulated
+GSE293605_human_liver_organoid_supplied_DEG,MEHP_vs_DMSO_author_supplied,inflammation_tnf,8,4,2,2,0.03489849392869951,IL1B|ICAM1|CXCL8|CCL2|TNF|RELA|NFKB1|PTGS2,mixed_direction
+GSE293605_human_liver_organoid_supplied_DEG,MEHP_vs_DMSO_author_supplied,mitochondrial_stress,9,2,0,2,-0.101754123340151,ATP5F1A|PPARGC1A|PINK1|UQCRC1|TFAM|NDUFA1|DNM1L|COX4I1|MFN2,mostly_downregulated

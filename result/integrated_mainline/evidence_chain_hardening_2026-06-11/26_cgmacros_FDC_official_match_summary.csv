@@ -1,0 +1,2 @@
+﻿n_meals,n_with_official_fdc_id,pct_with_official_fdc_id,n_high_confidence,n_moderate_confidence,n_low_confidence,n_requires_human_confirmation,note
+1498,1498,100.0,929,456,113,569,Official offline FDC IDs are assigned by proxy query because CGMacros lacks item text beyond images/macros; human image review remains required for publication-grade item annotation.

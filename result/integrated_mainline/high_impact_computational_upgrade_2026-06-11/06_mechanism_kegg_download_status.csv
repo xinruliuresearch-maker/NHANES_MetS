@@ -1,0 +1,10 @@
+﻿database,pathway_id,pathway_name,success,message_or_n_chars
+KEGG,hsa04910,Insulin signaling pathway,True,3192
+KEGG,hsa04931,Insulin resistance,True,2537
+KEGG,hsa04151,PI3K-Akt signaling pathway,True,8387
+KEGG,hsa04152,AMPK signaling pathway,True,2836
+KEGG,hsa03320,PPAR signaling pathway,True,1762
+KEGG,hsa04068,FoxO signaling pathway,True,3091
+KEGG,hsa00190,Oxidative phosphorylation,True,3211
+KEGG,hsa04668,TNF signaling pathway,True,2753
+KEGG,hsa04933,AGE-RAGE signaling pathway in diabetic complications,True,2326

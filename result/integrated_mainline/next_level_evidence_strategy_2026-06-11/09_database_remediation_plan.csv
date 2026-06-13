@@ -1,0 +1,6 @@
+﻿database,current_issue,fix,publishability_gain
+NHANES,Current exposure mixture uses derived metrics and not raw monomers.,"Download PHTHTE files by cycle; use URXMHP/MEHP, URXMHH/MEHHP, URXMOH/MEOHP, URXECP/MECPP and other phthalate variables; preserve LOD flags and weights.",High
+FoodData Central,DEMO_KEY returned 429 and final match table assigned 0/1498 meals.,"Use personal data.gov API key or offline FDC downloads; cache query results; include FDC ID, food description, data type, match score and reviewer decision.",High
+Stanford CGMDB,Only boundary CGM validation used; metabolomics/Olink underused.,Build molecular metabolic susceptibility signatures and test standardized meal/subtype associations.,High
+GEO,Candidate search complete but no differential expression rerun.,Screen GSE records for true DEHP/MEHP exposure; rerun DESeq2/limma; map DEGs to CTD/KEGG/Reactome.,Medium-high
+CompTox/ToxCast,Query manifest exists but assay endpoints not extracted.,"Obtain API key or invitroDB flat files; extract PPAR/nuclear receptor, oxidative stress, mitochondrial, inflammatory and endocrine assay results.",Medium-high

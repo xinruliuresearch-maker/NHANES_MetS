@@ -1,0 +1,26 @@
+{
+  "generated": "2026-06-11",
+  "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\evidence_chain_optimization_2026-06-11",
+  "mirror_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\evidence_chain_optimization_2026-06-11",
+  "central_claim": "phthalate-related oxidative metabolic profile -> metabolic susceptibility -> food-matrix-dependent postprandial glycemic vulnerability",
+  "guardrail": "Do not claim direct DEHP-to-PPGR causality without same-participant urinary phthalate and CGM meal-response data.",
+  "files": [
+    "README.md",
+    "00_manifest.json",
+    "00_deep_evidence_chain_optimization_report.md",
+    "01_current_result_snapshot.csv",
+    "02_literature_search_log.csv",
+    "03_evidence_chain_gap_to_solution_matrix.csv",
+    "04_next_stage_experimental_protocol.csv",
+    "05_dry_lab_upgrade_execution_plan.csv",
+    "06_optional_wet_lab_bionic_digestion_plan.csv",
+    "07_target_journal_decision_matrix.csv",
+    "08_reviewer_prebuttal_matrix.csv",
+    "09_database_and_external_validation_acquisition_plan.csv",
+    "10_figure_and_manuscript_reframing_plan.csv"
+  ],
+  "source_result_packages": [
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\current_results_interpretation_2026-06-11",
+    "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\high_impact_computational_upgrade_2026-06-11"
+  ]
+}

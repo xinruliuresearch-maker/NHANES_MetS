@@ -1,0 +1,3 @@
+﻿dataset,validation_type,outcome,n_meals,n_subjects,r2,pearson_r,mae,rmse,guardrail
+D1NAMO_T1D,meal_level_subject_disjoint_boundary_validation,iauc_2h,78,7,-0.4477586627877548,-0.4101541186004403,3778.4729193995986,4666.099098183475,"T1D insulin-treated meal data; used only as external boundary validation, not healthy-adult replication."
+D1NAMO_T1D,meal_level_subject_disjoint_boundary_validation,peak_delta_2h,78,7,-0.3825790338561952,-0.25331217986593246,50.787391669671976,62.44608331656106,"T1D insulin-treated meal data; used only as external boundary validation, not healthy-adult replication."

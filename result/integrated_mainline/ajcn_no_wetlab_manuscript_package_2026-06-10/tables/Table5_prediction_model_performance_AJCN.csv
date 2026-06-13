@@ -1,0 +1,7 @@
+Target,Model,MAE,R2,AUC high response,AUPRC high response,Calibration slope,"Net benefit, pt=0.25"
+2h iAUC,M0_carb_only,2294.8,0.040,0.603,0.310,0.887,0.000
+2h iAUC,M2_macro_precgm_context,2166.3,0.150,0.688,0.418,0.902,0.052
+2h iAUC,M3_msi_enhanced,2011.3,0.255,0.762,0.520,0.931,0.080
+2h peak delta,M0_carb_only,32.0,0.046,0.589,0.298,0.910,0.001
+2h peak delta,M2_macro_precgm_context,29.8,0.189,0.703,0.426,0.923,0.058
+2h peak delta,M3_msi_enhanced,27.1,0.318,0.787,0.571,0.963,0.094

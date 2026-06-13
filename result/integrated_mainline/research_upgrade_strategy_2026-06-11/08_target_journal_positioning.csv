@@ -1,0 +1,5 @@
+﻿journal_tier,journal,fit,minimum_extra_needed
+冲刺,Nature Food / Cell Reports Medicine / Nature Communications,"需要外部验证和机制数据库或少量实验验证较强, 叙事必须从'单数据分析'升级为三角互证框架。",至少完成NHANES混合物模型、CGMacros层级模型、外部边界验证、机制网络和食物基质可靠性。
+高水平营养方向,American Journal of Clinical Nutrition / Clinical Nutrition / Journal of Nutrition,"适合以PPGR、食物基质、代谢易感性和人群暴露为主线, 方法透明度要求高。","NHANES survey严谨重分析, CGMacros subject-disjoint验证, 食物基质评分可靠性。"
+环境健康方向,Environment International / Environmental Health Perspectives / Environmental Research,"若强化DEHP混合暴露、代谢综合征和机制网络, 可偏环境流行病学。","暴露模块需最强, 包括多周期、混合物模型、负对照和敏感性分析。"
+方法/数据整合方向,Patterns / npj Digital Medicine / Scientific Data companion analysis,"若强调CGM动态表型、跨数据集桥接和可复现开放流程, 可作为数字健康/数据科学论文。","预测模型需符合TRIPOD+AI/PROBAST+AI, 外部验证和代码复现要充分。"

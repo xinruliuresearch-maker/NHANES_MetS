@@ -1,0 +1,20 @@
+{
+  "generated": "2026-06-11T02:18:11",
+  "project_root": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros",
+  "output_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\ShiYiSiNan_CGMacros\\outputs\\integrated_mainline\\research_upgrade_strategy_2026-06-11",
+  "mirror_dir": "C:\\Users\\liu12\\OneDrive\\Desktop\\NHANES_MetS_Project\\result\\integrated_mainline\\research_upgrade_strategy_2026-06-11",
+  "central_reframe": "triangulated cross-dataset bridge-phenotype study",
+  "files": [
+    "01_high_impact_research_upgrade_full_report.md",
+    "02_evidence_gap_matrix.csv",
+    "03_literature_evidence_map.csv",
+    "04_dry_lab_module_A_to_I_execution_plan.csv",
+    "05_database_download_and_integration_plan.csv",
+    "06_reviewer_attack_response_matrix.csv",
+    "07_no_wetlab_next_8_weeks_roadmap.csv",
+    "08_target_journal_positioning.csv",
+    "09_optional_bionic_digestion_experiment_plan.csv",
+    "11_generation_QA.md"
+  ],
+  "core_guardrail": "No direct DEHP-to-PPGR causality or formal mediation is claimed without same-participant exposure and CGM data."
+}

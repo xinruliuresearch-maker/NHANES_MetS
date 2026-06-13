@@ -1,0 +1,9 @@
+﻿dataset,validation_type,predictor,outcome,n_subjects,pearson_r,guardrail
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,HbA1c,mean_glucose,169,0.21363469896150494,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,HbA1c,sd_glucose,169,0.14268759410652537,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,HbA1c,cv_glucose,169,0.07618294787071034,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,HbA1c,time_above_140_pct,169,0.2453196618232535,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,BMI,mean_glucose,169,0.24055622485113776,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,BMI,sd_glucose,169,0.1769113483647877,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,BMI,cv_glucose,169,0.10369421294241542,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."
+Jaeb_CGMND_HealthyAdults_2017,day_level_CGM_variability_boundary_validation,BMI,time_above_140_pct,169,0.28530883448456834,"No meal events; validates CGM variability/metabolic-susceptibility boundary, not meal-level PPGR."

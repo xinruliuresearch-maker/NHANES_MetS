@@ -1,0 +1,5 @@
+﻿field,allowed_values,instruction
+human_rater_1_category,sweetened_beverage_or_liquid_carb; refined_starch_or_rapid_carb; mixed_matrix; mixed_matrix_high_energy; fiber_rich_or_whole_food_matrix,Rater 1 blinded category after inspecting image and any meal description.
+human_rater_2_category,same as rater 1,Rater 2 independently assigns category without seeing rater 1.
+adjudicator_final_category,same as rater 1,"Adjudicator resolves disagreements using image, nutrients, FDC candidate, and codebook rules."
+requires_manual_image_review,TRUE/FALSE,TRUE means automated prelabels disagree or available metadata are insufficient.

@@ -1,0 +1,7 @@
+﻿limitation,impact,mitigation
+NHANES横断面和单次尿样限制,无法证明时间顺序或长期暴露效应。,使用复杂抽样、混合物模型、RCS、E-value和多MSI版本；最终投稿前建议用R survey/qgcomp/gWQS/bkmr复核。
+没有同一受试者同时拥有DEHP生物标志物和餐后CGM,不能声称DEHP直接导致PPGR异常，也不能做正式中介。,将设计明确为cross-dataset bridge-phenotype triangulation。
+CGMacros受试者层样本量较小,餐次多不能替代受试者多，模型泛化需谨慎。,已采用subject-disjoint验证和subject-cluster/hierarchical inference。
+食物基质评分目前是干实验代理变量,不能等同真实体内消化速度。,已建立codebook、FDC proxy和双规则一致性；下一步需人工双评和/或体外消化验证。
+Stanford外部验证与CGMacros数据结构不同,只能说明边界可迁移性，不能作为完全外部复制。,在论文中表述为boundary validation，并报告数据结构差异。
+机制网络来自数据库,支持机制可行性，但不能证明新机制。,将CTD/KEGG/Reactome作为可复核plausibility layer；若冲击顶刊，需少量实验或独立组学验证。

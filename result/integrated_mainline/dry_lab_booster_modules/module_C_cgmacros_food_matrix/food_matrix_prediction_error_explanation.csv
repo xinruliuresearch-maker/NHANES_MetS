@@ -1,0 +1,11 @@
+﻿target,feature,pearson_corr_with_abs_error,n
+iauc_2h,digestibility_risk_score,0.17626020835929762,1498
+iauc_2h,glycemic_load_proxy,0.12364230176945135,1498
+iauc_2h,high_fat_high_carb_matrix,0.061700194759710114,1498
+iauc_2h,liquid_carb_proxy,-0.05712402579403623,1498
+iauc_2h,refined_starch_proxy,0.17922583681552617,1498
+peak_delta_2h,digestibility_risk_score,0.10739435934093465,1498
+peak_delta_2h,glycemic_load_proxy,0.07791861311279505,1498
+peak_delta_2h,high_fat_high_carb_matrix,0.05023823371827357,1498
+peak_delta_2h,liquid_carb_proxy,-0.0537882413331541,1498
+peak_delta_2h,refined_starch_proxy,0.10937919739412504,1498

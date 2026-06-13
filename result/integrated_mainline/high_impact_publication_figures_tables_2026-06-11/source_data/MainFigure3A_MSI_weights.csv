@@ -1,0 +1,6 @@
+﻿component,weight
+bmi_z_nhanes_ref,0.1596131825752739
+hba1c_z_nhanes_ref,0.2245380813281983
+fasting_glucose_mgdl_z_nhanes_ref,0.2246832491434801
+ln_homa_ir_z_nhanes_ref,0.2281949252186954
+ln_tg_hdl_z_nhanes_ref,0.162970561734352

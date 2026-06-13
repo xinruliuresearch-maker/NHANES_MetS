@@ -1,0 +1,2 @@
+﻿annotation_type,n_meals,agreement_rate,cohen_kappa,needs_manual_review_n,guardrail
+AI_assisted_rule_based_dual_prelabelling_not_final_human_annotation,1498,0.5126835781041389,0.3358166665958069,730,These are two independent rule-based prelabels to support later blinded human annotation; they are not claimed as completed human ratings.

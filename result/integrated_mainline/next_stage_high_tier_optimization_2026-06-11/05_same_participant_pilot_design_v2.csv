@@ -1,0 +1,9 @@
+﻿domain,recommendation
+Design,"Randomized repeated-meal crossover embedded in 10-14 day CGM monitoring, with 3 repeated first-morning urine samples for phthalate metabolites."
+Sample size,N=60 feasibility for variance/compliance; N=120 definitive for interaction estimates across four food matrices.
+Exposure,"MEHP, MEHHP, MEOHP, MECPP, MEP, MnBP, MiBP, MBzP, MCOP/MCNP; urinary creatinine and specific gravity; pooled and repeated-sample reliability."
+Meals,"Four 50g-available-carb standardized matrices: liquid sugar, refined starch, whole/fiber matrix, mixed macronutrient buffered matrix; each repeated twice."
+Mitigator arms,"Protein/fat preload, fiber/acid matrix, post-meal walking, and meal order as optional randomized substudies."
+Outcomes,"Primary: iAUC2h and peak delta. Secondary: curve type, recovery slope, time above baseline, late excursion, variability."
+Analysis,"Hierarchical mixed models with participant random intercepts, meal matrix interactions, repeated exposure measurement error correction, and negative controls."
+Success criteria,Consistent within-person exposure-mixture association with PPGR vulnerability or a clear interaction with metabolic susceptibility/food matrix.

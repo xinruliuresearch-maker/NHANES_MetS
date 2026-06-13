@@ -1,0 +1,444 @@
+﻿GeneSymbol,GeneID,n_chemical_edges,n_chemicals,n_pubmed_records,example_actions,pathway_id,pathway_name
+PPARA,5465,32,4,18,affects^binding; affects^binding|decreases^reaction; affects^binding|increases^activity; affects^binding|increases^reaction,hsa04931,Insulin resistance
+PPARA,5465,32,4,18,affects^binding; affects^binding|decreases^reaction; affects^binding|increases^activity; affects^binding|increases^reaction,hsa03320,PPAR signaling pathway
+MMP2,4313,21,4,7,affects^expression; affects^expression|affects^reaction; decreases^activity|decreases^reaction|increases^secretion; decreases^activity|decreases^response to substance,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+JAK3,3718,9,4,1,decreases^methylation|increases^abundance; increases^abundance|increases^expression,hsa04151,PI3K-Akt signaling pathway
+PPARG,5468,30,3,27,affects^activity; affects^binding; affects^binding|affects^folding|increases^activity; affects^binding|decreases^activity,hsa04152,AMPK signaling pathway
+PPARG,5468,30,3,27,affects^activity; affects^binding; affects^binding|affects^folding|increases^activity; affects^binding|decreases^activity,hsa03320,PPAR signaling pathway
+TNF,7124,13,3,6,affects^reaction|decreases^reaction|increases^expression; decreases^methylation|increases^abundance; decreases^methylation|increases^abundance|increases^expression; decreases^reaction|increases^expression,hsa04931,Insulin resistance
+TNF,7124,13,3,6,affects^reaction|decreases^reaction|increases^expression; decreases^methylation|increases^abundance; decreases^methylation|increases^abundance|increases^expression; decreases^reaction|increases^expression,hsa04668,TNF signaling pathway
+TNF,7124,13,3,6,affects^reaction|decreases^reaction|increases^expression; decreases^methylation|increases^abundance; decreases^methylation|increases^abundance|increases^expression; decreases^reaction|increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+SOD2,6648,7,3,3,affects^response to substance|increases^abundance; decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04068,FoxO signaling pathway
+STAT5B,6777,6,3,1,decreases^methylation|increases^abundance; increases^abundance|increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+IGF2,3481,4,3,1,decreases^methylation|increases^abundance,hsa04151,PI3K-Akt signaling pathway
+MMP1,4312,3,3,2,increases^expression,hsa03320,PPAR signaling pathway
+PTGS2,5743,20,2,8,affects^binding|decreases^reaction; affects^binding|increases^reaction; affects^cotreatment|affects^reaction|increases^expression; affects^reaction|increases^expression,hsa04668,TNF signaling pathway
+MAPK1,5594,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04910,Insulin signaling pathway
+MAPK1,5594,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04151,PI3K-Akt signaling pathway
+MAPK1,5594,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04068,FoxO signaling pathway
+MAPK1,5594,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04668,TNF signaling pathway
+MAPK1,5594,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+MAPK3,5595,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04910,Insulin signaling pathway
+MAPK3,5595,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04151,PI3K-Akt signaling pathway
+MAPK3,5595,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04068,FoxO signaling pathway
+MAPK3,5595,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04668,TNF signaling pathway
+MAPK3,5595,19,2,13,affects^cotreatment|affects^phosphorylation|decreases^reaction; affects^cotreatment|decreases^phosphorylation; affects^cotreatment|decreases^phosphorylation|decreases^reaction; affects^cotreatment|increases^phosphorylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+MMP9,4318,18,2,6,affects^cotreatment|increases^secretion; affects^expression; affects^expression|affects^reaction; decreases^expression,hsa04668,TNF signaling pathway
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation,hsa04910,Insulin signaling pathway
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation,hsa04931,Insulin resistance
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation,hsa04151,PI3K-Akt signaling pathway
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation,hsa04152,AMPK signaling pathway
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation,hsa04068,FoxO signaling pathway
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation,hsa04668,TNF signaling pathway
+AKT1,207,17,2,8,affects^cotreatment|affects^reaction|increases^phosphorylation; affects^cotreatment|increases^phosphorylation; affects^reaction|increases^phosphorylation; decreases^phosphorylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+INS,3630,17,2,5,affects^cotreatment|decreases^secretion|increases^reaction; affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion,hsa04910,Insulin signaling pathway
+INS,3630,17,2,5,affects^cotreatment|decreases^secretion|increases^reaction; affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion,hsa04931,Insulin resistance
+INS,3630,17,2,5,affects^cotreatment|decreases^secretion|increases^reaction; affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion,hsa04151,PI3K-Akt signaling pathway
+INS,3630,17,2,5,affects^cotreatment|decreases^secretion|increases^reaction; affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion,hsa04152,AMPK signaling pathway
+INS,3630,17,2,5,affects^cotreatment|decreases^secretion|increases^reaction; affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion,hsa04068,FoxO signaling pathway
+CASP3,836,13,2,13,affects^cotreatment|affects^expression; decreases^reaction|increases^activity|increases^reaction; decreases^reaction|increases^cleavage; increases^activity,hsa04668,TNF signaling pathway
+CASP3,836,13,2,13,affects^cotreatment|affects^expression; decreases^reaction|increases^activity|increases^reaction; decreases^reaction|increases^cleavage; increases^activity,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+RELA,5970,13,2,8,affects^expression; affects^localization; affects^localization|decreases^reaction; affects^localization|increases^phosphorylation,hsa04931,Insulin resistance
+RELA,5970,13,2,8,affects^expression; affects^localization; affects^localization|decreases^reaction; affects^localization|increases^phosphorylation,hsa04151,PI3K-Akt signaling pathway
+RELA,5970,13,2,8,affects^expression; affects^localization; affects^localization|decreases^reaction; affects^localization|increases^phosphorylation,hsa04668,TNF signaling pathway
+RELA,5970,13,2,8,affects^expression; affects^localization; affects^localization|decreases^reaction; affects^localization|increases^phosphorylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+TP53,7157,12,2,5,decreases^expression; decreases^expression|decreases^reaction; decreases^reaction|increases^activity; decreases^reaction|increases^expression,hsa04151,PI3K-Akt signaling pathway
+BAX,581,9,2,11,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+BCL2,596,8,2,13,affects^cotreatment|increases^expression; affects^reaction|decreases^expression; decreases^expression; decreases^expression|decreases^reaction,hsa04151,PI3K-Akt signaling pathway
+BCL2,596,8,2,13,affects^cotreatment|increases^expression; affects^reaction|decreases^expression; decreases^expression; decreases^expression|decreases^reaction,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+MYC,4609,8,2,5,affects^cotreatment|affects^reaction|increases^expression; affects^cotreatment|decreases^reaction|increases^expression; affects^cotreatment|increases^expression; affects^reaction|decreases^expression,hsa04151,PI3K-Akt signaling pathway
+VEGFA,7422,8,2,7,affects^cotreatment|increases^secretion; affects^reaction|increases^secretion; decreases^reaction|increases^expression|increases^secretion; decreases^secretion,hsa04151,PI3K-Akt signaling pathway
+VEGFA,7422,8,2,7,affects^cotreatment|increases^secretion; affects^reaction|increases^secretion; decreases^reaction|increases^expression|increases^secretion; decreases^secretion,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+ADIPOQ,9370,7,2,5,affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion; decreases^methylation|increases^abundance,hsa04152,AMPK signaling pathway
+ADIPOQ,9370,7,2,5,affects^cotreatment|increases^expression|increases^reaction; affects^cotreatment|increases^expression|increases^reaction|increases^secretion; affects^cotreatment|increases^reaction|increases^secretion; decreases^methylation|increases^abundance,hsa03320,PPAR signaling pathway
+IL1B,3553,7,2,4,affects^cotreatment|increases^secretion; decreases^reaction|increases^cleavage; increases^abundance|increases^secretion; increases^cleavage,hsa04668,TNF signaling pathway
+IL1B,3553,7,2,4,affects^cotreatment|increases^secretion; decreases^reaction|increases^cleavage; increases^abundance|increases^secretion; increases^cleavage,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+PTEN,5728,7,2,2,affects^cotreatment|affects^reaction|decreases^expression; affects^cotreatment|decreases^expression; affects^cotreatment|increases^expression; decreases^reaction|increases^expression,hsa04931,Insulin resistance
+PTEN,5728,7,2,2,affects^cotreatment|affects^reaction|decreases^expression; affects^cotreatment|decreases^expression; affects^cotreatment|increases^expression; decreases^reaction|increases^expression,hsa04151,PI3K-Akt signaling pathway
+PTEN,5728,7,2,2,affects^cotreatment|affects^reaction|decreases^expression; affects^cotreatment|decreases^expression; affects^cotreatment|increases^expression; decreases^reaction|increases^expression,hsa04068,FoxO signaling pathway
+IL6,3569,6,2,6,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^abundance|increases^secretion,hsa04931,Insulin resistance
+IL6,3569,6,2,6,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^abundance|increases^secretion,hsa04151,PI3K-Akt signaling pathway
+IL6,3569,6,2,6,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^abundance|increases^secretion,hsa04068,FoxO signaling pathway
+IL6,3569,6,2,6,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^abundance|increases^secretion,hsa04668,TNF signaling pathway
+IL6,3569,6,2,6,affects^cotreatment|increases^expression; decreases^expression; decreases^reaction|increases^expression; increases^abundance|increases^secretion,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+MTOR,2475,6,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04910,Insulin signaling pathway
+MTOR,2475,6,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04931,Insulin resistance
+MTOR,2475,6,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04151,PI3K-Akt signaling pathway
+MTOR,2475,6,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04152,AMPK signaling pathway
+SREBF1,6720,6,2,4,affects^expression; decreases^expression; decreases^expression|increases^reaction; increases^expression,hsa04910,Insulin signaling pathway
+SREBF1,6720,6,2,4,affects^expression; decreases^expression; decreases^expression|increases^reaction; increases^expression,hsa04931,Insulin resistance
+SREBF1,6720,6,2,4,affects^expression; decreases^expression; decreases^expression|increases^reaction; increases^expression,hsa04152,AMPK signaling pathway
+CAT,847,5,2,4,affects^cotreatment|increases^expression; decreases^reaction|increases^activity; increases^activity; increases^expression,hsa04068,FoxO signaling pathway
+CDKN1A,1026,5,2,3,decreases^reaction|increases^activity; increases^activity; increases^expression,hsa04151,PI3K-Akt signaling pathway
+CDKN1A,1026,5,2,3,decreases^reaction|increases^activity; increases^activity; increases^expression,hsa04068,FoxO signaling pathway
+CXCL8,3576,5,2,6,affects^cotreatment|increases^secretion; increases^abundance|increases^secretion; increases^expression; increases^secretion,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+GSK3B,2932,5,2,2,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04910,Insulin signaling pathway
+GSK3B,2932,5,2,2,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04931,Insulin resistance
+GSK3B,2932,5,2,2,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04151,PI3K-Akt signaling pathway
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04910,Insulin signaling pathway
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04931,Insulin resistance
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04151,PI3K-Akt signaling pathway
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04152,AMPK signaling pathway
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04068,FoxO signaling pathway
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04668,TNF signaling pathway
+PIK3CA,5290,5,2,2,decreases^reaction|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+ACAA1,30,4,2,2,decreases^expression; increases^abundance|increases^methylation; increases^expression,hsa03320,PPAR signaling pathway
+CASP8,841,4,2,4,affects^cotreatment|increases^expression; increases^activity; increases^expression,hsa04668,TNF signaling pathway
+CCND1,595,4,2,4,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+CCND1,595,4,2,4,decreases^expression; increases^expression,hsa04152,AMPK signaling pathway
+CCND1,595,4,2,4,decreases^expression; increases^expression,hsa04068,FoxO signaling pathway
+CCND1,595,4,2,4,decreases^expression; increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+MAP2K6,5608,4,2,3,decreases^expression; increases^abundance|increases^methylation,hsa04668,TNF signaling pathway
+SLC2A1,6513,4,2,3,decreases^expression; increases^expression,hsa04931,Insulin resistance
+SLC2A4,6517,4,2,3,decreases^expression; decreases^expression|decreases^reaction,hsa04910,Insulin signaling pathway
+SLC2A4,6517,4,2,3,decreases^expression; decreases^expression|decreases^reaction,hsa04931,Insulin resistance
+SLC2A4,6517,4,2,3,decreases^expression; decreases^expression|decreases^reaction,hsa04152,AMPK signaling pathway
+SLC2A4,6517,4,2,3,decreases^expression; decreases^expression|decreases^reaction,hsa04068,FoxO signaling pathway
+ACADM,34,3,2,3,affects^response to substance|increases^expression; decreases^expression; increases^expression,hsa03320,PPAR signaling pathway
+ANGPTL4,51129,3,2,4,decreases^expression; increases^expression; increases^expression|increases^methylation,hsa03320,PPAR signaling pathway
+CASP7,840,3,2,3,increases^activity; increases^expression,hsa04668,TNF signaling pathway
+CASP9,842,3,2,4,increases^activity; increases^expression,hsa04151,PI3K-Akt signaling pathway
+ITGA2,3673,3,2,2,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+LAMC2,3918,3,2,2,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+MDM2,4193,3,2,2,decreases^expression; decreases^phosphorylation; increases^expression,hsa04151,PI3K-Akt signaling pathway
+MDM2,4193,3,2,2,decreases^expression; decreases^phosphorylation; increases^expression,hsa04068,FoxO signaling pathway
+PCK1,5105,3,2,2,increases^expression,hsa04910,Insulin signaling pathway
+PCK1,5105,3,2,2,increases^expression,hsa04931,Insulin resistance
+PCK1,5105,3,2,2,increases^expression,hsa04151,PI3K-Akt signaling pathway
+PCK1,5105,3,2,2,increases^expression,hsa04152,AMPK signaling pathway
+PCK1,5105,3,2,2,increases^expression,hsa03320,PPAR signaling pathway
+PCK1,5105,3,2,2,increases^expression,hsa04068,FoxO signaling pathway
+PCK2,5106,3,2,3,increases^expression,hsa04910,Insulin signaling pathway
+PCK2,5106,3,2,3,increases^expression,hsa04931,Insulin resistance
+PCK2,5106,3,2,3,increases^expression,hsa04151,PI3K-Akt signaling pathway
+PCK2,5106,3,2,3,increases^expression,hsa04152,AMPK signaling pathway
+PCK2,5106,3,2,3,increases^expression,hsa03320,PPAR signaling pathway
+PCK2,5106,3,2,3,increases^expression,hsa04068,FoxO signaling pathway
+PPARGC1A,10891,3,2,2,affects^binding|increases^reaction; decreases^expression,hsa04910,Insulin signaling pathway
+PPARGC1A,10891,3,2,2,affects^binding|increases^reaction; decreases^expression,hsa04931,Insulin resistance
+PPARGC1A,10891,3,2,2,affects^binding|increases^reaction; decreases^expression,hsa04152,AMPK signaling pathway
+TLR4,7099,3,2,3,affects^reaction|decreases^reaction|increases^expression; decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+ACACB,32,2,2,2,decreases^expression; increases^expression,hsa04910,Insulin signaling pathway
+ACACB,32,2,2,2,decreases^expression; increases^expression,hsa04931,Insulin resistance
+ACACB,32,2,2,2,decreases^expression; increases^expression,hsa04152,AMPK signaling pathway
+AGAP2,116986,2,2,1,decreases^methylation|increases^abundance,hsa04068,FoxO signaling pathway
+ATP6,4508,2,2,2,decreases^expression,hsa00190,Oxidative phosphorylation
+ATP6V1G1,9550,2,2,1,decreases^methylation|increases^abundance,hsa00190,Oxidative phosphorylation
+CCL2,6347,2,2,2,decreases^expression; increases^secretion,hsa04668,TNF signaling pathway
+CCL2,6347,2,2,2,decreases^expression; increases^secretion,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+CCNA1,8900,2,2,2,decreases^expression,hsa04152,AMPK signaling pathway
+CEBPB,1051,2,2,2,increases^expression,hsa04668,TNF signaling pathway
+DAB2IP,153090,2,2,1,increases^abundance|increases^methylation,hsa04668,TNF signaling pathway
+DDIT4,54541,2,2,2,increases^expression,hsa04151,PI3K-Akt signaling pathway
+EFNA3,1944,2,2,1,increases^abundance|increases^methylation,hsa04151,PI3K-Akt signaling pathway
+FABP4,2167,2,2,2,affects^cotreatment|increases^expression|increases^reaction; increases^expression,hsa03320,PPAR signaling pathway
+FABP5,2171,2,2,2,increases^expression,hsa03320,PPAR signaling pathway
+FBXO32,114907,2,2,1,increases^abundance|increases^methylation,hsa04068,FoxO signaling pathway
+FGF9,2254,2,2,1,increases^abundance|increases^methylation,hsa04151,PI3K-Akt signaling pathway
+FGFR1,2260,2,2,2,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+G6PC1,2538,2,2,2,decreases^expression; increases^expression,hsa04910,Insulin signaling pathway
+G6PC1,2538,2,2,2,decreases^expression; increases^expression,hsa04931,Insulin resistance
+G6PC1,2538,2,2,2,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+G6PC1,2538,2,2,2,decreases^expression; increases^expression,hsa04152,AMPK signaling pathway
+G6PC1,2538,2,2,2,decreases^expression; increases^expression,hsa04068,FoxO signaling pathway
+ICAM1,3383,2,2,2,decreases^expression; increases^expression,hsa04668,TNF signaling pathway
+ICAM1,3383,2,2,2,decreases^expression; increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+IFNA2,3440,2,2,1,increases^abundance|increases^methylation,hsa04151,PI3K-Akt signaling pathway
+INPP5A,3632,2,2,1,increases^abundance|increases^methylation,hsa04910,Insulin signaling pathway
+LPL,4023,2,2,2,increases^expression,hsa03320,PPAR signaling pathway
+MAPK8,5599,2,2,3,affects^phosphorylation; increases^phosphorylation,hsa04910,Insulin signaling pathway
+MAPK8,5599,2,2,3,affects^phosphorylation; increases^phosphorylation,hsa04931,Insulin resistance
+MAPK8,5599,2,2,3,affects^phosphorylation; increases^phosphorylation,hsa04068,FoxO signaling pathway
+MAPK8,5599,2,2,3,affects^phosphorylation; increases^phosphorylation,hsa04668,TNF signaling pathway
+MAPK8,5599,2,2,3,affects^phosphorylation; increases^phosphorylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+OSMR,9180,2,2,2,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+PIK3CG,5294,2,2,1,increases^abundance|increases^methylation,hsa04151,PI3K-Akt signaling pathway
+PLCD1,5333,2,2,1,decreases^methylation|increases^abundance,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+PLIN2,123,2,2,2,increases^expression; increases^expression|increases^reaction,hsa03320,PPAR signaling pathway
+PPARD,5467,2,2,2,increases^activity; increases^expression,hsa03320,PPAR signaling pathway
+PRKCZ,5590,2,2,1,increases^abundance|increases^methylation,hsa04910,Insulin signaling pathway
+PRKCZ,5590,2,2,1,increases^abundance|increases^methylation,hsa04931,Insulin resistance
+PRKCZ,5590,2,2,1,increases^abundance|increases^methylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+RXRA,6256,2,2,1,affects^binding,hsa04151,PI3K-Akt signaling pathway
+RXRA,6256,2,2,1,affects^binding,hsa03320,PPAR signaling pathway
+RXRB,6257,2,2,1,affects^binding,hsa03320,PPAR signaling pathway
+RXRG,6258,2,2,2,affects^binding; decreases^expression,hsa03320,PPAR signaling pathway
+SERPINE1,5054,2,2,2,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+SGK1,6446,2,2,2,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+SGK1,6446,2,2,2,decreases^expression; increases^expression,hsa04068,FoxO signaling pathway
+TBC1D1,23216,2,2,1,increases^abundance|increases^methylation,hsa04152,AMPK signaling pathway
+TNR,7143,2,2,1,decreases^methylation|increases^abundance,hsa04151,PI3K-Akt signaling pathway
+TRIB3,57761,2,2,2,increases^expression,hsa04931,Insulin resistance
+FOXO3,2309,7,1,1,affects^localization|decreases^phosphorylation|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04151,PI3K-Akt signaling pathway
+FOXO3,2309,7,1,1,affects^localization|decreases^phosphorylation|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04152,AMPK signaling pathway
+FOXO3,2309,7,1,1,affects^localization|decreases^phosphorylation|increases^expression; increases^expression; increases^expression|increases^reaction,hsa04068,FoxO signaling pathway
+RPS6KB1,6198,5,1,2,decreases^expression; decreases^reaction|increases^expression; increases^expression,hsa04910,Insulin signaling pathway
+RPS6KB1,6198,5,1,2,decreases^expression; decreases^reaction|increases^expression; increases^expression,hsa04931,Insulin resistance
+RPS6KB1,6198,5,1,2,decreases^expression; decreases^reaction|increases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+RPS6KB1,6198,5,1,2,decreases^expression; decreases^reaction|increases^expression; increases^expression,hsa04152,AMPK signaling pathway
+CCNE1,898,4,1,2,affects^reaction|increases^expression; decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+COX4I1,1327,4,1,1,affects^cotreatment|decreases^reaction|increases^degradation; affects^cotreatment|increases^degradation; affects^cotreatment|increases^degradation|increases^reaction,hsa00190,Oxidative phosphorylation
+IRF1,3659,4,1,1,increases^expression; increases^expression|increases^reaction,hsa04668,TNF signaling pathway
+IRS1,3667,4,1,1,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04910,Insulin signaling pathway
+IRS1,3667,4,1,1,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04931,Insulin resistance
+IRS1,3667,4,1,1,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04151,PI3K-Akt signaling pathway
+IRS1,3667,4,1,1,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04152,AMPK signaling pathway
+IRS1,3667,4,1,1,decreases^activity|decreases^phosphorylation; decreases^activity|decreases^phosphorylation|increases^reaction; decreases^phosphorylation; decreases^phosphorylation|increases^reaction,hsa04068,FoxO signaling pathway
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction,hsa04910,Insulin signaling pathway
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction,hsa04931,Insulin resistance
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction,hsa04151,PI3K-Akt signaling pathway
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction,hsa04152,AMPK signaling pathway
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction,hsa04068,FoxO signaling pathway
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction,hsa04668,TNF signaling pathway
+PIK3R1,5295,4,1,2,decreases^phosphorylation; decreases^phosphorylation|increases^reaction; increases^expression; increases^expression|increases^reaction,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+TNFAIP3,7128,4,1,2,affects^reaction|decreases^reaction|increases^expression; decreases^reaction|increases^expression; increases^expression,hsa04668,TNF signaling pathway
+ACACA,31,3,1,2,affects^expression; decreases^expression,hsa04910,Insulin signaling pathway
+ACACA,31,3,1,2,affects^expression; decreases^expression,hsa04152,AMPK signaling pathway
+CSF1R,1436,3,1,2,affects^cotreatment|decreases^expression; decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+FASN,2194,3,1,3,affects^expression; increases^expression,hsa04910,Insulin signaling pathway
+FASN,2194,3,1,3,affects^expression; increases^expression,hsa04152,AMPK signaling pathway
+KRAS,3845,3,1,1,affects^reaction|increases^phosphorylation,hsa04910,Insulin signaling pathway
+KRAS,3845,3,1,1,affects^reaction|increases^phosphorylation,hsa04151,PI3K-Akt signaling pathway
+KRAS,3845,3,1,1,affects^reaction|increases^phosphorylation,hsa04068,FoxO signaling pathway
+KRAS,3845,3,1,1,affects^reaction|increases^phosphorylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+SCD,6319,3,1,3,affects^expression; increases^expression,hsa04152,AMPK signaling pathway
+SCD,6319,3,1,3,affects^expression; increases^expression,hsa03320,PPAR signaling pathway
+ACSL1,2180,2,1,1,decreases^expression; increases^expression,hsa03320,PPAR signaling pathway
+ATM,472,2,1,1,decreases^reaction|increases^expression; decreases^reaction|increases^expression|increases^reaction,hsa04068,FoxO signaling pathway
+CXCL3,2921,2,1,1,affects^cotreatment|increases^expression; increases^expression,hsa04668,TNF signaling pathway
+CXCL5,6374,2,1,1,decreases^reaction|increases^expression; increases^expression,hsa04668,TNF signaling pathway
+GCK,2645,2,1,2,affects^expression; decreases^expression,hsa04910,Insulin signaling pathway
+HOMER2,9455,2,1,2,decreases^expression; increases^expression,hsa04068,FoxO signaling pathway
+IL4,3565,2,1,1,decreases^reaction|increases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+ITGB6,3694,2,1,1,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+MAP2K1,5604,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction,hsa04910,Insulin signaling pathway
+MAP2K1,5604,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction,hsa04151,PI3K-Akt signaling pathway
+MAP2K1,5604,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction,hsa04068,FoxO signaling pathway
+MAP2K1,5604,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction,hsa04668,TNF signaling pathway
+MAP2K2,5605,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction,hsa04910,Insulin signaling pathway
+MAP2K2,5605,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction,hsa04151,PI3K-Akt signaling pathway
+MAP2K2,5605,2,1,1,decreases^phosphorylation; decreases^phosphorylation|decreases^reaction,hsa04068,FoxO signaling pathway
+NR1H3,10062,2,1,3,affects^binding|increases^activity|increases^reaction; increases^expression,hsa04931,Insulin resistance
+NR1H3,10062,2,1,3,affects^binding|increases^activity|increases^reaction; increases^expression,hsa03320,PPAR signaling pathway
+NR4A1,3164,2,1,2,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+PPP2CA,5515,2,1,1,decreases^expression|increases^activity; decreases^reaction|increases^activity,hsa04151,PI3K-Akt signaling pathway
+PPP2CA,5515,2,1,1,decreases^expression|increases^activity; decreases^reaction|increases^activity,hsa04152,AMPK signaling pathway
+PRKCE,5581,2,1,1,affects^reaction|increases^expression; increases^expression,hsa04931,Insulin resistance
+PRKCE,5581,2,1,1,affects^reaction|increases^expression; increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+SIRT1,23411,2,1,2,decreases^expression,hsa04152,AMPK signaling pathway
+SIRT1,23411,2,1,2,decreases^expression,hsa04068,FoxO signaling pathway
+SLC27A6,28965,2,1,1,decreases^expression; increases^expression,hsa04931,Insulin resistance
+SLC27A6,28965,2,1,1,decreases^expression; increases^expression,hsa03320,PPAR signaling pathway
+TNC,3371,2,1,1,decreases^expression; increases^expression,hsa04151,PI3K-Akt signaling pathway
+TNFRSF1B,7133,2,1,1,affects^cotreatment|increases^expression; increases^expression,hsa04668,TNF signaling pathway
+TNFSF10,8743,2,1,2,decreases^expression; decreases^expression|increases^methylation,hsa04068,FoxO signaling pathway
+ACSL3,2181,1,1,1,increases^expression,hsa03320,PPAR signaling pathway
+ACSL5,51703,1,1,1,increases^expression,hsa03320,PPAR signaling pathway
+ADIPOR2,79602,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+AGT,183,1,1,1,decreases^expression,hsa04931,Insulin resistance
+AGT,183,1,1,1,decreases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+AKT1S1,84335,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+ANGPT2,285,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+ANGPT4,51378,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+AQP7,364,1,1,1,increases^expression,hsa03320,PPAR signaling pathway
+ATP12A,479,1,1,1,increases^expression,hsa00190,Oxidative phosphorylation
+ATP6V1B1,525,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+ATP6V1E1,529,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+ATP8,4509,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+CASP10,843,1,1,1,decreases^expression,hsa04668,TNF signaling pathway
+CCL20,6364,1,1,1,affects^cotreatment|decreases^expression,hsa04668,TNF signaling pathway
+CCNA2,890,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+CCND3,896,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+CCNE2,9134,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+CCNG2,901,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+CD19,930,1,1,2,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+CD36,948,1,1,1,increases^expression,hsa04931,Insulin resistance
+CD36,948,1,1,1,increases^expression,hsa04152,AMPK signaling pathway
+CD36,948,1,1,1,increases^expression,hsa03320,PPAR signaling pathway
+CDC42,998,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+CDK6,1021,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+CDKN2B,1030,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+COL1A1,1277,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+COL1A1,1277,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+COL3A1,1281,1,1,1,decreases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+COL4A2,1284,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+COL4A2,1284,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+COL4A6,1288,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+COL4A6,1288,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+COL9A2,1298,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+COMP,1311,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+COX1,4512,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+COX2,4513,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+COX3,4514,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+CREB3,10488,1,1,1,increases^expression,hsa04931,Insulin resistance
+CREB3,10488,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+CREB3,10488,1,1,1,increases^expression,hsa04152,AMPK signaling pathway
+CREB3,10488,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+CREB3L1,90993,1,1,1,increases^expression,hsa04931,Insulin resistance
+CREB3L1,90993,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+CREB3L1,90993,1,1,1,increases^expression,hsa04152,AMPK signaling pathway
+CREB3L1,90993,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+CREB3L2,64764,1,1,1,decreases^expression,hsa04931,Insulin resistance
+CREB3L2,64764,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+CREB3L2,64764,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+CREB3L2,64764,1,1,1,decreases^expression,hsa04668,TNF signaling pathway
+CREBBP,1387,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+CXCL1,2919,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+CXCL10,3627,1,1,1,affects^cotreatment|increases^expression,hsa04668,TNF signaling pathway
+CYCS,54205,1,1,1,increases^expression,hsa00190,Oxidative phosphorylation
+DIAPH1,1729,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+DNM1L,10059,1,1,1,affects^cotreatment|affects^phosphorylation,hsa04668,TNF signaling pathway
+EFNA1,1942,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+EFNA5,1946,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+EGFR,1956,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+EGFR,1956,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+EGR1,1958,1,1,1,decreases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+EHHADH,1962,1,1,1,affects^response to substance|increases^expression,hsa03320,PPAR signaling pathway
+EP300,2033,1,1,1,affects^binding|increases^reaction,hsa04068,FoxO signaling pathway
+EPO,2056,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+ERBB3,2065,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+FABP1,2168,1,1,1,decreases^expression|decreases^reaction,hsa03320,PPAR signaling pathway
+FABP3,2170,1,1,1,increases^expression,hsa03320,PPAR signaling pathway
+FAS,355,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+FBP2,8789,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+FBP2,8789,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+FGF1,2246,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+FGF18,8817,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+FGF19,9965,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+FGF4,2249,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+FGF7,2252,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+FGF8,2253,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+FLT1,2321,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+FLT4,2324,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+FOS,2353,1,1,1,decreases^expression,hsa04668,TNF signaling pathway
+FOXG1,2290,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+FOXO1,2308,1,1,1,decreases^phosphorylation,hsa04910,Insulin signaling pathway
+FOXO1,2308,1,1,1,decreases^phosphorylation,hsa04931,Insulin resistance
+FOXO1,2308,1,1,1,decreases^phosphorylation,hsa04152,AMPK signaling pathway
+FOXO1,2308,1,1,1,decreases^phosphorylation,hsa04068,FoxO signaling pathway
+FOXO1,2308,1,1,1,decreases^phosphorylation,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+GADD45G,10912,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+GDNF,2668,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+GHR,2690,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+GNG11,2791,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+GNG2,54331,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+GNG7,2788,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+GYS1,2997,1,1,1,increases^phosphorylation,hsa04910,Insulin signaling pathway
+GYS1,2997,1,1,1,increases^phosphorylation,hsa04931,Insulin resistance
+GYS1,2997,1,1,1,increases^phosphorylation,hsa04151,PI3K-Akt signaling pathway
+GYS1,2997,1,1,1,increases^phosphorylation,hsa04152,AMPK signaling pathway
+HK2,3099,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+HMGCR,3156,1,1,1,increases^expression,hsa04152,AMPK signaling pathway
+HMGCS2,3158,1,1,1,decreases^expression,hsa03320,PPAR signaling pathway
+IGF1,3479,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+IGF1,3479,1,1,1,increases^expression,hsa04152,AMPK signaling pathway
+IGF1,3479,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+IKBKG,8517,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+IKBKG,8517,1,1,1,decreases^expression,hsa04668,TNF signaling pathway
+IL2RB,3560,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+IL3RA,3563,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+IL4R,3566,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+INSR,3643,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+INSR,3643,1,1,1,decreases^expression,hsa04931,Insulin resistance
+INSR,3643,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+INSR,3643,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+INSR,3643,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+IRS4,8471,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+IRS4,8471,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+IRS4,8471,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+ITGA10,8515,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+ITGA11,22801,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+ITGA3,3675,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+ITGA6,3655,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+ITGA7,3679,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+ITGB3,3690,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+JAG1,182,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+LAMA4,3910,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+LEP,3952,1,1,1,decreases^secretion,hsa04152,AMPK signaling pathway
+LHPP,64077,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+LIF,3976,1,1,2,increases^expression,hsa04668,TNF signaling pathway
+LIPE,3991,1,1,1,increases^expression,hsa04910,Insulin signaling pathway
+LIPE,3991,1,1,1,increases^expression,hsa04152,AMPK signaling pathway
+LPAR4,2846,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+LPAR5,57121,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+MAPK10,5602,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+MAPK10,5602,1,1,1,decreases^expression,hsa04931,Insulin resistance
+MAPK10,5602,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+MAPK10,5602,1,1,1,decreases^expression,hsa04668,TNF signaling pathway
+MAPK10,5602,1,1,1,decreases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+ME1,4199,1,1,1,increases^expression,hsa03320,PPAR signaling pathway
+MET,4233,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+MLXIPL,51085,1,1,1,affects^expression,hsa04931,Insulin resistance
+MYB,4602,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+NDUFA3,4696,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+NDUFA7,4701,1,1,2,decreases^expression,hsa00190,Oxidative phosphorylation
+NDUFB4,4710,1,1,1,decreases^expression,hsa00190,Oxidative phosphorylation
+NDUFB7,4713,1,1,1,increases^expression,hsa00190,Oxidative phosphorylation
+NFKB1,4790,1,1,1,increases^expression,hsa04931,Insulin resistance
+NFKB1,4790,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+NFKB1,4790,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+NFKB1,4790,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+NGF,4803,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+NOX1,27035,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+NR1H2,7376,1,1,1,affects^binding|increases^activity|increases^reaction,hsa04931,Insulin resistance
+OLR1,4973,1,1,1,decreases^expression,hsa03320,PPAR signaling pathway
+PDE3B,5140,1,1,1,increases^expression,hsa04910,Insulin signaling pathway
+PDGFD,80310,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+PFKL,5211,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+PFKP,5214,1,1,1,increases^expression,hsa04152,AMPK signaling pathway
+PLIN4,729359,1,1,1,increases^expression,hsa03320,PPAR signaling pathway
+PLIN5,440503,1,1,1,decreases^expression,hsa03320,PPAR signaling pathway
+PLK2,10769,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+PPP1CB,5500,1,1,1,increases^expression,hsa04910,Insulin signaling pathway
+PPP1CB,5500,1,1,1,increases^expression,hsa04931,Insulin resistance
+PPP1R3C,5507,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+PPP1R3C,5507,1,1,1,decreases^expression,hsa04931,Insulin resistance
+PPP2R2B,5521,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+PPP2R2B,5521,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+PPP2R2D,55844,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+PPP2R2D,55844,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+PRKAG2,51422,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+PRKAG2,51422,1,1,1,decreases^expression,hsa04931,Insulin resistance
+PRKAG2,51422,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+PRKAG2,51422,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+PRKAR2B,5577,1,1,1,increases^expression,hsa04910,Insulin signaling pathway
+PRKCA,5578,1,1,1,affects^reaction|decreases^reaction|increases^expression,hsa04151,PI3K-Akt signaling pathway
+PRKCA,5578,1,1,1,affects^reaction|decreases^reaction|increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+PRKCB,5579,1,1,1,affects^reaction|decreases^reaction|increases^expression,hsa04931,Insulin resistance
+PRKCB,5579,1,1,1,affects^reaction|decreases^reaction|increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+PRKCD,5580,1,1,1,affects^reaction|decreases^reaction|increases^expression,hsa04931,Insulin resistance
+PRKCD,5580,1,1,1,affects^reaction|decreases^reaction|increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+PRLR,5618,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+PYGL,5836,1,1,1,increases^expression,hsa04910,Insulin signaling pathway
+PYGL,5836,1,1,1,increases^expression,hsa04931,Insulin resistance
+PYGM,5837,1,1,1,decreases^expression,hsa04910,Insulin signaling pathway
+PYGM,5837,1,1,1,decreases^expression,hsa04931,Insulin resistance
+RAB11B,9230,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+RAB2A,5862,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+RET,5979,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+RHBDF2,79651,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+RPS6KA4,8986,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+S1PR1,1901,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+SCD5,79966,1,1,1,decreases^expression,hsa04152,AMPK signaling pathway
+SCD5,79966,1,1,1,decreases^expression,hsa03320,PPAR signaling pathway
+SGK2,10110,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+SGK2,10110,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+SLC27A3,11000,1,1,1,increases^expression,hsa04931,Insulin resistance
+SPP1,6696,1,1,2,increases^expression,hsa04151,PI3K-Akt signaling pathway
+TGFB1,7040,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+TGFB1,7040,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+TGFB2,7042,1,1,1,decreases^expression,hsa04068,FoxO signaling pathway
+TGFB2,7042,1,1,1,decreases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+TGFBR2,7048,1,1,1,increases^expression,hsa04068,FoxO signaling pathway
+TGFBR2,7048,1,1,1,increases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+THBS1,7057,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway
+THBS4,7060,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+TPTEP2-CSNK1E,102800317,1,1,1,affects^cotreatment|affects^expression,hsa04068,FoxO signaling pathway
+TRADD,8717,1,1,1,increases^expression,hsa04668,TNF signaling pathway
+TRAF1,7185,1,1,1,decreases^expression,hsa04668,TNF signaling pathway
+UCP1,7350,1,1,1,decreases^expression,hsa03320,PPAR signaling pathway
+VEGFD,2277,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+VEGFD,2277,1,1,1,decreases^expression,hsa04668,TNF signaling pathway
+VEGFD,2277,1,1,1,decreases^expression,hsa04933,AGE-RAGE signaling pathway in diabetic complications
+VTN,7448,1,1,1,decreases^expression,hsa04151,PI3K-Akt signaling pathway
+YWHAE,7531,1,1,1,increases^expression,hsa04151,PI3K-Akt signaling pathway

@@ -1,0 +1,3 @@
+model,mixture_set,outcome,n,status,error
+BKMR_weighted_subsample_exploratory_iter1000,dehp_raw_four_monomers,response_vulnerability_index,600,completed,NA
+BKMR_weighted_subsample_exploratory_iter1000,dehp_raw_four_monomers,ln_HOMA_IR,600,completed,NA

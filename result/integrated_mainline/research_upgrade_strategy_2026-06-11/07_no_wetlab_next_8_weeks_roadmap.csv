@@ -1,0 +1,9 @@
+﻿week,focus,computer_tasks,success_metric
+Week 1,重写研究问题和claim hierarchy,完成题目、摘要、DAG、证据链图、允许/禁止结论清单; 固化变量字典。,任何一段讨论都不再出现直接DEHP-to-PPGR因果化表述。
+Week 2,NHANES稳健性补强,下载/核对周期变量; survey加权; creatinine/LOD/缺失处理; 单暴露+混合物模型。,输出一张主结果表、一张混合物图、一张敏感性矩阵。
+Week 3,MSI构念效度,构建exposure-facing MSI和response-vulnerability index; PCA/因子/留一域; 分布校准。,主结论在至少2种MSI版本中方向一致或解释清楚。
+Week 4,CGMacros层级PPGR模型,重算餐次窗口; functional curve features; mixed models; cluster bootstrap。,所有关键P值/CI以受试者聚类不确定性为准。
+Week 5,食物基质与FDC,制定codebook; 半自动FDC匹配; 标注一致性; 消化可得性评分。,评分在碳水量调整后仍有增量解释或明确无增量。
+Week 6,外部边界验证,下载Stanford CGM数据; 对齐CGM表型; 完成transportability/boundary report。,至少一个外部数据集完成可比或不可比的正式边界结论。
+Week 7,机制网络,CompTox/CTD基因集; 通路富集; DEHP-oxidative stress-insulin signaling网络图。,每条机制边均可追溯到数据库或文献来源。
+Week 8,论文升级和审稿预防,按AJCN/Nature Food风格重写全文; TRIPOD+AI/STROBE/PRISMA补充材料; 重做图表说明。,主文只保留4-6个强图; 补充材料承载全部敏感性和方法透明度。

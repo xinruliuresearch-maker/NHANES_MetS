@@ -1,0 +1,7 @@
+﻿dataset,index_a,index_b,n_pairwise,pearson_r
+NHANES,non_glycemic_msi,exposure_facing_msi,5229,0.9849330809628656
+NHANES,non_glycemic_msi,response_vulnerability_index,5229,0.8226308382334359
+NHANES,non_glycemic_msi,msi_core_partial,2490,0.768214237301871
+NHANES,non_glycemic_msi,msi_no_bmi,2465,0.6404008311250472
+CGMacros,non_glycemic_msi,exposure_facing_msi,1498,0.9756576076182986
+CGMacros,non_glycemic_msi,response_vulnerability_index,1498,0.8353473930797374

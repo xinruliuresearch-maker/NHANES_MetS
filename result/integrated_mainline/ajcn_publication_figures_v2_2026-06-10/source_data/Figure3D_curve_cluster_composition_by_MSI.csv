@@ -1,0 +1,13 @@
+msi_core_tertile_within_dataset,shape_cluster_label,n,prop
+high,delayed_peak,175,0.39149888143176736
+high,high_peak_fast_recovery,92,0.2058165548098434
+high,large_prolonged_response,101,0.22595078299776286
+high,low_stable_response,79,0.1767337807606264
+low,delayed_peak,185,0.32456140350877194
+low,high_peak_fast_recovery,179,0.3140350877192982
+low,large_prolonged_response,55,0.09649122807017543
+low,low_stable_response,151,0.2649122807017544
+middle,delayed_peak,177,0.367983367983368
+middle,high_peak_fast_recovery,160,0.33264033264033266
+middle,large_prolonged_response,59,0.12266112266112267
+middle,low_stable_response,85,0.17671517671517672

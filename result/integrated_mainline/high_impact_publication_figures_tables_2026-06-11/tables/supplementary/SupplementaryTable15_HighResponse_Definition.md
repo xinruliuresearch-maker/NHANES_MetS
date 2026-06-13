@@ -1,0 +1,14 @@
+| source_table | definition | msi_tertile | n_meals | n_subjects | high_rate |
+| --- | --- | --- | --- | --- | --- |
+| cg_threshold | high_iauc_population | high | 447 | 13 | 0.3154362416107382 |
+| cg_threshold | high_iauc_population | low | 570 | 14 | 0.1842105263157894 |
+| cg_threshold | high_iauc_population | middle | 481 | 13 | 0.2681912681912682 |
+| cg_threshold | high_iauc_subject_specific | high | 447 | 13 | 0.2639821029082774 |
+| cg_threshold | high_iauc_subject_specific | low | 570 | 14 | 0.2614035087719298 |
+| cg_threshold | high_iauc_subject_specific | middle | 481 | 13 | 0.2598752598752599 |
+| cg_threshold | high_peak_population | high | 447 | 13 | 0.3355704697986577 |
+| cg_threshold | high_peak_population | low | 570 | 14 | 0.1736842105263158 |
+| cg_threshold | high_peak_population | middle | 481 | 13 | 0.2619542619542619 |
+| cg_threshold | high_peak_absolute40 | high | 447 | 13 | 0.5995525727069351 |
+| cg_threshold | high_peak_absolute40 | low | 570 | 14 | 0.4385964912280701 |
+| cg_threshold | high_peak_absolute40 | middle | 481 | 13 | 0.5925155925155925 |

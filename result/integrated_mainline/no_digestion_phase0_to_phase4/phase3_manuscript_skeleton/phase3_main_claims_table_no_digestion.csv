@@ -1,0 +1,6 @@
+﻿claim_order,claim,figure,strength,caution
+1,DEHP oxidative metabolic profile is associated with MSI/HOMA/HbA1c in NHANES.,Figure 2,strong association,cross-sectional
+2,MSI predicts free-living PPGR vulnerability in CGMacros.,Figure 3,strong internal evidence,40 subjects
+3,Food matrix/digestibility-risk proxy and MSI interact for PPGR outcomes.,Figure 4,high-interest exploratory,proxy annotation
+4,MSI-enhanced models improve high-response meal prediction.,Figure 5,moderate-strong prediction evidence,"risk stratification, not clinical deployment"
+5,External CGM datasets define transportability boundaries.,Figure 5 / Supplement,supportive,not direct MSI validation

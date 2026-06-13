@@ -1,0 +1,10 @@
+﻿module,task,input_data,method,deliverable,manuscript_value
+D1,R正式混合物模型复核,NHANES phthalate/metabolic dataset,"survey GLM, qgcomp, gWQS, bkmr, RCS, E-value, FDR","R scripts, model result CSV, WQS/qgcomp/BKMR/RCS figures",把暴露主证据从Python近似提升为方法学正式实现。
+D2,MSI构念独立性压力测试,NHANES + CGMacros dual MSI datasets,"non-glycemic MSI, leave-one-component-out, partial residuals, bootstrap correlations",MSI sensitivity tables and construct diagram,防止审稿人质疑循环论证。
+D3,CGMacros人工食物基质标注体系,CGMacros meal images/metadata,"two-rater blinded annotation, adjudication, kappa/ICC, FDC item matching","codebook v2, annotation sheet, agreement table, food matrix score v2",把食物基质创新点从proxy提升为可复核营养表型。
+D4,Subject-disjoint模型稳健性再强化,CGMacros meal-level PPGR features,"nested CV, subject bootstrap, mixed-effects inference, calibration curves, residual diagnostics",prediction/inference package and TRIPOD+AI appendix,降低模型泄漏和过拟合质疑。
+D5,外部CGM数据扩展验证,"Stanford CGM, D1NAMO, other public CGM if accessible","standard PPGR feature extraction, harmonized validation, transportability analysis",external validation matrix and figures,把单一边界验证升级为跨数据可迁移性证据。
+D6,GEO/CompTox毒理组学机制补强,"CTD, CompTox/ToxCast, GEO/ArrayExpress DEHP/MEHP datasets","chemical synonym search, assay endpoint mapping, differential expression, pathway overlap","mechanistic evidence network, enrichment tables, reproducible query manifest",把机制讨论从数据库共现提升为方向性机制支持。
+D7,负对照和定量偏倚分析,NHANES outcomes/exposures and covariates,"negative control outcome/exposure, bias functions, E-value by outcome",bias analysis supplement and reviewer prebuttal,增强观察性暴露结果可信度。
+D8,Target-trial式营养替换模拟,CGMacros annotated meals,define emulated interventions: high digestibility to protected matrix within carbohydrate bands; estimate within-subject/cross-subject contrasts,emulated substitution effect tables and plots,让食物基质结果更接近可干预营养问题。
+D9,主文重写和图表重排,All result packages,"claim hierarchy, figure economy, limitations upfront, supplementary completeness",AJCN/Nature Food style manuscript skeleton and figure captions,把分散模块统一成高水平论文叙事。

@@ -1,0 +1,8 @@
+﻿reviewer_concern,best_response,needed_analysis
+"你们没有同一批受试者同时测DEHP和PPGR, 为什么能把两者放在一起?","承认不是直接中介或同一样本因果链, 将设计定义为cross-dataset bridge-phenotype triangulation。NHANES提供环境暴露-代谢易感性证据, CGMacros验证代谢易感性对PPGR的动态意义, 机制数据库和食物基质分析提供生物学可行性。",Claim hierarchy; bias-structure table; no direct mediation wording.
+NHANES横断面暴露可能被饮食、肥胖和尿液稀释混杂。,"使用复杂抽样权重、多种尿液稀释处理、分层、负对照、E-value和混合物模型, 并将结论限定为关联和易感表型。",Creatinine sensitivity; RCS; qgcomp/WQS/BKMR; E-value.
+"CGMacros只有45人, 餐次级N不能代表真实统计功效。","主推断以受试者为聚类单位, 使用层级模型和受试者层留出验证, 餐次级样本只作为重复测量提高表型估计精度。",Mixed models; cluster bootstrap; leave-subject-out validation.
+MSI像事后构造的指数。,"预先定义MSI构建规则, 报告PCA/因子载荷、内部一致性、留一域敏感性和跨数据分布校准, 并提供不含近端糖代谢变量的版本。",Construct validity and sensitivity report.
+食物基质评分主观。,"提供标注手册、双人标注一致性、FDC客观营养变量和消化文献支持, 将其作为解释性增强而非单独因果证据。",Codebook; inter-rater reliability; FDC linkage.
+"机器学习模型过拟合, 预测价值不清楚。","按TRIPOD+AI和PROBAST+AI报告, 用subject-disjoint nested CV、校准、决策曲线、置信区间和模型卡展示透明度。",TRIPOD+AI checklist; PROBAST+AI self-assessment; calibration and decision curves.
+机制只是推测。,"把机制定位为plausibility layer, 使用CTD/CompTox/Reactome/KEGG/STRING等可复核数据库生成证据网络, 不声称直接机制被证明。",Database-backed mechanism network and enrichment.

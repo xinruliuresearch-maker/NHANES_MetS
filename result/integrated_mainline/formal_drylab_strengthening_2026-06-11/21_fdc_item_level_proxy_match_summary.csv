@@ -1,0 +1,2 @@
+﻿n_meals,n_unique_queries,n_assigned_fdc_id,median_match_confidence,requires_manual_review_n,guardrail
+1498,6,0,nan,1498,FDC item-level proxy matching is based on category query plus macro-profile distance because full CGMacros ingredient text is unavailable.

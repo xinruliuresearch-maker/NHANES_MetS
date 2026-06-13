@@ -1,0 +1,27 @@
+[
+  {
+    "phase": "0",
+    "files": 3,
+    "summary": "scope, registry, and overclaim guardrails completed"
+  },
+  {
+    "phase": "1",
+    "files": 3,
+    "summary": "dataset inventory, evidence grades, and source crosswalk completed"
+  },
+  {
+    "phase": "2",
+    "files": 14,
+    "summary": "manuscript tables, figure data, and draft figures completed"
+  },
+  {
+    "phase": "3",
+    "files": 4,
+    "summary": "title options, claims table, abstract, outline, and storyboard completed"
+  },
+  {
+    "phase": "4",
+    "files": 5,
+    "summary": "submission readiness, limitations, reporting checklist, journal positioning, and next actions completed"
+  }
+]

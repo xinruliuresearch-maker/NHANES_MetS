@@ -1,0 +1,6 @@
+﻿old_claim,new_claim,where_in_paper
+DEHP directly causes abnormal PPGR.,Avoid. Current cross-dataset evidence cannot support direct DEHP-to-PPGR causality.,"Do not use in title, abstract or conclusion."
+DEHP-related mixture is associated with metabolic susceptibility.,Supportable after raw monomer mixture rebuild; current derived metrics are supportive but not final.,Results 1 and Figure 2.
+MSI predicts PPGR.,Response-vulnerability MSI predicts PPGR; non-glycemic MSI is a conservative sensitivity with weaker performance.,Results 2-3 and Supplement.
+External validation confirms the model.,Stanford provides boundary/molecular validation; D1NAMO and Jaeb define transportability limits.,Results 4 and Discussion limitations.
+Mechanism network proves biological mechanism.,CTD/CompTox/GEO/Reactome/KEGG provide biological plausibility and direction-concordant toxicogenomic support.,Results 5 and Discussion.

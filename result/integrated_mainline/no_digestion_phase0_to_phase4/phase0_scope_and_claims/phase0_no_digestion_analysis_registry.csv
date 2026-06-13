@@ -1,0 +1,6 @@
+﻿phase,analysis_unit,question,input,output,status
+0,scope,What is the no-digestion manuscript claim space?,completed Phase 0-5 and dry-lab booster outputs,"scope, analysis registry, overclaim guardrails",completed
+1,evidence audit,"Which current results are main, supplementary, or exploratory?",all key result CSV files,evidence grade and crosswalk,completed
+2,tables/figures,What are the manuscript-ready tables and figure datasets?,"NHANES, CGMacros, prediction, external boundary result tables","main tables, figure data, draft figures",completed
+3,manuscript skeleton,How should the no-digestion paper be written?,evidence grade and tables,"abstract, title options, outline, figure storyboard",completed
+4,submission readiness,What remains before submission if digestion experiments are excluded?,all Phase 0-3 outputs,"readiness audit, limitations, checklists, next actions",completed

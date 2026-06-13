@@ -1,0 +1,6 @@
+dataset,comparison,panel,n_panel_genes_available,n_fdr_0_05,n_up,n_down,median_logFC,leading_genes
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,insulin_resistance,11,0,0,0,-0.09364983534241245,IRS1|SOCS3|JUN|PIK3R1|GSK3B|IRS2|FOXO1|INSR|AKT2|AKT1
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,lipid_ppar,12,3,1,2,-0.16885360030663665,CPT1A|CD36|FABP4|RXRA|SREBF1|APOE|PPARG|ACOX1|SCD|FASN
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,oxidative_stress,10,0,0,0,0.02371123269439435,NQO1|GPX1|HMOX1|NFE2L2|KEAP1|TXNIP|GCLC|SOD1|SOD2|CAT
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,inflammation_tnf,6,1,0,1,-0.1042363971608234,CCL2|PTGS2|ICAM1|NFKB1|RELA|CXCL8
+GSE212641_hiPSC_endothelial_RNAseq,MEHP_vs_DMSO_72h_paired_limma_logCPM,mitochondrial_stress,8,0,0,0,-0.09669751965726192,PPARGC1A|PINK1|TFAM|DNM1L|NDUFA1|COX4I1|UQCRC1|MFN2
